@@ -48,3 +48,8 @@ source: ""           # 既存作品の場合、元原稿の出所メモ（任意
 | `review`    | レビュー中 |
 | `revising`  | 修正中     |
 | `published` | 公開済み   |
+
+## タグ管理
+
+Medium 記事ごとの確定タグは [`tag-tracker.md`](tag-tracker.md) に記録する
+（1 つ目最重要・固定ペア＋可変、フォロワー数は編集画面で最終確認）。
