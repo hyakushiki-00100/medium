@@ -7,7 +7,7 @@
 | `un.png` | 1600×900 | 吽 / Un |
 | `aun.png` | 1600×900 | 阿吽 / A-un |
 | `nengemisho.png` | 1280×720 | 拈華微笑 / nengemisho |
-| `ikkegoyo.png` | 1280×720 | 一華開五葉 / ikkegoyo |
+| `ikkegoyo.png` | 1280×720 | 一華開五葉 / ikkegoyo（⚠️ 現物は「一華五葉」4 字表記。正式名「一華開五葉」5 字で**要・再生成**） |
 | `kyokasuigetsu.png` | 1280×720 | 鏡花水月 / kyokasuigetsu |
 | `utekisei.png` | 1280×720 | 雨滴声 / utekisei |
 | `houu.png` | 1280×720 | 法雨 / houu |
