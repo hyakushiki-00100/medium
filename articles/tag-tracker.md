@@ -34,18 +34,29 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### タグ未設計（新規記事・要タグ設計）
+### タグ未設計（要タグ設計）
 
-以下は新シリーズ（禅語）。本文は別環境にあり、タグは未設計。編集画面で候補を見ながら確定する。
+本文は取り込み済み（`articles/medium/`）。Medium タグは未設計。編集画面で候補を見ながら確定する。
 
-| 記事 | ファイル | 主タグ候補 | 状態 |
-|---|---|---|---|
-| 拈華微笑（nengemisho） | `medium/nengemisho-en.md` | 未定 | 要タグ設計・本文の確信度ラベル要修正 |
-| 一華開五葉（ikkegoyo） | `medium/ikkegoyo-en.md` | 未定 | 要タグ設計・本文の確信度ラベル要修正 |
-| 鏡花水月（kyokasuigetsu） | （未取り込み） | 未定 | 要タグ設計 |
+**禅語シリーズ**
+
+| 記事 | ファイル | 状態 |
+|---|---|---|
+| 拈華微笑（nengemisho） | `medium/nengemisho-en.md` | 要タグ設計・本文の確信度ラベル要修正 |
+| 一華開五葉（ikkegoyo） | `medium/ikkegoyo-en.md` | 要タグ設計・本文の確信度ラベル要修正 |
+| 鏡花水月（kyokasuigetsu） | `medium/kyokasuigetsu-en.md` | 要タグ設計 |
+
+**雨シリーズ**
+
+| 記事 | ファイル | 状態 |
+|---|---|---|
+| 雨滴声（utekisei） | `medium/utekisei-en.md` | 要タグ設計 |
+| 法雨（houu） | `medium/houu-en.md` | 要タグ設計 |
+| 雨奇晴好（ukiseikou） | `medium/ukiseikou-en.md` | 要タグ設計 |
 
 > 設計時は固定ペア（Self Improvement / Mindfulness）を含め、広リーチ 2 + ニッチ 3 で組む。
 > 制作標準は [`../docs/article-production-standard.md`](../docs/article-production-standard.md)。
+> 各記事の note 版タグ（日本語ハッシュタグ）は `articles/note/*.md` の front matter を参照。
 
 ## 確定前チェック
 
