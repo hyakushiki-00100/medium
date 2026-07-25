@@ -3,7 +3,7 @@ title: "Your Like Count Is a Flower in a Mirror. The Zen Phrase \"Kyōka-Suigets
 platform: medium
 lang: en
 status: ""            # 過去作品。公開状況は要確認
-tags: []              # 要タグ設計（tag-tracker 参照）
+tags: ["Social Media", "Self Improvement", Mindfulness, "Mental Health", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 published_url: ""
 source: "過去作品アップロード（2026-07）。原文は改変せず保持。"
 cover: "../covers/kyokasuigetsu.png"

@@ -3,9 +3,9 @@ title: "\"Results Take Time\" Isn't a Pep Talk. It's the Zen Case for Sequence."
 platform: medium
 lang: en
 status: ""            # 過去作品。公開状況（draft/review/published）は要確認
-tags: []              # 要タグ設計（tag-tracker 参照）
+tags: [Productivity, "Self Improvement", Mindfulness, "Personal Growth", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 published_url: ""
-source: "過去作品アップロード（2026-07）。原文は改変せず保持。本文に確信度ラベル残存（要修正）。"
+source: "過去作品アップロード（2026-07）。確信度ラベルを地の文へ書き換え済み（2026-07-25）。"
 ---
 
 # "Results Take Time" Isn't a Pep Talk. It's the Zen Case for Sequence.
@@ -28,7 +28,7 @@ Tradition holds two interpretations of this line side by side, and it's worth na
 
 The first: Bodhidharma was predicting that the single school of Zen he brought to China would branch into five schools and flourish. It's a fitting prediction — over the following centuries, Chinese Zen did split into five recognized lineages, including what became Rinzai and Sōtō.
 
-The second, associated with the teacher Dōgen: the "one flower" and "five petals" aren't a prophecy about the future at all — they point to nothing more than **the state of mind, fully present, right here and now**. Flower and petals are already here. *Confidence: high that both readings are long-established and taught side by side — this isn't a case of one being the "correct" interpretation.*
+The second, associated with the teacher Dōgen: the "one flower" and "five petals" aren't a prophecy about the future at all — they point to nothing more than **the state of mind, fully present, right here and now**. Flower and petals are already here. Both readings are long-established and have been handed down side by side for centuries; this isn't a case of one being the "correct" interpretation and the other a mistake.
 
 ## A plum tree does not rush its fruit
 

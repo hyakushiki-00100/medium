@@ -3,9 +3,9 @@ title: "\"We Just Get Each Other\" Isn't a Compliment. It's the Zen Story of \"H
 platform: medium
 lang: en
 status: ""            # 過去作品。公開状況（draft/review/published）は要確認
-tags: []              # 要タグ設計（tag-tracker 参照）
+tags: [Communication, "Self Improvement", Mindfulness, Relationships, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 published_url: ""
-source: "過去作品アップロード（2026-07）。原文は改変せず保持。本文に確信度ラベル残存（要修正）。"
+source: "過去作品アップロード（2026-07）。確信度ラベルを地の文へ書き換え済み（2026-07-25）。"
 ---
 
 # "We Just Get Each Other" Isn't a Compliment. It's the Zen Story of "Holding Up a Flower."
@@ -30,7 +30,7 @@ The scripture long cited as the source of this story, the *Sutra of the Question
 
 In writing, the story doesn't clearly settle into Zen literature until around 1183, in the *Compendium of the Linked Flame* (聯燈会要) — roughly 1,700 years after the Buddha's lifetime.
 
-Which suggests something more interesting than a historical record: this is a story later generations distilled, like a single painted image, out of **the value Zen cares about most**. That's likely exactly why it survived so long. *Confidence: high on the historical/textual points above, based on modern scholarly consensus; the story's teaching function, independent of its historicity, is what Zen tradition has actually preserved.*
+Which suggests something more interesting than a historical record: this is a story later generations distilled, like a single painted image, out of **the value Zen cares about most**. That's likely exactly why it survived so long. The textual and historical points above rest on a firm modern scholarly consensus — and whatever the facts of that morning on Vulture Peak, what Zen has actually carried forward was never the event itself, but the teaching the story holds.
 
 ## A culture that puts "unspeakable" straight into the alcove
 

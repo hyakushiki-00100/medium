@@ -34,29 +34,26 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### タグ未設計（要タグ設計）
+### 禅語シリーズ（拈華微笑・一華開五葉・鏡花水月）
 
-本文は取り込み済み（`articles/medium/`）。Medium タグは未設計。編集画面で候補を見ながら確定する。
+| 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
+|---|---|---|---|---|---|---|
+| 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
+| 一華開五葉 ikkegoyo | **Productivity** | Self Improvement | Mindfulness | Personal Growth | Zen | 成果は順序の結果。四半期成果への静かな反論 |
+| 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
 
-**禅語シリーズ**
+### 雨シリーズ（雨滴声・法雨・雨奇晴好）
 
-| 記事 | ファイル | 状態 |
-|---|---|---|
-| 拈華微笑（nengemisho） | `medium/nengemisho-en.md` | 要タグ設計・本文の確信度ラベル要修正 |
-| 一華開五葉（ikkegoyo） | `medium/ikkegoyo-en.md` | 要タグ設計・本文の確信度ラベル要修正 |
-| 鏡花水月（kyokasuigetsu） | `medium/kyokasuigetsu-en.md` | 要タグ設計 |
+| 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
+|---|---|---|---|---|---|---|
+| 雨滴声 utekisei | **Mindfulness** | Self Improvement | Productivity | Psychology | Zen | 知覚・ラベル・注意。判断前の一拍 |
+| 法雨 houu | **Leadership** | Management | Self Improvement | Mindfulness | Zen | 育成/個人差。管理職向け（固定ペアは 3・4 枠に配置） |
+| 雨奇晴好 ukiseikou | **Mindset** | Self Improvement | Mindfulness | Resilience | Zen | 解釈の選択。レジリエンス・リフレーミング |
 
-**雨シリーズ**
-
-| 記事 | ファイル | 状態 |
-|---|---|---|
-| 雨滴声（utekisei） | `medium/utekisei-en.md` | 要タグ設計 |
-| 法雨（houu） | `medium/houu-en.md` | 要タグ設計 |
-| 雨奇晴好（ukiseikou） | `medium/ukiseikou-en.md` | 要タグ設計 |
-
-> 設計時は固定ペア（Self Improvement / Mindfulness）を含め、広リーチ 2 + ニッチ 3 で組む。
-> 制作標準は [`../docs/article-production-standard.md`](../docs/article-production-standard.md)。
-> 各記事の note 版タグ（日本語ハッシュタグ）は `articles/note/*.md` の front matter を参照。
+> - すべて **1 つ目＝記事概要に最も近い語**、固定ペア（Self Improvement / Mindfulness）を必ず含む構成。
+> - **5 枠目の `Zen` は編集画面で `Japan` / `Philosophy` と比較**し、概算フォロワー数の大きい方に差し替えてよい（要・編集画面確認）。
+> - 各記事の note 版タグ（日本語ハッシュタグ）は `articles/note/*.md` の front matter を参照。
+> - 制作標準は [`../docs/article-production-standard.md`](../docs/article-production-standard.md)。
 
 ## 確定前チェック
 
