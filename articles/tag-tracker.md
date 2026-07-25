@@ -38,11 +38,11 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 
 以下は新シリーズ（禅語）。本文は別環境にあり、タグは未設計。編集画面で候補を見ながら確定する。
 
-| 記事 | 主タグ候補 | 状態 |
-|---|---|---|
-| 拈華微笑（nengemisho） | 未定 | 要タグ設計 |
-| 一華開五葉（ikkegoyo） | 未定 | 要タグ設計 |
-| 鏡花水月（kyokasuigetsu） | 未定 | 要タグ設計 |
+| 記事 | ファイル | 主タグ候補 | 状態 |
+|---|---|---|---|
+| 拈華微笑（nengemisho） | `medium/nengemisho-en.md` | 未定 | 要タグ設計・本文の確信度ラベル要修正 |
+| 一華開五葉（ikkegoyo） | `medium/ikkegoyo-en.md` | 未定 | 要タグ設計・本文の確信度ラベル要修正 |
+| 鏡花水月（kyokasuigetsu） | （未取り込み） | 未定 | 要タグ設計 |
 
 > 設計時は固定ペア（Self Improvement / Mindfulness）を含め、広リーチ 2 + ニッチ 3 で組む。
 > 制作標準は [`../docs/article-production-standard.md`](../docs/article-production-standard.md)。
