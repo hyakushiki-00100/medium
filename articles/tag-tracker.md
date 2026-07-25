@@ -34,10 +34,11 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
+| 喝 katsu | **Leadership** | Communication | Self Improvement | Mindfulness | Zen | 新規（draft）。喝＝声量でなく的確な中断。法雨と Leadership が被るため、公開時に先頭を Communication へ回す選択も可 |
 | 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
 | 一華開五葉 ikkegoyo | **Productivity** | Self Improvement | Mindfulness | Personal Growth | Zen | 成果は順序の結果。四半期成果への静かな反論 |
 | 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
