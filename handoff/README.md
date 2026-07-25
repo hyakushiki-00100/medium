@@ -12,3 +12,10 @@
 > note 公開作品は別の NOTE チームが担当します。このチームは note 向けの素材が出たら
 > [`handoff_note.template.md`](handoff_note.template.md) をコピーして
 > `handoff_note_<title>.md` を作成し、NOTE チームへ引き継ぎます。
+
+## note 変換の共通仕様
+
+note で公開できる形に整える際の変換ルール（表→箇条書き・見出しは h2/h3 のみ・
+`---`→区切り線・タグは投稿欄で入力・HTML は直貼り不可 等）は
+[`../docs/note-conversion-guide.md`](../docs/note-conversion-guide.md) にまとめてある。
+引き継ぎ時はこのガイドを共通仕様として参照する。
