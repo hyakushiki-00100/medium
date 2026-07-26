@@ -2,7 +2,7 @@
 title: "\"Results Take Time\" Isn't a Pep Talk. It's the Zen Case for Sequence."
 platform: medium
 lang: en
-status: ""            # 過去作品。公開状況（draft/review/published）は要確認
+status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得
 tags: [Productivity, "Self Improvement", Mindfulness, "Personal Growth", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 published_url: ""
 source: "過去作品アップロード（2026-07）。確信度ラベルを地の文へ書き換え済み（2026-07-25）。"
