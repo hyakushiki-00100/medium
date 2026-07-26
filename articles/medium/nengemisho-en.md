@@ -2,7 +2,7 @@
 title: "\"We Just Get Each Other\" Isn't a Compliment. It's the Zen Story of \"Holding Up a Flower.\""
 platform: medium
 lang: en
-status: ""            # 過去作品。公開状況（draft/review/published）は要確認
+status: draft   # 未公開（2026-07-26 時点・オーナー確認済み）
 tags: [Communication, "Self Improvement", Mindfulness, Relationships, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 published_url: ""
 source: "過去作品アップロード（2026-07）。確信度ラベルを地の文へ書き換え済み（2026-07-25）。"
