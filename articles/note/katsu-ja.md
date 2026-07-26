@@ -6,7 +6,7 @@ status: draft        # draft | review | revising | published
 tags: [禅語, エッセイ, 仏教, 喝, 臨済, マネジメント, マインドフルネス, 集中力]
 created: 2026-07-25
 published_url: ""
-cover: ""            # カバー未作成（../covers/katsu.png を後日追加）
+cover: "../covers/katsu.png"
 source: "新規執筆（禅語シリーズ・note 版）。公開は NOTE チーム担当。"
 ---
 

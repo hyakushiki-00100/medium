@@ -6,7 +6,7 @@ status: draft        # draft | review | revising | published
 tags: [Leadership, Communication, "Self Improvement", Mindfulness, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-07-25
 published_url: ""
-cover: ""            # カバー未作成（../covers/katsu.png を後日追加）
+cover: "../covers/katsu.png"
 source: "新規執筆（禅語シリーズ）。"
 ---
 

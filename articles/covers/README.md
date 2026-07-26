@@ -12,6 +12,7 @@
 | `utekisei.png` | 1280×720 | 雨滴声 / utekisei |
 | `houu.png` | 1280×720 | 法雨 / houu |
 | `ukiseikou.png` | 1280×720 | 雨奇晴好 / ukiseikou |
+| `katsu.png` | 1280×720 | 喝 / katsu（単字） |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。
