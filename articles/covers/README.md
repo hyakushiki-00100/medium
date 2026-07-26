@@ -13,6 +13,7 @@
 | `houu.png` | 1280×720 | 法雨 / houu |
 | `ukiseikou.png` | 1280×720 | 雨奇晴好 / ukiseikou |
 | `katsu.png` | 1280×720 | 喝 / katsu（単字） |
+| `hogejaku.png` | 1280×720 | 放下著 / hogejaku |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。
