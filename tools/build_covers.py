@@ -191,6 +191,7 @@ JOBS = [
     ("katsu", "喝", "禅語"),
     ("hogejaku", "放下著", "禅語"),
     ("genkan", "玄関", "禅語"),
+    ("ichigoichie", "一期一会", "禅語"),
 ]
 
 if __name__ == "__main__":
