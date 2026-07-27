@@ -34,10 +34,11 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
+| 玄関 genkan | **Habits** | Self Improvement | Mindfulness | Japan | Zen | 新規（draft）。日常語「玄関」の禅由来＝敷居は状態を切り替える装置。primary Habits はシリーズ初。公開時に Productivity/Mindfulness へ回す選択も可 |
 | 放下著 hogejaku | **Minimalism** | Self Improvement | Mindfulness | Productivity | Zen | 新規（draft）。手放す／過負荷の荷（＝空っぽへの執着も下ろす）。primary Minimalism はシリーズ初で重複なし |
 | 喝 katsu | **Leadership** | Communication | Self Improvement | Mindfulness | Zen | 新規（draft）。喝＝声量でなく的確な中断。法雨と Leadership が被るため、公開時に先頭を Communication へ回す選択も可 |
 | 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
