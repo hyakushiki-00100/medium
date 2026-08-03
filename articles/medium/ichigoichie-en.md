@@ -2,7 +2,7 @@
 title: "You Will Never Be in This Exact Room Again. The Zen Phrase \"Ichigo Ichie (一期一会).\""
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得
 tags: ["Life Lessons", "Self Improvement", Mindfulness, Relationships, Zen]  # 先頭 Life Lessons はシリーズ初。公開時に Relationships/Mindfulness へ回す選択も可（tag-tracker 参照）
 created: 2026-07-26
 published_url: ""

@@ -2,7 +2,7 @@
 title: "Shouting Louder Doesn't Wake Anyone. The Zen Word \"Katsu (喝).\""
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得
 tags: [Leadership, Communication, "Self Improvement", Mindfulness, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-07-25
 published_url: ""

@@ -2,7 +2,7 @@
 title: "The Doorway Where You Take Off Your Shoes Means \"Gate to the Profound.\" The Zen Word \"Genkan (玄関).\""
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得
 tags: [Habits, "Self Improvement", Mindfulness, Japan, Zen]  # 先頭 Habits はシリーズ初。公開時に Productivity/Mindfulness へ回す選択も可（tag-tracker 参照）
 created: 2026-07-26
 published_url: ""
