@@ -17,6 +17,7 @@
 | `genkan.png` | 1280×720 | 玄関 / genkan |
 | `ichigoichie.png` | 1280×720 | 一期一会 / ichigoichie |
 | `kankyakka.png` | 1280×720 | 看脚下 / kankyakka |
+| `shujinko.png` | 1280×720 | 主人公 / shujinko |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。
