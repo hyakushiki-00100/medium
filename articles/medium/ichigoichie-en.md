@@ -7,26 +7,26 @@ tags: ["Life Lessons", "Self Improvement", Mindfulness, Relationships, Zen]  # �
 created: 2026-07-26
 published_url: ""
 cover: "../covers/ichigoichie.png"
-source: "新規執筆（禅語シリーズ）。"
+source: "新規執筆（禅語シリーズ）。話者ペルソナ観点で磨き直し済み（2026-07-26）。"
 ---
 
 # You Will Never Be in This Exact Room Again. The Zen Phrase "Ichigo Ichie (一期一会)."
 
-We schedule meetings as if they were repeatable. "Let's circle back next week." "We'll pick this up next time." The Japanese phrase *ichigo ichie* (一期一会) — "one lifetime, one meeting" — says something quietly unsettling: there is no next time. Not really. This exact gathering — these people, this mood, this version of them and of you — will never assemble again.
+We schedule meetings as if they were reruns. "Let's circle back next week." "We'll pick this up next time." The Japanese phrase *ichigo ichie* (一期一会) — "one lifetime, one meeting" — makes a quietly unsettling claim: there is no next time, not really. This exact gathering — these people, this mood, this version of them and of you — assembles once and never again.
 
 ## A phrase born in the tea room
 
-*Ichigo ichie* comes from the world of the tea ceremony. *Ichigo* (一期) means one lifetime, from birth to death; *ichie* (一会), a single meeting. The idea was crystallized in the mid-1800s by the tea master and statesman Ii Naosuke, in his writing on tea, drawing on an earlier note by a disciple of the great Sen no Rikyū: even if host and guest were to meet many times, *this particular* gathering happens only once, and so should be met with complete sincerity — as if it were the only one.
+*Ichigo ichie* comes out of the tea ceremony. *Ichigo* (一期) means one lifetime, birth to death; *ichie* (一会), a single meeting. The phrase was set down in the mid-1800s by the tea master and statesman Ii Naosuke, who was building on an earlier remark by a disciple of the great Sen no Rikyū: however many times host and guest might meet again, *this* gathering happens exactly once, and deserves to be met with the full sincerity of a last encounter.
 
-Tea and Zen share a root here — *cha-zen ichimi*, "tea and Zen, one taste" — and the shared root is impermanence. Nothing recurs. The same tea, poured for the same person tomorrow, is a different event. The host who prepares a bowl knowing the guest will never sit in exactly this light again gives it a care that a repeatable event could never earn.
+Tea and Zen share a root here — *cha-zen ichimi*, "tea and Zen, one taste" — and that root is impermanence. Nothing recurs. The same tea, poured for the same guest tomorrow, is a different occasion entirely. A host who prepares the bowl knowing the guest will never again sit in exactly this light pours something into it that no repeatable event could earn.
 
-(The precise history is layered — the phrase was shaped over generations before Ii Naosuke fixed it in writing — but this is the standard account of where it settled.)
+(The history is layered — the phrase was refined over generations before Ii Naosuke committed it to paper — but this is the standard account of how it came together.)
 
 ## What we get wrong about "next time"
 
-We survive on the assumption of repetition. It's a useful assumption; you couldn't plan anything without it. But it quietly corrodes presence. If there's always a next time, then this time doesn't fully count — so you attend at seventy percent, glance at your phone, and save your real attention for a version of the meeting that never comes.
+Most of daily life runs on the assumption of repetition. It's a useful assumption — you couldn't plan a calendar without it — but it quietly corrodes presence. If there's always a next time, this time doesn't fully count, so you show up at seventy percent, check your phone under the table, and save your real attention for a version of the meeting that never arrives.
 
-The trouble is that "next time" is a different meeting. The person will have changed. The context will have moved. Some of the people at the table won't be there at all. The meeting you half-attend today isn't postponed to a better one. It's simply spent, at seventy percent, and gone.
+The trouble is that "next time" is a different meeting entirely. The person will have changed. The context will have moved on. Some of the people at the table won't be there at all. The meeting you half-attend today isn't deferred to a better one — it's simply spent, at seventy percent, and gone.
 
 ## Where this lands at work
 
@@ -37,7 +37,7 @@ The trouble is that "next time" is a different meeting. The person will have cha
 
 ## The people at your table
 
-There's a version of this that has nothing to do with work. We keep deferring presence to a calmer future — *once this project ships, once things settle, then I'll really be there* for the people I care about. But every ordinary dinner, every unremarkable phone call on the way home, is a one-time gathering. The specific people at your table now will not all be there later. That isn't morbid; it's simply true, and it's the whole reason the phrase has survived. Rikyū's students weren't being sentimental about teacups. They were being accurate about time.
+There's a version of this that has nothing to do with the office. We keep deferring presence to a calmer future — *once this project ships, once things settle down, I'll really be there* for the people who matter to me. But every ordinary dinner, every unremarkable phone call on the drive home, is a one-time gathering. The particular people at your table tonight will not all be there later. That isn't a morbid observation; it's simply an accurate one, and it's the whole reason the phrase has outlasted the century it was coined in. Rikyū's students weren't being sentimental about teacups. They were being precise about time.
 
 ## In closing
 
