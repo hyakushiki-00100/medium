@@ -7,7 +7,7 @@ tags: ["Life Lessons", "Self Improvement", Mindfulness, Relationships, Zen]  # �
 created: 2026-07-26
 published_url: ""
 cover: "../covers/ichigoichie.png"
-source: "新規執筆（禅語シリーズ）。話者ペルソナ観点で磨き直し済み（2026-07-26）。"
+source: "新規執筆（禅語シリーズ）。話者ペルソナ観点で磨き直し済み（2026-07-26）。Opus による精査を受け修正済み（2026-07-26）: 年代の矛盾（400年→centuries）を修正・史実性の注記を強化。"
 ---
 
 # You Will Never Be in This Exact Room Again. The Zen Phrase "Ichigo Ichie (一期一会)."
@@ -20,7 +20,7 @@ We schedule meetings as if they were reruns. "Let's circle back next week." "We'
 
 Tea and Zen share a root here — *cha-zen ichimi*, "tea and Zen, one taste" — and that root is impermanence. Nothing recurs. The same tea, poured for the same guest tomorrow, is a different occasion entirely. A host who prepares the bowl knowing the guest will never again sit in exactly this light pours something into it that no repeatable event could earn.
 
-(The history is layered — the phrase was refined over generations before Ii Naosuke committed it to paper — but this is the standard account of how it came together.)
+(Worth being precise about the history: the phrasing was refined over generations before Ii Naosuke fixed it in writing in the mid-1800s. What survives with certainty is the teaching, not a clean chain of single-author attribution.)
 
 ## What we get wrong about "next time"
 
@@ -33,7 +33,7 @@ The trouble is that "next time" is a different meeting entirely. The person will
 - **The one-on-one you phone in.** The report sitting across from you today is not the same person they'll be in six months — same name, different moment. This is the only conversation you'll ever have with *this* version of them.
 - **The customer call you treat as routine.** You may get another call, but not this one, with this opening. Full attention here isn't a courtesy; it's the only way to actually meet what's in front of you.
 - **The introduction you rush.** Meeting someone for the first time happens exactly once. Whatever attention you fail to bring, you don't get to bring later — first meetings have no retake.
-- **The second screen.** Splitting your attention assumes the meeting is recoverable later. It isn't. Ichigo ichie is the case against the second screen, made four hundred years before the screen existed.
+- **The second screen.** Splitting your attention assumes the meeting is recoverable later. It isn't. Ichigo ichie is the case against the second screen, made centuries before the screen existed.
 
 ## The people at your table
 
