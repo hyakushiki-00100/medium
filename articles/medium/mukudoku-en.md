@@ -7,7 +7,7 @@ tags: [Generosity, "Self Improvement", Mindfulness, Leadership, Zen]  # 5枠目 
 created: 2026-07-27
 published_url: ""
 cover: "../covers/mukudoku.png"
-source: "新規執筆（禅語シリーズ）。事実確認済み（碧巌録第一則）。"
+source: "新規執筆（禅語シリーズ）。事実確認済み（碧巌録第一則）。Opus による精査を受け修正済み（2026-07-27）: 編纂年を修正（1128→1125年）・「善行でなくなる/やめる」の論理矛盾を解消・武帝の同泰寺捨身という文化的具体物を追加。"
 ---
 
 # You Did the Right Thing. Stop Waiting for the Receipt. The Zen Answer "No Merit" (無功徳).
@@ -16,11 +16,13 @@ Emperor Wu of Liang had, by any reasonable accounting, done an enormous amount o
 
 ## An emperor asks for his receipt
 
-Bodhidharma is traditionally credited as the founder of Zen in China, though how much of his biography is history and how much is later legend is genuinely unclear — his own dates are disputed, and this exact exchange survives mainly through much later retellings. What isn't in dispute is how the story functions in the tradition: Emperor Wu, a serious and generous patron of Buddhism, lists his accomplishments and asks for the tally. Bodhidharma refuses to give him one. The emperor, baffled, presses further — asks what the highest truth of Buddhism actually is. Bodhidharma answers, "Vast emptiness, nothing holy." The emperor asks who, then, is standing before him. "I don't know," Bodhidharma says, and leaves for the kingdom of Wei.
+Bodhidharma is traditionally credited as the founder of Zen in China, though how much of his biography is history and how much is later legend is genuinely unclear — his own dates are disputed, and this exact exchange survives mainly through much later retellings. Emperor Wu's own devotion, by contrast, is well documented and was extravagant even by the standards of pious rulers: on four separate occasions he donated himself to Tongtai Temple as an ordinary monk, and each time his officials had to buy him back from monastic life with a small fortune in coin — once reportedly a hundred million, later two hundred million — before he could return to the throne. This was not a man making a modest inquiry about his standing.
+
+What isn't in dispute is how the story functions in the tradition: Emperor Wu lists his accomplishments and asks for the tally. Bodhidharma refuses to give him one. The emperor, baffled, presses further — asks what the highest truth of Buddhism actually is. Bodhidharma answers, "Vast emptiness, nothing holy." The emperor asks who, then, is standing before him. "I don't know," Bodhidharma says, and leaves for the kingdom of Wei.
 
 ## What "no merit" doesn't mean
 
-It's tempting to read this as Bodhidharma dismissing the emperor's works as worthless. He wasn't. Temples got built either way; monks were fed either way. The refusal wasn't aimed at the deeds. It was aimed at the ledger the emperor was keeping alongside them — the quiet expectation that virtue, deposited correctly, should accrue interest and eventually pay out. Good works done *toward* a return aren't disqualified from being good works, but they've been quietly converted into a transaction, and a transaction is a much smaller thing than what the emperor thought he was engaged in.
+It's tempting to read this as Bodhidharma dismissing the emperor's works as worthless. He wasn't. The temples stayed built; the monks stayed fed. The refusal wasn't aimed at the deeds — it was aimed at the ledger the emperor was keeping alongside them, the quiet expectation that virtue, deposited correctly, should accrue interest and eventually pay out. The deed itself doesn't stop counting because someone was hoping for a return on it. What changes is what's actually occupying the person at the moment of giving: part of their attention is on the gift, and part is already at the teller's window, waiting for the payout. That second part is the smaller thing riding along inside the larger one.
 
 ## Where this lands at work
 
@@ -36,7 +38,7 @@ There's a private version of this that has nothing to do with anyone watching. P
 
 ## In closing
 
-Mukudoku isn't nihilism about good deeds. It's a refusal to let them get quietly annexed by the accounting department. Build the temple. Feed the monks. Do the actual work in front of you. And when you catch yourself waiting for the return on it — recognition, gratitude, some future favor owed — that's the moment worth noticing, not because the waiting is a moral failure, but because it means you've stopped doing the good thing and started doing something smaller that merely resembles it.
+Mukudoku isn't nihilism about good deeds. It's a refusal to let them get quietly annexed by the accounting department. Build the temple. Feed the monks. Do the actual work in front of you — the deed stands on its own and needs nothing further from you to be complete. And when you catch part of your attention already at the teller's window, waiting for recognition, gratitude, some future favor owed, that's worth noticing too — not as a moral failure, but as a second, smaller transaction quietly opened alongside the first.
 
 ---
-*Sources: the Blue Cliff Record (碧巌録), Case 1, compiled by Yuanwu Keqin around 1128 from Xuedou Chongxian's earlier verse commentary; general accounts of the Bodhidharma–Emperor Wu exchange in Zen reference literature. Bodhidharma's precise historicity remains debated among scholars.*
+*Sources: the Blue Cliff Record (碧巌録), Case 1, compiled by Yuanwu Keqin in 1125 as commentary on Xuedou Chongxian's earlier verse collection (compiled c. 1038); historical accounts of Emperor Wu of Liang's repeated self-donation to Tongtai Temple; general accounts of the Bodhidharma–Emperor Wu exchange in Zen reference literature. Bodhidharma's precise historicity remains debated among scholars.*
