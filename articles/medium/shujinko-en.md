@@ -2,7 +2,7 @@
 title: "Master, Are You There? The Zen Habit of Calling Your Own Name (主人公)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得
 tags: ["Self Awareness", "Self Improvement", Mindfulness, "Mental Health", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-07-26
 published_url: ""
