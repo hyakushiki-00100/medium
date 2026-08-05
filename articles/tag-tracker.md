@@ -34,11 +34,12 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
-| 無功徳 mukudoku | **Generosity** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。梁武帝と達磨「無功徳」問答＝見返り目当ての善行は取引に姿を変える。primary Generosity はシリーズ初 |
+| 隻手の声 sekishu | **Critical Thinking** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。白隠慧鶴の公案＝論理で解けない問いを「解こうとせず留まる」。看脚下（まだ解ける一歩がある）とは対照的な切り口。primary Critical Thinking はシリーズ初 |
+| 無功徳 mukudoku | **Generosity** | Self Improvement | Mindfulness | Leadership | Zen | 公開済み。梁武帝と達磨「無功徳」問答＝見返り目当ての善行は取引に姿を変える。primary Generosity はシリーズ初 |
 | 主人公 shujinko | **Self Awareness** | Self Improvement | Mindfulness | Mental Health | Zen | 公開済み。瑞巌師彦の日課「主人公!／はい」＝自分の内側の主導権の点検。primary Self Awareness はシリーズ初（genkan の Habits と被らないよう選定） |
 | 看脚下 kankyakka | **Decision Making** | Productivity | Self Improvement | Mindfulness | Zen | 新規（draft）。不確実性下では遠い地平線でなく足元の一歩＝分析麻痺への処方。primary Decision Making はシリーズ初 |
 | 一期一会 ichigoichie | **Life Lessons** | Self Improvement | Mindfulness | Relationships | Zen | 新規（draft）。反復前提が「今ここ」を蝕む＝会議/対話の全注意。primary Life Lessons はシリーズ初。公開時に Relationships/Mindfulness へ回す選択も可 |
