@@ -2,7 +2,7 @@
 title: "You Did the Right Thing. Stop Waiting for the Receipt. The Zen Answer \"No Merit\" (無功徳)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得
 tags: [Generosity, "Self Improvement", Mindfulness, Leadership, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-07-27
 published_url: ""
