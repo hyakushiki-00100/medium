@@ -20,6 +20,7 @@
 | `shujinko.png` | 1280×720 | 主人公 / shujinko |
 | `mukudoku.png` | 1280×720 | 無功徳 / mukudoku |
 | `sekishu.png` | 1280×720 | 隻手の声 / sekishu |
+| `byojoshin.png` | 1280×720 | 平常心是道 / byojoshin |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。
