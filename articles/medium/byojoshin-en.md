@@ -7,12 +7,12 @@ tags: ["Mental Health", "Self Improvement", Mindfulness, Productivity, Zen]  # �
 created: 2026-08-06
 published_url: ""
 cover: "../covers/byojoshin.png"
-source: "新規執筆（禅語シリーズ）。事実確認済み（無門関第十九則）。Opus による精査を受け修正済み（2026-08-06）: 「four words」の数え間違いを修正（正しくは5語）・馬祖道一への帰属を追記・文化的具体物（南泉山での自給生活）を追加・出典を具体化・genkan/shujinko との重複を調整・主タグを Productivity から Mental Health に変更（ikkegoyo と重複のため）。"
+source: "新規執筆（禅語シリーズ）。事実確認済み（無門関第十九則）。Opus による精査を受け修正済み（2026-08-06）: 「four words」の数え間違いを修正（正しくは5語）・馬祖道一への帰属を追記・文化的具体物（南泉山での自給生活）を追加・出典を具体化・genkan/shujinko との重複を調整・主タグを Productivity から Mental Health に変更（ikkegoyo と重複のため）。読み仮名を修正（2026-08-06）: 「kore michi」→「kore dō」（正しくは「びょうじょうしんこれどう」、WebSearchで再確認）。"
 ---
 
 # Stop Chasing the Peak State. The Zen Answer "Ordinary Mind Is the Way" (平常心是道).
 
-A student asks his teacher what the Way actually is — the whole point of the practice, the thing everyone is supposedly training toward. The teacher's answer is five words. *Byōjōshin kore michi.* Ordinary mind is the Way. Not an elevated mind, not a mind in the zone, not a peak state you have to earn. The plain, unremarkable mind you're using to read this sentence.
+A student asks his teacher what the Way actually is — the whole point of the practice, the thing everyone is supposedly training toward. The teacher's answer is five words. *Byōjōshin kore dō.* Ordinary mind is the Way. Not an elevated mind, not a mind in the zone, not a peak state you have to earn. The plain, unremarkable mind you're using to read this sentence.
 
 ## A famous teacher, an even more famous student
 
