@@ -197,6 +197,7 @@ JOBS = [
     ("mukudoku", "無功徳", "禅語"),
     ("sekishu", "隻手の声", "禅語"),
     ("byojoshin", "平常心是道", "禅語"),
+    ("kyogen", "香厳撃竹", "禅語"),
 ]
 
 if __name__ == "__main__":
