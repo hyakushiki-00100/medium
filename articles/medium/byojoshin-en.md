@@ -26,7 +26,7 @@ That second line is the whole teaching, and it's easy to read past it. The Way i
 
 This isn't a claim that calm is the goal, or that effort is bad. Ordinary mind isn't a mood at all. It's the mind doing whatever's in front of it — sweeping a floor, answering an email — without a second layer of commentary running on top, quietly grading the performance. The "peak state" everyone chases is usually just ordinary mind plus a great deal of anxious narration about whether it's the right state. Drop the narration, and what's left was already sufficient.
 
-## Where this lands at work
+## Where the reaching shows up at work
 
 - **Waiting to feel ready.** Motivation gets treated as a prerequisite for starting. The steadier move is the reverse — begin in an entirely ordinary state and let engagement arrive through the work itself, not before it.
 - **The fragile setup.** "I do my best work in total silence, after my routine, on no sleep debt." Every condition you require is a condition that can be taken away. Ordinary mind is what still functions on the noisy, under-slept, imperfect Tuesday.

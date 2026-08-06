@@ -24,7 +24,7 @@ Ask around and you'll hear the workarounds: hold up one hand, wave it, snap with
 
 That exhaustion is the design, not a bug in it. The question keeps every analytical door locked long enough that eventually you stop reaching for the doorknob.
 
-## Where this lands at work
+## Where cleverness runs out at work
 
 Most professional training rewards exactly the move this koan forbids: find the clever answer, present it with confidence, move on. That instinct is often right. Occasionally it runs straight into a wall it can't talk its way past.
 
