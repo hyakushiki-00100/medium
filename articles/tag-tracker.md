@@ -34,11 +34,11 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（一隅を照らす・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
-| 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 新規（draft）。蔵書を焼き瓦の音で悟った逸話＝知識・資格の蓄積が直接の理解を妨げることがある。primary Expertise はシリーズ初 |
+| 一隅を照らす ichigu | **Impact** | Self Improvement | Mindfulness | Career | Zen | 新規（draft）。最澄『山家学生式』＝規模・可視性でなく、自分の持ち場を誠実に照らすことの価値。primary Impact はシリーズ初。4枠目は Personal Growth（ikkegoyo・kyogen と重複）を避け Career に変更 |
 | 平常心是道 byojoshin | **Mental Health** | Self Improvement | Mindfulness | Productivity | Zen | 公開済み。南泉・趙州の問答＝ピーク状態を追うほど道から遠ざかる。「特別な状態」志向へのアンチテーゼ。primary は当初 Productivity だったが ikkegoyo と重複のため Mental Health に変更 |
 | 隻手の声 sekishu | **Critical Thinking** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。白隠慧鶴の公案＝論理で解けない問いを「解こうとせず留まる」。看脚下（まだ解ける一歩がある）とは対照的な切り口。primary Critical Thinking はシリーズ初 |
 | 無功徳 mukudoku | **Generosity** | Self Improvement | Mindfulness | Leadership | Zen | 公開済み。梁武帝と達磨「無功徳」問答＝見返り目当ての善行は取引に姿を変える。primary Generosity はシリーズ初 |
