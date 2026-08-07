@@ -1,14 +1,19 @@
 """
-禅語シリーズ カバー画像生成 (雨シリーズのリファレンス画像を参考に再現)
-- 背景 #F7F5F0 / 本文墨色 #2B2B28 / アクセント #2C3E50
-- 縦書きの禅語タイトル(大)+「禅語」ラベル(小)
+カバー画像生成 (雨シリーズのリファレンス画像を参考に再現)
+- 禅語シリーズ（JOBS）: 背景 #F7F5F0 / 本文墨色 #2B2B28 / アクセント #2C3E50。
+  縦書きの禅語タイトル(大)+「禅語」ラベル(小)。モチーフ無しのプレーン構図。
+- 仏教語シリーズ（JOBS_BUDDHIST）: 背景・アクセントカラーを禅語シリーズと変え、
+  禅語シリーズには無い「法輪」の背景モチーフを加える（draw_dharma_wheel）。
+  サムネイル（中央正方形クロップ）だけでもシリーズの違いが分かることを狙いにしている。
+  新シリーズを追加する場合は、この2シリーズと同様に背景色・アクセントカラー・モチーフの
+  3点を必ず変えること（docs/article-production-standard.md 参照）。
 - 筆致テクスチャ: 輪郭ジッター、擦れ(dry-brush)、にじみ(ink bleed)、太細(pressure taper)
 - 4倍スーパーサンプリング -> LANCZOSダウンサンプル
 - 字数に応じて字サイズを自動調整するため、縦1列のまま任意の字数に対応
-  （長い禅語はカバーも正式名のまま。表記は削らない。docs/article-production-standard.md 参照）
+  （長い語もカバーは正式名のまま。表記は削らない。docs/article-production-standard.md 参照）
 
 使い方:
-  python3 tools/build_covers.py            # jobs 全件を articles/covers/ に生成
+  python3 tools/build_covers.py            # JOBS + JOBS_BUDDHIST 全件を articles/covers/ に生成
   python3 tools/build_covers.py ikkegoyo   # 指定スラッグのみ再生成
   COVER_OUT_DIR=/path python3 tools/build_covers.py   # 出力先を上書き
 
@@ -209,6 +214,9 @@ def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, b
     final = add_paper_grain(final, seed=seed)
 
     # 端にインクが到達していないか検査 (numpyピクセル検査)
+    # 背景を暗く/暖色にするシリーズが増えるほどこの閾値との余裕は減る
+    # （仏教語シリーズの生成り色 #F2E8D4 で輝度マージンは約21）。
+    # 新シリーズで背景をさらに暗くする場合は、この余裕を実測で確認すること。
     arr = np.array(final.convert("L"))
     edge = np.concatenate([arr[0, :], arr[-1, :], arr[:, 0], arr[:, -1]])
     assert edge.min() > 200, "インクが画像端に到達しています"

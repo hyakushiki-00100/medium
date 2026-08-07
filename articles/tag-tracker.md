@@ -50,13 +50,17 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
 | 一華開五葉 ikkegoyo | **Productivity** | Self Improvement | Mindfulness | Personal Growth | Zen | 成果は順序の結果。四半期成果への静かな反論 |
 | 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
+| 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 新規（draft）。潙山霊祐の問いに答えられず蔵書を焼いた香厳智閑＝知識と実感の違い。primary Expertise はシリーズ初 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
 > 禅宗（中国禅・日本の臨済宗/曹洞宗）に限らない、広く仏教の言葉を扱う新シリーズ。
-> 禅語シリーズとは文体・カバーデザイン（アクセントカラー琥珀色・ラベル「仏教語」）を差別化。
+> 禅語シリーズとは文体・カバーデザイン（背景色・アクセントカラー琥珀色・法輪モチーフ・ラベル「仏教語」）を差別化。
 > 経緯: 一隅を照らすは当初「禅語」として制作したが、実際は天台宗開祖・最澄の言葉であり
 > 禅語ではないと判明したため分離（2026-08-06）。
+> ⚠️ Opus による精査（2026-08-07）でテーマの指摘: 一隅を照らすの核（見えない仕事・承認より実質）は
+> 禅語シリーズの無功徳・主人公と重なる部分がある。シリーズを分けても同じ Medium プロフィール/読者に
+> 届くため、今後 仏教語シリーズに追加する記事は角度の重複に注意すること。
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|

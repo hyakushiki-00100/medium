@@ -25,7 +25,10 @@ model: inherit
 - **タグ**: Medium 5 枠目は `Zen` ではなく `Buddhism`（宗派に応じてさらに具体化してよい）。
 - **note ハッシュタグ**: `#禅語` ではなく `#仏教語`。
 - **カバー**: `tools/build_covers.py` の `JOBS_BUDDHIST` に追加し、`accent_color=BUDDHIST_ACCENT_COLOR`
-  （琥珀色 `#8B5A2B`）・ラベル「仏教語」で生成する。`JOBS`（禅語シリーズ用リスト）には追加しない。
+  （琥珀色）・`bg_color=BUDDHIST_BG_COLOR`（生成り色）・`motif="dharma_wheel"`（法輪の背景モチーフ）・
+  ラベル「仏教語」の**4点セット**で生成する。禅語シリーズはプレーン背景・モチーフ無しのため、
+  アクセントカラーだけ変えてもサムネイル（中央正方形クロップ）では見分けにくい。`JOBS`
+  （禅語シリーズ用リスト）には追加しない。
 - **front matter**: `series: "仏教語シリーズ（禅語シリーズとは別）"` を明記し、`source:` に分離の経緯があれば記す。
 
 ## 書き方（禅語シリーズと共通）
