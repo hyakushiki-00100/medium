@@ -133,7 +133,8 @@ def add_paper_grain(img, seed=1):
     return Image.fromarray(arr)
 
 
-def make_cover(title_chars, label_chars, out_path, seed=42):
+def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None):
+    accent = accent_color or ACCENT_COLOR
     canvas = Image.new("RGBA", (SS_W, SS_H), BG_COLOR + (255,))
 
     n = len(title_chars)
@@ -149,13 +150,13 @@ def make_cover(title_chars, label_chars, out_path, seed=42):
 
     paste_vertical_column(canvas, title_chars, center_x, top_y, char_size, gap_ratio, INK_COLOR, seed, wear_curve=True)
 
-    # ラベル「禅語」(小・アクセントカラー・タイトルの右上)
+    # ラベル(小・アクセントカラー・タイトルの右上)。シリーズごとに label_chars / accent_color を切り替え可能
     label_size = char_size * 0.30
     label_gap = 0.30
     label_total_h = label_size * len(label_chars) + label_size * label_gap * (len(label_chars) - 1)
     label_top = top_y + char_size * 0.15
     label_center_x = center_x + char_size * 0.95
-    paste_vertical_column(canvas, label_chars, label_center_x, label_top, label_size, label_gap, ACCENT_COLOR, seed + 100)
+    paste_vertical_column(canvas, label_chars, label_center_x, label_top, label_size, label_gap, accent, seed + 100)
 
     # ダウンサンプル
     final = canvas.convert("RGB").resize((OUT_W, OUT_H), Image.LANCZOS)
@@ -184,6 +185,7 @@ def make_thumbnail(cover_img, out_path):
 
 
 # slug -> (タイトル, ラベル)。タイトルはカバーも正式名のまま（表記を削らない）。
+# 禅語シリーズ専用。禅宗(中国禅・日本の臨済宗/曹洞宗)の言葉のみ、ラベルは「禅語」固定。
 JOBS = [
     ("nengemisho", "拈華微笑", "禅語"),
     ("ikkegoyo", "一華開五葉", "禅語"),
@@ -198,7 +200,13 @@ JOBS = [
     ("sekishu", "隻手の声", "禅語"),
     ("byojoshin", "平常心是道", "禅語"),
     ("kyogen", "香厳撃竹", "禅語"),
-    ("ichigu", "一隅を照らす", "禅語"),
+]
+
+# 仏教語シリーズ専用。禅宗に限らない仏教の言葉（天台宗・浄土宗 等）。
+# 禅語シリーズと混同しないよう、ラベル文言とアクセントカラーを変える。
+BUDDHIST_ACCENT_COLOR = (139, 90, 43)  # 温かみのある琥珀色（禅語シリーズの #2C3E50 と区別）
+JOBS_BUDDHIST = [
+    ("ichigu", "一隅を照らす", "仏教語"),
 ]
 
 if __name__ == "__main__":
@@ -211,3 +219,7 @@ if __name__ == "__main__":
         if only and slug not in only:
             continue
         make_cover(title, label, os.path.join(out_dir, f"{slug}.png"), seed=42 + i * 17)
+    for i, (slug, title, label) in enumerate(JOBS_BUDDHIST):
+        if only and slug not in only:
+            continue
+        make_cover(title, label, os.path.join(out_dir, f"{slug}.png"), seed=142 + i * 17, accent_color=BUDDHIST_ACCENT_COLOR)

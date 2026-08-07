@@ -22,7 +22,7 @@
 | `sekishu.png` | 1280×720 | 隻手の声 / sekishu |
 | `byojoshin.png` | 1280×720 | 平常心是道 / byojoshin |
 | `kyogen.png` | 1280×720 | 香厳撃竹 / kyogen |
-| `ichigu.png` | 1280×720 | 一隅を照らす / ichigu |
+| `ichigu.png` | 1280×720 | 一隅を照らす / ichigu（**仏教語シリーズ**。禅語シリーズと差別化するため唯一アクセントカラーが琥珀色 `#8B5A2B`・ラベルが「仏教語」。他は全て禅語シリーズ＝ネイビー `#2C3E50`・ラベル「禅語」） |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。

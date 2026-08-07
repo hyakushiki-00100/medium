@@ -3,11 +3,12 @@ title: "Ten Flawless Gems Aren't the Treasure. Lighting Your Own Corner Is. Saic
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published
-tags: [Impact, "Self Improvement", Mindfulness, Career, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
+tags: [Impact, "Self Improvement", Mindfulness, Career, Buddhism]  # 5枠目は Zen ではなく Buddhism（本記事は天台宗であり禅宗ではないため）。編集画面で Japan/Philosophy とも比較（tag-tracker 参照）
 created: 2026-08-06
 published_url: ""
 cover: "../covers/ichigu.png"
-source: "新規執筆（禅語シリーズ）。事実確認済み（山家学生式・最澄の生没年・照千一隅/照于一隅の異同）。"
+series: "仏教語シリーズ（禅語シリーズとは別。最澄・天台宗のため）"
+source: "新規執筆（仏教語シリーズ）。事実確認済み（山家学生式・最澄の生没年・照千一隅/照于一隅の異同）。当初「禅語シリーズ」として執筆したが、一隅を照らすは天台宗の教えであり禅語ではないと判明したため、仏教語シリーズとして分離（2026-08-06）。"
 ---
 
 # Ten Flawless Gems Aren't the Treasure. Lighting Your Own Corner Is. Saichō's "Ichigū o Terasu" (一隅を照らす).
