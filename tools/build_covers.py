@@ -16,6 +16,7 @@
 """
 import os
 import sys
+import math
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 import random
@@ -133,9 +134,51 @@ def add_paper_grain(img, seed=1):
     return Image.fromarray(arr)
 
 
-def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None):
+def draw_dharma_wheel(canvas, center, radius, color, seed=1, alpha=42, spokes=8):
+    """法輪(だるまホイール)のうっすらとした背景モチーフ。仏教語シリーズ専用。
+    禅語シリーズには存在しないシルエットのため、サムネイル(中央クロップ)だけでも
+    シリーズの違いが一目で分かるようにする。円相(禅画の丸)と混同しないよう、
+    二重の輪+ハブ+放射スポークという法輪の構造で描く。"""
+    layer = Image.new("RGBA", canvas.size, (0, 0, 0, 0))
+    d = ImageDraw.Draw(layer)
+    cx, cy = center
+    rng = random.Random(seed)
+    line_w = max(2, int(radius * 0.018))
+    rgba = tuple(color) + (alpha,)
+
+    def wobbly_ellipse(r):
+        # 定規で引いたような機械的な円にならないよう、微小に中心をずらして2重に描く
+        for _ in range(2):
+            jx = rng.uniform(-radius * 0.006, radius * 0.006)
+            jy = rng.uniform(-radius * 0.006, radius * 0.006)
+            d.ellipse(
+                [cx - r + jx, cy - r + jy, cx + r + jx, cy + r + jy],
+                outline=rgba, width=line_w,
+            )
+
+    outer_r = radius
+    inner_r = radius * 0.82
+    hub_r = radius * 0.13
+    wobbly_ellipse(outer_r)
+    wobbly_ellipse(inner_r)
+    wobbly_ellipse(hub_r)
+
+    for i in range(spokes):
+        angle = 2 * math.pi * i / spokes
+        x1 = cx + hub_r * math.cos(angle)
+        y1 = cy + hub_r * math.sin(angle)
+        x2 = cx + inner_r * math.cos(angle)
+        y2 = cy + inner_r * math.sin(angle)
+        d.line([x1, y1, x2, y2], fill=rgba, width=line_w)
+
+    layer = layer.filter(ImageFilter.GaussianBlur(radius=radius * 0.006))
+    canvas.alpha_composite(layer)
+
+
+def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, bg_color=None, motif=None):
     accent = accent_color or ACCENT_COLOR
-    canvas = Image.new("RGBA", (SS_W, SS_H), BG_COLOR + (255,))
+    bg = bg_color or BG_COLOR
+    canvas = Image.new("RGBA", (SS_W, SS_H), bg + (255,))
 
     n = len(title_chars)
     margin_ratio = 0.16
@@ -147,6 +190,9 @@ def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None):
     total_h = char_size * n + char_size * gap_ratio * (n - 1)
     top_y = (SS_H - total_h) / 2
     center_x = SS_W * 0.46
+
+    if motif == "dharma_wheel":
+        draw_dharma_wheel(canvas, (center_x, SS_H / 2), radius=SS_H * 0.30, color=accent, seed=seed)
 
     paste_vertical_column(canvas, title_chars, center_x, top_y, char_size, gap_ratio, INK_COLOR, seed, wear_curve=True)
 
@@ -203,7 +249,10 @@ JOBS = [
 ]
 
 # 仏教語シリーズ専用。禅宗に限らない仏教の言葉（天台宗・浄土宗 等）。
-# 禅語シリーズと混同しないよう、ラベル文言とアクセントカラーを変える。
+# 禅語シリーズと混同しないよう、背景色・アクセントカラー・ラベル文言に加えて
+# 禅語シリーズには存在しない「法輪」の背景モチーフを入れる。
+# サムネイル(中央クロップ)だけでもシリーズの違いが分かることを狙いにしている。
+BUDDHIST_BG_COLOR = (242, 232, 212)   # 温かみのある生成り色（禅語シリーズの #F7F5F0 は寒色寄りの白）
 BUDDHIST_ACCENT_COLOR = (139, 90, 43)  # 温かみのある琥珀色（禅語シリーズの #2C3E50 と区別）
 JOBS_BUDDHIST = [
     ("ichigu", "一隅を照らす", "仏教語"),
@@ -222,4 +271,10 @@ if __name__ == "__main__":
     for i, (slug, title, label) in enumerate(JOBS_BUDDHIST):
         if only and slug not in only:
             continue
-        make_cover(title, label, os.path.join(out_dir, f"{slug}.png"), seed=142 + i * 17, accent_color=BUDDHIST_ACCENT_COLOR)
+        make_cover(
+            title, label, os.path.join(out_dir, f"{slug}.png"),
+            seed=142 + i * 17,
+            accent_color=BUDDHIST_ACCENT_COLOR,
+            bg_color=BUDDHIST_BG_COLOR,
+            motif="dharma_wheel",
+        )
