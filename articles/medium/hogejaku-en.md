@@ -7,7 +7,7 @@ tags: [Minimalism, "Self Improvement", Mindfulness, Productivity, Zen]  # 5枠�
 created: 2026-07-26
 published_url: ""
 cover: "../covers/hogejaku.png"
-source: "新規執筆（禅語シリーズ）。"
+source: "新規執筆（禅語シリーズ）。修正済み（2026-08-07・オーナー指示）: kissako 記事の Opus 精査で判明した、「禅とは何か」への回答として喫茶去を紹介する導入部が実際の出典（「以前ここに来たか」への問答）と異なっていた点を、正確な逸話に差し替え。既に status: published のため変更は最小限に留めた。"
 ---
 
 # Put It Down — Even "I'm Carrying Nothing." The Zen Word "Hōgejaku (放下著)."
@@ -16,7 +16,7 @@ source: "新規執筆（禅語シリーズ）。"
 
 ## The monk who brought nothing
 
-The phrase comes from an exchange with Zhaozhou (778–897), the Tang-dynasty master famous for answering enormous questions with almost nothing at all — ask him the meaning of Zen and he might simply say, "Go drink your tea." A monk came to him and announced, with evident pride, "I have brought not a single thing." He meant it as an achievement: no attachments, no baggage, arrived empty-handed.
+The phrase comes from an exchange with Zhaozhou (778–897), the Tang-dynasty master famous for answering enormous questions with almost nothing at all — famously telling two monks who gave opposite answers to the same question, "have you been here before," the identical instruction: go have some tea. A monk came to him and announced, with evident pride, "I have brought not a single thing." He meant it as an achievement: no attachments, no baggage, arrived empty-handed.
 
 Zhaozhou said: "Put it down." (*Hōgejaku.*)
 
