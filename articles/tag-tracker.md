@@ -34,7 +34,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
@@ -52,6 +52,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
 | 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 新規（draft）。潙山霊祐の問いに答えられず蔵書を焼いた香厳智閑＝知識と実感の違い。primary Expertise はシリーズ初 |
 | 喫茶去 kissako | **Emotional Intelligence** | Self Improvement | Mindfulness | Company Culture | Zen | 新規（draft）。趙州従諗＝来歴の異なる二人の僧と院主全員に同じ「喫茶去」。相手をカテゴリーで仕分けず、目の前の人として遇する。primary Emotional Intelligence はシリーズ初 |
+| 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 新規（draft）。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
