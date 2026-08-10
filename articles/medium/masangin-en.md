@@ -1,16 +1,16 @@
 ---
-title: "He Was Asked What Buddha Is. He Answered With the Weight on His Scale. The Zen Koan \"Masankin\" (麻三斤)."
+title: "He Was Asked What Buddha Is. He Answered With the Weight on His Scale. The Zen Koan \"Masangin\" (麻三斤)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published
 tags: [Authenticity, "Self Improvement", Mindfulness, "Executive Presence", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-09
 published_url: ""
-cover: "../covers/masankin.png"
+cover: "../covers/masangin.png"
 source: "新規執筆（禅語シリーズ）。事実確認済み（洞山守初の生没年・雲門文偃門下・碧巌録第十二則・圜悟克勤1125年編/雪竇重顕頌古集c.1038年・洞山守初と洞山良价が別人であることの整理）。"
 ---
 
-# He Was Asked What Buddha Is. He Answered With the Weight on His Scale. The Zen Koan "Masankin" (麻三斤).
+# He Was Asked What Buddha Is. He Answered With the Weight on His Scale. The Zen Koan "Masangin" (麻三斤).
 
 A monk asks a teacher the biggest question there is: what is Buddha? The teacher doesn't reach for a sutra, a metaphor, or a moment of dramatic silence. He's in the storeroom when the monk finds him, weighing out hemp for the monastery's rope and cloth. He looks up and says: three pounds of flax.
 

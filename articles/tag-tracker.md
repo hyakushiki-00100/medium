@@ -54,7 +54,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 喫茶去 kissako | **Emotional Intelligence** | Self Improvement | Mindfulness | Company Culture | Zen | 新規（draft）。趙州従諗＝来歴の異なる二人の僧と院主全員に同じ「喫茶去」。相手をカテゴリーで仕分けず、目の前の人として遇する。primary Emotional Intelligence はシリーズ初 |
 | 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 新規（draft）。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
 | 梅子熟也 baishijukuya | **Mastery** | Self Improvement | Mindfulness | Thought Leadership | Zen | 新規（draft）。馬祖道一が教えを「即心是仏」から「非心非仏」へ切り替えても動じなかった大梅法常＝決まり文句の暗唱と本物の体得の違い。流行りのフレームワークを追いかける態度への問い。primary Mastery はシリーズ初 |
-| 麻三斤 masankin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 新規（draft）。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
+| 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 新規（draft）。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
