@@ -34,7 +34,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
@@ -55,6 +55,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 新規（draft）。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
 | 梅子熟也 baishijukuya | **Mastery** | Self Improvement | Mindfulness | Thought Leadership | Zen | 新規（draft）。馬祖道一が教えを「即心是仏」から「非心非仏」へ切り替えても動じなかった大梅法常＝決まり文句の暗唱と本物の体得の違い。流行りのフレームワークを追いかける態度への問い。primary Mastery はシリーズ初 |
 | 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 新規（draft）。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
+| 一日不作一日不食 fusaku | **Accountability** | Self Improvement | Mindfulness | Servant Leadership | Zen | 新規（draft）。老いた百丈懐海が農具を隠され、その日の夕食を抜いた逸話＝地位や年功による免除を自分自身には許さない。他人にだけ適用する規則への問い。primary Accountability はシリーズ初 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
