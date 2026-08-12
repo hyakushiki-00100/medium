@@ -1,5 +1,5 @@
 ---
-title: "His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner Instead. The Zen Rule \"Ichijitsu Fusaku, Ichijitsu Fujiki\" (一日不作、一日不食)."
+title: "His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner Instead. The Zen Rule \"Ichijitsu Fusaku, Ichijitsu Fushoku\" (一日不作、一日不食)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published
@@ -10,7 +10,7 @@ cover: "../covers/fusaku.png"
 source: "新規執筆（禅語シリーズ）。事実確認済み（百丈懐海の生没年・逸話の出典=五灯会元1252年成立・百丈清規の原本は散逸し現存最古の完本は禅苑清規1103年成立であること・伝統的な仏教僧院が托鉢に依り農耕を避けてきたことと百丈の改革の位置づけ）。Opus による精査を受け大幅修正済み（2026-08-09）: 「なぜ食べないのか」への回答として『一日不作、一日不食』を発話させていたが、五灯会元原文は百丈の実際の発言を「吾無德、爭合勞於人」とし、当該の一句は編者による後注（故有…之言）であることを追加・生没年749-814と矛盾する「七十代」の記述を修正・シリーズ内で反復していた定型文（Turned inward 系・checking whether 系）を書き直し・結びの文の意味が反転して読める曖昧さを修正。"
 ---
 
-# His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner Instead. The Zen Rule "Ichijitsu Fusaku, Ichijitsu Fujiki" (一日不作、一日不食).
+# His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner Instead. The Zen Rule "Ichijitsu Fusaku, Ichijitsu Fushoku" (一日不作、一日不食).
 
 An aging Chan master keeps working the fields alongside his students, well past the point anyone would have blamed him for stopping. Worried about his health, his students quietly hide his farming tools, hoping he'll finally take a day of rest. He searches for them, can't find them, and doesn't come to the meal that evening. When his students ask why, he tells them: a day without work is a day without food. They never hide his tools again.
 
