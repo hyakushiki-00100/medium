@@ -202,12 +202,16 @@ def draw_dharma_wheel(canvas, center, radius, color, seed=1, alpha=42, spokes=8)
     canvas.alpha_composite(layer)
 
 
-def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, bg_color=None, motif=None):
+def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, bg_color=None, motif=None, columns=None):
+    """columns: 長いタイトルを縦2列以上に割りたい場合、右から読む順の文字列リストを渡す
+    (例: ["一日不作", "一日不食"])。省略時は title_chars をそのまま1列で表示する(従来どおり)。
+    正式名は削らない方針のため、字数が多いときは1列の字サイズを下げるより2列に割るほうを優先する。"""
     accent = accent_color or ACCENT_COLOR
     bg = bg_color or BG_COLOR
     canvas = Image.new("RGBA", (SS_W, SS_H), bg + (255,))
 
-    n = len(title_chars)
+    cols = columns if columns else [title_chars]
+    n = max(len(c) for c in cols)  # 列ごとの字数の最大値で字サイズを決める
     margin_ratio = 0.16
     usable_h = SS_H * (1 - margin_ratio * 2)
     gap_ratio = 0.22
@@ -221,14 +225,21 @@ def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, b
     if motif == "dharma_wheel":
         draw_dharma_wheel(canvas, (center_x, SS_H / 2), radius=SS_H * 0.30, color=accent, seed=seed)
 
-    paste_vertical_column(canvas, title_chars, center_x, top_y, char_size, gap_ratio, INK_COLOR, seed, wear_curve=True)
+    # 縦書きは右から左へ列を進める。1列目(cols[0])がいちばん右。
+    n_cols = len(cols)
+    col_step = char_size * 1.15  # 列間の間隔
+    rightmost_x = center_x + col_step * (n_cols - 1) / 2
+    for ci, col_text in enumerate(cols):
+        col_center_x = rightmost_x - col_step * ci
+        col_top_y = top_y + (n - len(col_text)) * (char_size * (1 + gap_ratio)) / 2  # 字数が少ない列は中央揃え
+        paste_vertical_column(canvas, col_text, col_center_x, col_top_y, char_size, gap_ratio, INK_COLOR, seed + ci * 50, wear_curve=True)
 
     # ラベル(小・アクセントカラー・タイトルの右上)。シリーズごとに label_chars / accent_color を切り替え可能
     label_size = char_size * 0.30
     label_gap = 0.30
     label_total_h = label_size * len(label_chars) + label_size * label_gap * (len(label_chars) - 1)
     label_top = top_y + char_size * 0.15
-    label_center_x = center_x + char_size * 0.95
+    label_center_x = rightmost_x + char_size * 0.95
     paste_vertical_column(canvas, label_chars, label_center_x, label_top, label_size, label_gap, accent, seed + 100)
 
     # ダウンサンプル
@@ -283,6 +294,12 @@ JOBS = [
     ("fusaku", "一日不作一日不食", "禅語"),
 ]
 
+# 8字等、1列では字が小さくなりすぎる/字間が間延びして見えるタイトルは、
+# 意味の切れ目(読点の位置等)で縦2列に割る。表記は削らない(正式名のまま)。
+COLUMN_SPLITS = {
+    "fusaku": ["一日不作", "一日不食"],  # 「一日不作、一日不食」の読点で分割。右列が先に読む側
+}
+
 # 仏教語シリーズ専用。禅宗に限らない仏教の言葉（天台宗・浄土宗 等）。
 # 禅語シリーズと混同しないよう、背景色・アクセントカラー・ラベル文言に加えて
 # 禅語シリーズには存在しない「法輪」の背景モチーフを入れる。
@@ -302,7 +319,7 @@ if __name__ == "__main__":
     for i, (slug, title, label) in enumerate(JOBS):
         if only and slug not in only:
             continue
-        make_cover(title, label, os.path.join(out_dir, f"{slug}.png"), seed=42 + i * 17)
+        make_cover(title, label, os.path.join(out_dir, f"{slug}.png"), seed=42 + i * 17, columns=COLUMN_SPLITS.get(slug))
     for i, (slug, title, label) in enumerate(JOBS_BUDDHIST):
         if only and slug not in only:
             continue
