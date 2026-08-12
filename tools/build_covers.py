@@ -74,6 +74,7 @@ def jittered_glyph(ch, size, seed, wear=0.0):
 
     # --- かすれ(dry-brush): ノイズで一部を欠けさせる。wearが高いほど激しく ---
     from scipy.ndimage import gaussian_filter as _gf
+    pre_erosion = tapered  # 「一」等、画数の少ない字が複数の掠れ効果の重なりでほぼ消えるのを防ぐ下限に使う
     rng_np = np.random.RandomState(seed)
     speckle = rng_np.rand(canvas, canvas)
     hole_prob = 0.05 + 0.14 * wear
@@ -90,6 +91,10 @@ def jittered_glyph(ch, size, seed, wear=0.0):
     coarse_gate = np.where(coarse_mask < 0.10 + 0.10 * wear, 0.35, 1.0)
     tapered = tapered * coarse_gate
 
+    # 掠れ効果の下限: 「一」のような画数の少ない字が、乾筆+大粒掠れの重なりでほぼ消滅しないよう
+    # 元の濃さの一定割合は必ず残す(文字が縦書きの列の途中で消えて改行したように見える不具合を防ぐ)
+    tapered = np.maximum(tapered, pre_erosion * 0.45)
+
     ink_alpha = np.clip(tapered, 0, 1)
 
     # --- にじみ(ink bleed): ぼかした低アルファ層を下敷きにする ---
@@ -104,17 +109,34 @@ def jittered_glyph(ch, size, seed, wear=0.0):
     rgba[..., 2] = INK_COLOR[2]
     rgba[..., 3] = (final_alpha * 255).astype(np.uint8)
 
-    return Image.fromarray(rgba, mode="RGBA")
+    # インクの縦方向の重心(行)。「一」等ごく少画数の字は本来のemの中心と
+    # インクの塊の中心がずれやすく、canvas位置だけを均等割りすると縦書きの列で
+    # 字間が不揃いに見える(まるで途中で改行したような空白ができる)。
+    # paste_vertical_column側で、この重心を基準に位置合わせする。
+    row_mass = final_alpha.sum(axis=1)
+    total_mass = row_mass.sum()
+    if total_mass > 1e-6:
+        centroid_row = float((row_mass * np.arange(canvas)).sum() / total_mass)
+    else:
+        centroid_row = canvas / 2.0
+
+    img = Image.fromarray(rgba, mode="RGBA")
+    img.ink_centroid_row = centroid_row
+    return img
 
 
 def paste_vertical_column(canvas_img, chars, center_x, top_y, char_size, gap_ratio, color, seed_base, wear_curve=False):
-    """縦書きで文字を並べて貼り付ける。wear_curve=Trueなら下に行くほど掠れを強める"""
-    y = top_y
+    """縦書きで文字を並べて貼り付ける。wear_curve=Trueなら下に行くほど掠れを強める。
+    位置合わせは各字のcanvas位置ではなく、実際のインクの重心を基準に行う。
+    「一」のような画数の少ない字はインクの塊がcanvasの幾何中心からずれやすく、
+    canvas位置だけを均等割りすると列の途中で字間が不揃いに見えるため。"""
     step = char_size * (1 + gap_ratio)
     n = len(chars)
+    target_centroid_y = top_y + step / 2  # 1字目の理想的なインク重心位置
     for i, ch in enumerate(chars):
         wear = (i / max(1, n - 1)) * 0.85 if wear_curve else 0.0
         glyph = jittered_glyph(ch, int(char_size), seed_base + i, wear=wear)
+        centroid_row = glyph.ink_centroid_row
         if color != INK_COLOR:
             arr = np.array(glyph)
             arr[..., 0] = color[0]
@@ -123,10 +145,10 @@ def paste_vertical_column(canvas_img, chars, center_x, top_y, char_size, gap_rat
             glyph = Image.fromarray(arr, mode="RGBA")
         gw, gh = glyph.size
         px = int(center_x - gw / 2)
-        py = int(y)
+        py = int(round(target_centroid_y - centroid_row))
         canvas_img.alpha_composite(glyph, (px, py))
-        y += step
-    return y
+        target_centroid_y += step
+    return target_centroid_y
 
 
 def add_paper_grain(img, seed=1):
