@@ -3,7 +3,7 @@ title: "His Teacher Changed the Answer. He Refused to Change His Mind. The Zen S
 subtitle: "The Zen Story of \"Baishi Jukuya\" (梅子熟也)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Mastery, "Self Improvement", Mindfulness, "Thought Leadership", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-09
 published_url: ""

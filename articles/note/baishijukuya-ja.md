@@ -2,7 +2,7 @@
 title: "師の答えが変わった。それでも彼は、自分の答えを変えなかった。禅の物語「梅子熟也(ばいしじゅくや)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 梅子熟也, 大梅法常, 馬祖道一, マインドフルネス, 生き方]
 created: 2026-08-09
 published_url: ""

@@ -3,7 +3,7 @@ title: "His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner 
 subtitle: "The Zen Rule \"Ichijitsu Fusaku, Ichijitsu Fushoku\" (一日不作、一日不食)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Accountability, "Self Improvement", Mindfulness, "Servant Leadership", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-09
 published_url: ""

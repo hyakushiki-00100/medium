@@ -2,7 +2,7 @@
 title: "「心が落ち着きません。鎮めてください」「その心を、ここに出してみなさい」。禅の問答「安心(あんじん)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 安心, 達磨, 慧可, マインドフルネス, 不安]
 created: 2026-08-09
 published_url: ""

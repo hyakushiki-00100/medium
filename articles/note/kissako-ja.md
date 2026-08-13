@@ -2,7 +2,7 @@
 title: "二人の答えは違った。それでも、返す言葉は同じだった。禅語「喫茶去(きっさこ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 喫茶去, 趙州従諗, 唐代, マインドフルネス, 生き方]
 created: 2026-08-07
 published_url: ""

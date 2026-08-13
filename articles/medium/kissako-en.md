@@ -3,7 +3,7 @@ title: "Two Monks Gave Opposite Answers. The Teacher Gave Them the Same One. The
 subtitle: "The Zen Word \"Kissako\" (喫茶去)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: ["Emotional Intelligence", "Self Improvement", Mindfulness, "Company Culture", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-07
 published_url: ""

@@ -3,7 +3,7 @@ title: "\"My Mind Isn't at Peace. Fix It.\" \"Show Me This Mind, and I Will.\" T
 subtitle: "The Zen Story of \"Anjin\" (安心)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Anxiety, "Self Improvement", Mindfulness, "Stress Management", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-09
 published_url: ""

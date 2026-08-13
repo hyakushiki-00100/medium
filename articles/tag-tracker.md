@@ -50,13 +50,13 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
 | 一華開五葉 ikkegoyo | **Productivity** | Self Improvement | Mindfulness | Personal Growth | Zen | 成果は順序の結果。四半期成果への静かな反論 |
 | 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
-| 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 新規（draft）。潙山霊祐の問いに答えられず蔵書を焼いた香厳智閑＝知識と実感の違い。primary Expertise はシリーズ初 |
-| 喫茶去 kissako | **Emotional Intelligence** | Self Improvement | Mindfulness | Company Culture | Zen | 新規（draft）。趙州従諗＝来歴の異なる二人の僧と院主全員に同じ「喫茶去」。相手をカテゴリーで仕分けず、目の前の人として遇する。primary Emotional Intelligence はシリーズ初 |
-| 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 新規（draft）。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
-| 梅子熟也 baishijukuya | **Mastery** | Self Improvement | Mindfulness | Thought Leadership | Zen | 新規（draft）。馬祖道一が教えを「即心是仏」から「非心非仏」へ切り替えても動じなかった大梅法常＝決まり文句の暗唱と本物の体得の違い。流行りのフレームワークを追いかける態度への問い。primary Mastery はシリーズ初 |
-| 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 新規（draft）。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
-| 一日不作一日不食 fusaku | **Accountability** | Self Improvement | Mindfulness | Servant Leadership | Zen | 新規（draft）。老いた百丈懐海が農具を隠され、その日の夕食を抜いた逸話＝地位や年功による免除を自分自身には許さない。他人にだけ適用する規則への問い。primary Accountability はシリーズ初 |
-| 安心 anjin | **Anxiety** | Self Improvement | Mindfulness | Stress Management | Zen | 新規（draft）。慧可「心が落ち着かない、鎮めてほしい」に達磨「その心をここに出してみよ」＝不安を固定した対象として扱う限り探しても見つからない。管理ではなく直視への問い。primary Anxiety はシリーズ初 |
+| 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 公開済み。潙山霊祐の問いに答えられず蔵書を焼いた香厳智閑＝知識と実感の違い。primary Expertise はシリーズ初 |
+| 喫茶去 kissako | **Emotional Intelligence** | Self Improvement | Mindfulness | Company Culture | Zen | 公開済み。趙州従諗＝来歴の異なる二人の僧と院主全員に同じ「喫茶去」。相手をカテゴリーで仕分けず、目の前の人として遇する。primary Emotional Intelligence はシリーズ初 |
+| 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 公開済み。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
+| 梅子熟也 baishijukuya | **Mastery** | Self Improvement | Mindfulness | Thought Leadership | Zen | 公開済み。馬祖道一が教えを「即心是仏」から「非心非仏」へ切り替えても動じなかった大梅法常＝決まり文句の暗唱と本物の体得の違い。流行りのフレームワークを追いかける態度への問い。primary Mastery はシリーズ初 |
+| 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 公開済み。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
+| 一日不作一日不食 fusaku | **Accountability** | Self Improvement | Mindfulness | Servant Leadership | Zen | 公開済み。老いた百丈懐海が農具を隠され、その日の夕食を抜いた逸話＝地位や年功による免除を自分自身には許さない。他人にだけ適用する規則への問い。primary Accountability はシリーズ初 |
+| 安心 anjin | **Anxiety** | Self Improvement | Mindfulness | Stress Management | Zen | 公開済み。慧可「心が落ち着かない、鎮めてほしい」に達磨「その心をここに出してみよ」＝不安を固定した対象として扱う限り探しても見つからない。管理ではなく直視への問い。primary Anxiety はシリーズ初 |
 
 ### 仏教語シリーズ（一隅を照らす）
 

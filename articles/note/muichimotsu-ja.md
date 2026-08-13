@@ -2,7 +2,7 @@
 title: "字が読めない僧が、後継者争いに勝った。禅の物語「本来無一物」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 本来無一物, 慧能, 六祖壇経, マインドフルネス, 生き方]
 created: 2026-08-08
 published_url: ""

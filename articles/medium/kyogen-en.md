@@ -3,7 +3,7 @@ title: "He Burned Every Book He Owned to Stop Being Clever. The Zen Story of \"X
 subtitle: "The Zen Story of \"Xiangyan Hits Bamboo\" (香厳撃竹)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Expertise, "Self Improvement", Mindfulness, "Personal Growth", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-06
 published_url: ""

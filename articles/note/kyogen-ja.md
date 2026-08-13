@@ -2,7 +2,7 @@
 title: "利口であることをやめるために、蔵書をすべて焼いた。禅の物語「香厳撃竹(きょうげんげきちく)」"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 仏教, 香厳撃竹, 潙山霊祐, 学び, マインドフルネス, 自己成長]
 created: 2026-08-06
 published_url: ""

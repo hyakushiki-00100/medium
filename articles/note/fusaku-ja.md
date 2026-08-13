@@ -2,7 +2,7 @@
 title: "弟子たちが農具を隠した。師は、その日の夕食を食べなかった。禅の戒め「一日不作、一日不食」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 一日不作一日不食, 百丈懐海, 農禅, マインドフルネス, 生き方]
 created: 2026-08-09
 published_url: ""

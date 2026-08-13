@@ -3,7 +3,7 @@ title: "He Was Asked What Buddha Is. He Answered With the Weight on His Scale. T
 subtitle: "The Zen Koan \"Masangin\" (麻三斤)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Authenticity, "Self Improvement", Mindfulness, "Executive Presence", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-09
 published_url: ""

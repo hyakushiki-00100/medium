@@ -2,7 +2,7 @@
 title: "「仏とは何か」と聞かれて、麻の重さを答えた。禅の公案「麻三斤(まさんぎん)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 麻三斤, 洞山守初, 雲門文偃, マインドフルネス, 生き方]
 created: 2026-08-09
 published_url: ""
