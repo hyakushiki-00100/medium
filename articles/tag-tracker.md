@@ -34,7 +34,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（安心・一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（無・安心・一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
@@ -57,6 +57,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 公開済み。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
 | 一日不作一日不食 fusaku | **Accountability** | Self Improvement | Mindfulness | Servant Leadership | Zen | 公開済み。老いた百丈懐海が農具を隠され、その日の夕食を抜いた逸話＝地位や年功による免除を自分自身には許さない。他人にだけ適用する規則への問い。primary Accountability はシリーズ初 |
 | 安心 anjin | **Anxiety** | Self Improvement | Mindfulness | Stress Management | Zen | 公開済み。慧可「心が落ち着かない、鎮めてほしい」に達磨「その心をここに出してみよ」＝不安を固定した対象として扱う限り探しても見つからない。管理ではなく直視への問い。primary Anxiety はシリーズ初 |
+| 無 mu | **Uncertainty** | Self Improvement | Mindfulness | Critical Thinking | Zen | 新規（draft）。趙州の「犬に仏性はあるか」への「無」＝答えが用意されていない問いを、性急な確信で埋めずに抱え続ける。primary Uncertainty はシリーズ初。sekishu の primary Critical Thinking と角度が近いため4枠目に配置し重複を回避 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
