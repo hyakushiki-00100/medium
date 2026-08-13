@@ -1,5 +1,6 @@
 ---
 title: "The Clever Answer Was Never the Point. Hakuin's Koan of the Sound of One Hand."
+subtitle: "Hakuin's Koan of the Sound of One Hand."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

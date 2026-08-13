@@ -1,5 +1,6 @@
 ---
 title: "The Lantern Went Out. Look at Your Feet. The Zen Instruction \"Kankyakka (看脚下).\""
+subtitle: "The Zen Instruction \"Kankyakka\" (看脚下)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

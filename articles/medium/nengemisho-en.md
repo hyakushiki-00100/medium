@@ -1,5 +1,6 @@
 ---
 title: "\"We Just Get Each Other\" Isn't a Compliment. It's the Zen Story of \"Holding Up a Flower.\""
+subtitle: "It’s the Zen Story of \"Holding Up a Flower\" (拈華微笑)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

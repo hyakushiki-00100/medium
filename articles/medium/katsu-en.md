@@ -1,5 +1,6 @@
 ---
 title: "Shouting Louder Doesn't Wake Anyone. The Zen Word \"Katsu (喝).\""
+subtitle: "The Zen Word \"Katsu\" (喝)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

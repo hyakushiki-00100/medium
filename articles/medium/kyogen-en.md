@@ -1,5 +1,6 @@
 ---
 title: "He Burned Every Book He Owned to Stop Being Clever. The Zen Story of \"Xiangyan Hits Bamboo\" (香厳撃竹)."
+subtitle: "The Zen Story of \"Xiangyan Hits Bamboo\" (香厳撃竹)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

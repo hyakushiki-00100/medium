@@ -1,5 +1,6 @@
 ---
 title: "He Was Asked What Buddha Is. He Answered With the Weight on His Scale. The Zen Koan \"Masangin\" (麻三斤)."
+subtitle: "The Zen Koan \"Masangin\" (麻三斤)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

@@ -1,5 +1,6 @@
 ---
 title: "Rain or Shine, Both Are Good: What Actually Ruins a Rainy Day"
+subtitle: "What Actually Ruins a Rainy Day"
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得

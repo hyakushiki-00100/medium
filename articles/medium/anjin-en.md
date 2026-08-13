@@ -1,5 +1,6 @@
 ---
 title: "\"My Mind Isn't at Peace. Fix It.\" \"Show Me This Mind, and I Will.\" The Zen Story of \"Anjin\" (安心)."
+subtitle: "The Zen Story of \"Anjin\" (安心)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

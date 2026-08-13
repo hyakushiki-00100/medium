@@ -1,5 +1,6 @@
 ---
 title: "You Will Never Be in This Exact Room Again. The Zen Phrase \"Ichigo Ichie (一期一会).\""
+subtitle: "The Zen Phrase \"Ichigo Ichie\" (一期一会)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

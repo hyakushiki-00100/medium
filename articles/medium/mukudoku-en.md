@@ -1,5 +1,6 @@
 ---
 title: "You Did the Right Thing. Stop Waiting for the Receipt. The Zen Answer \"No Merit\" (無功徳)."
+subtitle: "The Zen Answer \"No Merit\" (無功徳)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

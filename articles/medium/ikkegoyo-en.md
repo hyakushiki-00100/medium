@@ -1,5 +1,6 @@
 ---
 title: "\"Results Take Time\" Isn't a Pep Talk. It's the Zen Case for Sequence."
+subtitle: "It's the Zen Case for Sequence."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得

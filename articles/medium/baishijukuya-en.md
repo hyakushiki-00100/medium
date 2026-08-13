@@ -1,5 +1,6 @@
 ---
 title: "His Teacher Changed the Answer. He Refused to Change His Mind. The Zen Story of \"Baishi Jukuya\" (梅子熟也)."
+subtitle: "The Zen Story of \"Baishi Jukuya\" (梅子熟也)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

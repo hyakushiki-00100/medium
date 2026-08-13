@@ -1,5 +1,6 @@
 ---
 title: "The Zen Word \"Un (吽)\" — What a Single Closed-Mouth Character Teaches Us About Silence and Endings"
+subtitle: "The Zen Word \"Un\" (吽)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得

@@ -1,5 +1,6 @@
 ---
 title: "His Students Hid His Farm Tools So He'd Finally Rest. He Skipped Dinner Instead. The Zen Rule \"Ichijitsu Fusaku, Ichijitsu Fushoku\" (一日不作、一日不食)."
+subtitle: "The Zen Rule \"Ichijitsu Fusaku, Ichijitsu Fushoku\" (一日不作、一日不食)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

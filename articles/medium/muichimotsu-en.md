@@ -1,5 +1,6 @@
 ---
 title: "He Couldn't Read a Word. He Still Won the Contest to Become the Next Master. The Zen Story of \"Honrai Muichimotsu\" (本来無一物)."
+subtitle: "The Zen Story of \"Honrai Muichimotsu\" (本来無一物)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

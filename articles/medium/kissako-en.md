@@ -1,5 +1,6 @@
 ---
 title: "Two Monks Gave Opposite Answers. The Teacher Gave Them the Same One. The Zen Word \"Kissako\" (喫茶去)."
+subtitle: "The Zen Word \"Kissako\" (喫茶去)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

@@ -1,5 +1,6 @@
 ---
 title: "Stop Chasing the Peak State. The Zen Answer \"Ordinary Mind Is the Way\" (平常心是道)."
+subtitle: "The Zen Answer \"Ordinary Mind Is the Way\" (平常心是道)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-08-06・オーナー報告）。published_url 未取得

@@ -1,5 +1,6 @@
 ---
 title: "The Doorway Where You Take Off Your Shoes Means \"Gate to the Profound.\" The Zen Word \"Genkan (玄関).\""
+subtitle: "The Zen Word \"Genkan\" (玄関)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

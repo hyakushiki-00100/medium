@@ -1,5 +1,6 @@
 ---
 title: "Master, Are You There? The Zen Habit of Calling Your Own Name (主人公)."
+subtitle: "The Zen Habit of Calling Your Own Name (主人公)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-27・オーナー報告）。published_url 未取得

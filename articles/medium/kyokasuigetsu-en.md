@@ -1,5 +1,6 @@
 ---
 title: "Your Like Count Is a Flower in a Mirror. The Zen Phrase \"Kyōka-Suigetsu.\""
+subtitle: "The Zen Phrase \"Kyōka-Suigetsu\" (鏡花水月)."
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得

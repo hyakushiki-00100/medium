@@ -1,5 +1,6 @@
 ---
 title: "Ten Flawless Gems Aren't the Treasure. Lighting Your Own Corner Is. Saichō's \"Ichigū o Terasu\" (一隅を照らす)."
+subtitle: "Saichō’s \"Ichigū o Terasu\" (一隅を照らす)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

@@ -1,5 +1,6 @@
 ---
 title: "The Sound of Raindrops: Are You Hearing It, or Just Naming It?"
+subtitle: "Are You Hearing It, or Just Naming It?"
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（Jul 18・アプリのパブリケーション表示）。published_url 未取得

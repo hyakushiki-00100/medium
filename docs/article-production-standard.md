@@ -61,9 +61,14 @@
 
 「次のネタ〈禅語〉で着手」等の指示を受けたら、以下を**まとめて自動実行**する（各ステップで逐一確認を取らない）。
 
-1. **執筆（英語＋日本語）** — 英語=Medium（`articles/medium/<slug>-en.md`）、日本語=note（`articles/note/<slug>-ja.md`）。
-   8ビート構成・史実性の誠実な明記・**確信度ラベルゼロ**。語数/字数は**コードで検証**（EN ~720–750 words / JA ~1,900–2,100 字）。
-   **語彙・文体は上記「話者ペルソナ」に従う**（EN は日本語の翻訳ではなくネイティブの語彙で直接執筆＝translationese 排除）。
+1. **執筆(英語＋日本語)** — 英語=Medium(`articles/medium/<slug>-en.md`)、日本語=note(`articles/note/<slug>-ja.md`)。
+   8ビート構成・史実性の誠実な明記・**確信度ラベルゼロ**。語数/字数は**コードで検証**(EN ~720–750 words / JA ~1,900–2,100 字)。
+   **語彙・文体は上記「話者ペルソナ」に従う**(EN は日本語の翻訳ではなくネイティブの語彙で直接執筆＝translationese 排除)。
+   **Medium 版 front matter には `title` に加えて `subtitle` も生成する**(2026-08-13〜)。
+   このシリーズのタイトルは「フック文(1〜2文)。The Zen Word/Story/Koan/Rule/Answer "X" (漢字).」という型が定着しているため、
+   後半の識別部分(`The Zen ... "X" (漢字).`)を `subtitle` フィールドに切り出す。Medium 投稿時は Title 欄に `title` からその末尾の
+   識別部分を除いたフック文のみ、Subtitle 欄に `subtitle` フィールドの値をそのまま貼る。識別部分が無い変則タイトル(コロン区切り等)は、
+   コロン/ダッシュの前後で機械的に分割してよい。過去記事(anjin まで)は `subtitle` フィールドを追記済み。
 2. **カバー生成** — `python3 tools/build_covers.py <slug>`（JOBS に slug 追加）。**正式名を優先**（崩れれば字サイズ/字間で調整）。
 3. **タグ付け** — Medium 5 タグ（1 つ目最重要・固定ペア Self Improvement / Mindfulness・広リーチ＋ニッチ）を設計し、
    `articles/tag-tracker.md` と各記事 front matter に記録。note 版は日本語ハッシュタグを front matter に。

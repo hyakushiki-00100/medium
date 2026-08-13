@@ -1,5 +1,6 @@
 ---
 title: "Dharma Rain: The Same Rain, Different Growth"
+subtitle: "The Same Rain, Different Growth"
 platform: medium
 lang: en
 status: published   # Medium 公開確認済み（2026-07-26・アプリのパブリケーション表示）。published_url 未取得
