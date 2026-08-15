@@ -83,6 +83,41 @@
 - 執筆前に既存記事の見出し一覧をざっと確認し（`grep -n "^## " articles/medium/*.md`）、既出の言い回しと重複していないか確かめる。
 - ビートの役割（仕事への応用・内面への応用・史実性の断り 等）は共通でよいが、**見出しの文言は記事ごとに変える**。
 
+## 定型文の使い回しを避ける（センテンス単位・EN/JA 共通）（2026-08-15〜）
+
+見出しだけでなく、**ビートの導入・締めに使う一文の構文そのもの**が記事をまたいで無意識に使い回され、
+複数回の Opus 精査・オーナー確認で繰り返し指摘されている。執筆前・執筆後にこのリストと照合し、
+新しい記事で同じ構文を使っていないか確認する。見つかったパターンは追記していくこと。
+
+**EN — 確認済みの使い回し（3 記事以上で発生）**:
+- `"[Teacher] never told [X]..."` を締めのビートで使う（anjin / hogejaku / kyogen / muichimotsu）。
+- 文頭 `"Worth being honest/precise about..."` など、史実性ビートを `Worth ~ing` で始める（anjin / baishijukuya /
+  hogejaku / ichigoichie / ichigu / katsu / kissako / masangin / muichimotsu の 9 本）。
+- `"None of this argues for X. It argues for checking whether Y"` / `"None of this is an argument for/against X.
+  It's a distinction between..."`（kankyakka / kissako / muichimotsu / mukudoku / sekishu / shujinko）。
+- `"Turned inward," / "Turned toward yourself," / "Turned on yourself,"` を内面ビートの書き出しに使う
+  （muichimotsu / kissako / baishijukuya）。
+- 由来ビートを `"The teacher was X, a disciple of Y..."` で始める（fusaku / kissako / masangin / daichi / kanto）。
+- `"There's a version of this..."` を内面ビートの書き出しに使う（byojoshin / ichigoichie / ichigu / kankyakka /
+  kissako / mukudoku）。
+- `"The same [名詞] runs/shows up privately"` を内面ビートの書き出しに使う（mu / daichi）。
+- 見出し `"What [X] actually [Y]"` 型（masangin / muichimotsu / ukiseikou）。
+- 見出し `"The [名詞] you [動詞] yourself"` 型（katsu「The shout you give yourself」/ mu「The certainty you
+  manufacture for yourself」/ mukudoku「The ledger you keep on yourself」）。
+- 見出し `"A caveat about the record"` 系（hogejaku / katsu / kissako / muichimotsu で衝突歴あり）。
+
+**JA — 確認済みの使い回し**:
+- `「〜ではありません。むしろ、〜」`（英語の "It's not X. It's Y" の直訳的パターン）を転換の一文に使う
+  （kyogen / kyokasuigetsu / masangin / muichimotsu / nengemisho の 5 本、houu・un にも緩い変種あり）。
+  kanto でオーナーから指摘（2026-08-15）。代わりに、同じ転換を「〜であれば、ここで終わっていたはずです。
+  実際に続くのは〜だからです」のような、否定→肯定ではない構文で表現する。
+- `「彼は…必要がなかったのです。」` 系の結び（kissako / muichimotsu / baishijukuya）。
+
+見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
+`grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
+それでも書いてしまった場合は、Opus 精査やオーナー確認を待たず自分で検知し、書き直すこと
+（このセッションでは複数記事で執筆直後の自己チェックにより実際に検知・修正できている）。
+
 ## 標準制作フロー（着手指示で一気通貫・自動実行）
 
 「次のネタ〈禅語〉で着手」等の指示を受けたら、以下を**まとめて自動実行**する（各ステップで逐一確認を取らない）。
