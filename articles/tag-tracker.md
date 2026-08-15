@@ -34,7 +34,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
 | 5 | Japan | ニッチ | ①と同様の文化フック |
 
-### 禅語シリーズ（無位真人・日日是好日・雪峰大地・百尺竿頭進一歩・無・安心・一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+### 禅語シリーズ（無位真人・日日是好日・雪峰尽大地・百尺竿頭進一歩・無・安心・一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
 
 | 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
 |---|---|---|---|---|---|---|
@@ -59,7 +59,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 安心 anjin | **Anxiety** | Self Improvement | Mindfulness | Stress Management | Zen | 公開済み。慧可「心が落ち着かない、鎮めてほしい」に達磨「その心をここに出してみよ」＝不安を固定した対象として扱う限り探しても見つからない。管理ではなく直視への問い。primary Anxiety はシリーズ初 |
 | 無 mu | **Uncertainty** | Self Improvement | Mindfulness | Critical Thinking | Zen | 新規（draft）。趙州の「犬に仏性はあるか」への「無」＝答えが用意されていない問いを、性急な確信で埋めずに抱え続ける。primary Uncertainty はシリーズ初。sekishu の primary Critical Thinking と角度が近いため4枠目に配置し重複を回避 |
 | 百尺竿頭進一歩 kanto | **Complacency** | Self Improvement | Mindfulness | Career Growth | Zen | 新規（draft）。長沙景岑への「百尺竿頭からどう一歩進むか」に「朗州山、澧州水」＝到達後の「次」は同じ登攀の延長ではなく、登っている間は見えていなかった足もとの世界に気づくこと。primary Complacency はシリーズ初 |
-| 雪峰大地 daichi | **Perspective** | Self Improvement | Mindfulness | Problem Solving | Zen | 新規（draft）。雪峰義存「大地をつかめば粟粒大」＝目の前に示されても抽象的な規模でしか見ていないと気づけない。太鼓を打って共同で探せという指示＝一人で抱え込まず具体的に手を伸ばすことへの問い。primary Perspective はシリーズ初 |
+| 雪峰尽大地 daichi | **Perspective** | Self Improvement | Mindfulness | Problem Solving | Zen | 新規（draft）。雪峰義存「大地をつかめば粟粒大」＝目の前に示されても抽象的な規模でしか見ていないと気づけない。太鼓を打って共同で探せという指示＝一人で抱え込まず具体的に手を伸ばすことへの問い。primary Perspective はシリーズ初 |
 | 日日是好日 nichinichi | **Procrastination** | Self Improvement | Mindfulness | Acceptance | Zen | 新規（draft）。雲門文偃「十五日より後について一句を言え」に誰も答えられず自ら「日々是好日」＝節目の日と、価値が劣るとされる日々という区別そのものへの拒絶。「状況が落ち着いたら」型の先延ばしへの問い。primary Procrastination はシリーズ初 |
 | 無位真人 muinoshinnin | **Status** | Self Improvement | Mindfulness | Self Worth | Zen | 新規（draft）。臨済義玄「位のない真の人」＝肩書き・年功という序列の下にすでにある、与えられも奪われもしない何か。「それは何か」と問われ僧の胸ぐらをつかんだ臨済＝定義を要求する動きそのものが見失わせる、という逆説。primary Status はシリーズ初。katsu(同じく臨済)とは扱う教えが別（喝の技法 vs 無位真人）で角度重複なし |
 

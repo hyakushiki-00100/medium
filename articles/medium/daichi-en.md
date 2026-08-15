@@ -1,6 +1,6 @@
 ---
-title: "He Picked Up the Entire Earth. It Was the Size of a Grain of Rice — and Still, No One Saw It. The Zen Case \"Xuefeng's Handful of Earth\" (雪峰大地)."
-subtitle: "The Zen Case \"Xuefeng's Handful of Earth\" (雪峰大地)."
+title: "He Picked Up the Entire Earth. It Was the Size of a Grain of Rice — and Still, No One Saw It. The Zen Case \"Xuefeng's Handful of Earth\" (雪峰尽大地)."
+subtitle: "The Zen Case \"Xuefeng's Handful of Earth\" (雪峰尽大地)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published
@@ -11,7 +11,7 @@ cover: "../covers/daichi.png"
 source: "新規執筆（禅語シリーズ）。事実確認済み（雪峰義存の生没年822-908・徳山宣鑑の法嗣・雲門文偃ら複数の法嗣を輩出したこと・碧巌録第五則1125年成立/圜悟克勤編・原文「盡大地撮來如粟米粒大、抛向面前、漆桶不會、打鼓普請看」の逐語確認・漆桶が禅語で見えていない/わかっていない者への常套的な譬えであること・普請が禅林の共同作務を指す語であること）。"
 ---
 
-# He Picked Up the Entire Earth. It Was the Size of a Grain of Rice — and Still, No One Saw It. The Zen Case "Xuefeng's Handful of Earth" (雪峰大地).
+# He Picked Up the Entire Earth. It Was the Size of a Grain of Rice — and Still, No One Saw It. The Zen Case "Xuefeng's Handful of Earth" (雪峰尽大地).
 
 A teacher tells his assembled students: pick up the whole earth, and it's the size of a single grain of rice. He throws it down in front of them, right where they're sitting. Nobody sees it. He doesn't explain further or offer it again. He calls for the drum to be beaten and tells everyone to get up and search for it together.
 
