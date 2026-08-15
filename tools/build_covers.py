@@ -125,16 +125,20 @@ def jittered_glyph(ch, size, seed, wear=0.0):
     return img
 
 
-def paste_vertical_column(canvas_img, chars, center_x, top_y, char_size, gap_ratio, color, seed_base, wear_curve=False):
+def paste_vertical_column(canvas_img, chars, center_x, top_y, char_size, gap_ratio, color, seed_base, wear_curve=False, wear_n=None):
     """縦書きで文字を並べて貼り付ける。wear_curve=Trueなら下に行くほど掠れを強める。
     位置合わせは各字のcanvas位置ではなく、実際のインクの重心を基準に行う。
     「一」のような画数の少ない字はインクの塊がcanvasの幾何中心からずれやすく、
-    canvas位置だけを均等割りすると列の途中で字間が不揃いに見えるため。"""
+    canvas位置だけを均等割りすると列の途中で字間が不揃いに見えるため。
+    wear_n: 掠れの進み方の基準となる字数。省略時はこの列自身の字数(len(chars))を使う。
+    複数列で字数が異なる場合、列ごとの字数を基準にすると短い列ほど掠れが速く進んで
+    列間で濃さが不揃いに見えるため、全列共通の基準(通常は最長列の字数)を渡すこと。"""
     step = char_size * (1 + gap_ratio)
     n = len(chars)
+    wear_ref = wear_n if wear_n is not None else n
     target_centroid_y = top_y + step / 2  # 1字目の理想的なインク重心位置
     for i, ch in enumerate(chars):
-        wear = (i / max(1, n - 1)) * 0.85 if wear_curve else 0.0
+        wear = (i / max(1, wear_ref - 1)) * 0.85 if wear_curve else 0.0
         glyph = jittered_glyph(ch, int(char_size), seed_base + i, wear=wear)
         centroid_row = glyph.ink_centroid_row
         if color != INK_COLOR:
@@ -232,7 +236,7 @@ def make_cover(title_chars, label_chars, out_path, seed=42, accent_color=None, b
     for ci, col_text in enumerate(cols):
         col_center_x = rightmost_x - col_step * ci
         col_top_y = top_y + (n - len(col_text)) * (char_size * (1 + gap_ratio)) / 2  # 字数が少ない列は中央揃え
-        paste_vertical_column(canvas, col_text, col_center_x, col_top_y, char_size, gap_ratio, INK_COLOR, seed + ci * 50, wear_curve=True)
+        paste_vertical_column(canvas, col_text, col_center_x, col_top_y, char_size, gap_ratio, INK_COLOR, seed + ci * 50, wear_curve=True, wear_n=n)
 
     # ラベル(小・アクセントカラー・タイトルの右上)。シリーズごとに label_chars / accent_color を切り替え可能
     label_size = char_size * 0.30
@@ -294,12 +298,14 @@ JOBS = [
     ("fusaku", "一日不作一日不食", "禅語"),
     ("anjin", "安心", "禅語"),
     ("mu", "無", "禅語"),
+    ("kanto", "百尺竿頭進一歩", "禅語"),
 ]
 
 # 8字等、1列では字が小さくなりすぎる/字間が間延びして見えるタイトルは、
 # 意味の切れ目(読点の位置等)で縦2列に割る。表記は削らない(正式名のまま)。
 COLUMN_SPLITS = {
     "fusaku": ["一日不作", "一日不食"],  # 「一日不作、一日不食」の読点で分割。右列が先に読む側
+    "kanto": ["百尺竿頭", "進一歩"],  # 「百尺竿頭・進一歩」の意味の切れ目で分割。右列が先に読む側
 }
 
 # 仏教語シリーズ専用。禅宗に限らない仏教の言葉（天台宗・浄土宗 等）。
