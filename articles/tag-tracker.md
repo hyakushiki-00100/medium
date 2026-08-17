@@ -63,7 +63,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 日日是好日 nichinichi | **Procrastination** | Self Improvement | Mindfulness | Acceptance | Zen | 公開済み。雲門文偃「十五日より後について一句を言え」に誰も答えられず自ら「日々是好日」＝節目の日と、価値が劣るとされる日々という区別そのものへの拒絶。「状況が落ち着いたら」型の先延ばしへの問い。primary Procrastination はシリーズ初 |
 | 無位真人 muinoshinnin | **Status** | Self Improvement | Mindfulness | Self Worth | Zen | 公開済み。臨済義玄「位のない真の人」＝肩書き・年功という序列の下にすでにある、与えられも奪われもしない何か。「それは何か」と問われ僧の胸ぐらをつかんだ臨済＝定義を要求する動きそのものが見失わせる、という逆説。primary Status はシリーズ初。katsu(同じく臨済)とは扱う教えが別（喝の技法 vs 無位真人）で角度重複なし |
 | 洞山無寒暑 mukanjo | **Burnout** | Self Improvement | Mindfulness | Stress Management | Zen | 新規（draft）。洞山良价「寒ければ寒さに殺され、暑ければ暑さに殺されよ」＝不快を避けようとする動きそのものが逃げ場のない緊張を生む、という逆説。primary Burnout はシリーズ初（燃え尽き／回避行動の切り口）。anjin(Anxiety/Self Improvement/Mindfulness/Stress Management/Zen)と同じ並びの構造を踏襲 |
-| 婆子焼庵 bashoan | **Vulnerability**（仮） | Self Improvement | Mindfulness | ? | Zen | JA先行執筆（draft・英語版未着手）。老婆が二十年養った僧を、若い娘に抱きしめさせて試した公案＝「枯れた木のようだ、温もりはない」という無感情の答えは、老婆の求めていた本物の反応ではなかった。感情を凍らせることと平静を混同する、職場の擬態的プロフェッショナリズムへの問い。primary Vulnerability はシリーズ初の角度。僧・老婆いずれも実名不伝(『五灯会元』巻六「亡名道婆」条)。5タグは英語版執筆時に確定 |
+| 婆子焼庵 bashoan | **Vulnerability** | Self Improvement | Mindfulness | Emotional Intelligence | Zen | 新規（draft）。老婆が二十年養った僧を、若い娘に抱きしめさせて試した公案＝「枯れた木のようだ、温もりはない」という無感情の答えは、老婆の求めていた本物の反応ではなかった。感情を凍らせることと平静を混同する、職場の擬態的プロフェッショナリズムへの問い。primary Vulnerability はシリーズ初の角度。僧・老婆いずれも実名不伝(『五灯会元』巻六「亡名道婆」条) |
 
 ### 仏教語シリーズ（一隅を照らす）
 
