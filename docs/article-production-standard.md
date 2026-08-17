@@ -166,6 +166,32 @@
   python3 -c "import sys,re;t=open(sys.argv[1]).read();print('chars:',len(re.sub(r'\s','',t)))" article.md
   ```
 
+## JA の敬体/常体チェックは目視だけでなくコードでも行う（2026-08-17〜）
+
+bashoan の初回執筆で、目視レビューだけでは常体（だ・である調）の文末が3箇所（「心が波立つこともない。」
+「食事を運んでくる。」「季節がめぐる。」）見落とされ、後日のオーナー改訂レビュー時に発見された。
+語数/字数と同様、**register の一貫性も執筆直後にコードでチェックする**。
+
+```bash
+python3 -c "
+import re
+t = open('article.md').read()
+body = t.split('-->')[1]  # note投稿手順コメントの後ろ
+lines = [l for l in body.split(chr(10)) if l.strip() and not l.startswith(('#','*','＊','──','【','-'))]
+polite = ['です','ます','でした','ません','でしょう','ください','なさい','んです','のです','のでしょう','ました','ましょう','ますか','でしたか','ですか']
+for l in lines:
+    for s in re.split(r'(?<=。)', l):
+        s = s.strip()
+        if not s or not s.endswith('。'): continue
+        core = s[:-1]
+        if any(core.endswith(p) for p in polite): continue
+        if core.endswith('か') or '」' in s[-3:] or '』' in s[-3:] or core.endswith(('＊1','＊2','＊3')): continue
+        print(repr(s))
+"
+```
+出力される行は、(a) 引用符内の登場人物の発話（例:「〜のようだ。）、(b) 脚注番号での体言止め導入（例: 「〜X＊1。」）、
+(c) 「〜か。」型の疑問文の断片 は既存の許容パターンなので除外してよい。それ以外はすべて常体の混在＝要修正。
+
 ## 構成の型（実証済み）
 
 サンプルに倣い、以下の流れで書く。
