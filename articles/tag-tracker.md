@@ -62,7 +62,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 雪峰尽大地 daichi | **Perspective** | Self Improvement | Mindfulness | Problem Solving | Zen | 公開済み。雪峰義存「大地をつかめば粟粒大」＝目の前に示されても抽象的な規模でしか見ていないと気づけない。太鼓を打って共同で探せという指示＝一人で抱え込まず具体的に手を伸ばすことへの問い。primary Perspective はシリーズ初 |
 | 日日是好日 nichinichi | **Procrastination** | Self Improvement | Mindfulness | Acceptance | Zen | 公開済み。雲門文偃「十五日より後について一句を言え」に誰も答えられず自ら「日々是好日」＝節目の日と、価値が劣るとされる日々という区別そのものへの拒絶。「状況が落ち着いたら」型の先延ばしへの問い。primary Procrastination はシリーズ初 |
 | 無位真人 muinoshinnin | **Status** | Self Improvement | Mindfulness | Self Worth | Zen | 公開済み。臨済義玄「位のない真の人」＝肩書き・年功という序列の下にすでにある、与えられも奪われもしない何か。「それは何か」と問われ僧の胸ぐらをつかんだ臨済＝定義を要求する動きそのものが見失わせる、という逆説。primary Status はシリーズ初。katsu(同じく臨済)とは扱う教えが別（喝の技法 vs 無位真人）で角度重複なし |
-| 洞山無寒暑 mukansho | **Burnout**（仮） | Self Improvement | Mindfulness | Stress Management | Zen | JA先行執筆（draft・英語版未着手）。洞山良价「寒ければ寒さに殺され、暑ければ暑さに殺されよ」＝不快を避けようとする動きそのものが逃げ場のない緊張を生む、という逆説。primary Burnout はシリーズ初（燃え尽び／回避行動の切り口）。5タグは英語版執筆時に確定 |
+| 洞山無寒暑 mukanjo | **Burnout**（仮） | Self Improvement | Mindfulness | Stress Management | Zen | JA先行執筆（draft・英語版未着手）。洞山良价「寒ければ寒さに殺され、暑ければ暑さに殺されよ」＝不快を避けようとする動きそのものが逃げ場のない緊張を生む、という逆説。primary Burnout はシリーズ初（燃え尽び／回避行動の切り口）。5タグは英語版執筆時に確定 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
