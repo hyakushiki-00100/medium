@@ -2,7 +2,7 @@
 title: "「お前たちの顔の中に、位のない本物の人がいる」と師は言った。僧が「それは何か」と問うと、師は僧の胸ぐらをつかんだ。禅の教え「無位の真人(むいのしんにん)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 無位の真人, 臨済義玄, 臨済録, マインドフルネス, 自己肯定感]
 created: 2026-08-15
 published_url: ""

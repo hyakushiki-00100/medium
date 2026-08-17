@@ -3,7 +3,7 @@ title: "A Monk Who'd Already Reached the Top Asked What Came Next. The Teacher N
 subtitle: "The Zen Koan \"Hyakushaku Kanto\" (百尺竿頭進一歩)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Complacency, "Self Improvement", Mindfulness, "Career Growth", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-13
 published_url: ""

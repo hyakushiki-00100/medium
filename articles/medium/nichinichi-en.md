@@ -3,7 +3,7 @@ title: "He Challenged the Room to Say Something About the Day After the Fifteent
 subtitle: "The Zen Case \"Every Day Is a Good Day\" (日日是好日)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Procrastination, "Self Improvement", Mindfulness, Acceptance, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-15
 published_url: ""

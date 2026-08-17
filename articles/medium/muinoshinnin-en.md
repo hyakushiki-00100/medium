@@ -3,7 +3,7 @@ title: "He Told the Room There's a Person With No Rank Living Behind Their Own F
 subtitle: "The Zen Teaching \"Mui no Shinnin\" (無位真人)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Status, "Self Improvement", Mindfulness, "Self Worth", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-15
 published_url: ""

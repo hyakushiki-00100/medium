@@ -3,7 +3,7 @@ title: "He Picked Up the Entire Earth. It Was the Size of a Grain of Rice — an
 subtitle: "The Zen Case \"Xuefeng's Handful of Earth\" (雪峰尽大地)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Perspective, "Self Improvement", Mindfulness, "Problem Solving", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-13
 published_url: ""

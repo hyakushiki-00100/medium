@@ -2,7 +2,7 @@
 title: "大地をまるごと手に取ってみせた。粟粒ほどの大きさだった。それでも、誰も見えなかった。禅の公案「雪峰尽大地(せっぽうのじんだいち)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 雪峰義存, 碧巌録, マインドフルネス, 問題解決]
 created: 2026-08-13
 published_url: ""

@@ -2,7 +2,7 @@
 title: "「犬に仏性はありますか」「無い」。あるはずのない答えが、そこにあった。禅の公案「無字(むじ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 無字, 趙州, 無門関, マインドフルネス, 意思決定]
 created: 2026-08-13
 published_url: ""

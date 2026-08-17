@@ -2,7 +2,7 @@
 title: "「十五日より後について、一句を言ってみよ」誰も答えられませんでした。師は自分で答えました。禅の公案「日日是好日(にちにちこれこうじつ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 日日是好日, 雲門文偃, 碧巌録, マインドフルネス, 先延ばし]
 created: 2026-08-15
 published_url: ""

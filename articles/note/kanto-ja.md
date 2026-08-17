@@ -2,7 +2,7 @@
 title: "すでに頂点まで登った僧が、次はどうすればと問うた。師は山と川の名を挙げた。禅の公案「百尺竿頭進一歩(ひゃくしゃくかんとうしんいっぽ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 百尺竿頭進一歩, 長沙景岑, 景徳伝灯録, マインドフルネス, キャリア]
 created: 2026-08-13
 published_url: ""

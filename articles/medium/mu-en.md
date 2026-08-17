@@ -3,7 +3,7 @@ title: "A Monk Asked If a Dog Has Buddha-Nature. The Teacher Said No — Which S
 subtitle: "The Zen Koan \"Mu\" (無)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Uncertainty, "Self Improvement", Mindfulness, "Critical Thinking", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-13
 published_url: ""
