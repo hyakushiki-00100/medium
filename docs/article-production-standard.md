@@ -148,6 +148,21 @@
    # EN タイトル語数
    python3 -c "import re;t=open('article-en.md').read();m=re.search(r'^title: \"(.+)\"',t,re.M);print(len(re.findall(r\"[A-Za-z']+\",m.group(1))))"
    ```
+
+   **検索流入を意識したタイトル・見出し設計**（オーナー指示・2026-08-17〜、新規記事から適用。
+   既存の公開済み記事は遡って直さない）。専任の SEO エージェントは置かない
+   （Medium はタグ・Publication 経由の内部流入が主で、キーワード調査ツールも無いため）。
+   代わりに、事実確認の WebSearch ついでに以下を確認し、タイトル・見出しに反映する軽量な運用とする。
+   - ネタ調査の WebSearch 時に、その禅語・公案が英語圏で何と呼ばれているか（例:
+     "Nanquan Kills the Cat", "the water buffalo koan" 等）も併せて見ておく。
+     EN タイトルの識別部分（`The Zen Case "X" (漢字).`）は、その定訳・通称に寄せる
+     （造語的な言い換えを避ける）。
+   - JA タイトルの正式名・読みは、既存の複数サイトで実際に使われている表記・ふりがなと一致させる
+     （mukanjo の「むかんしょ」→「むかんじょ」訂正のように、自己流の読みを避ける）。
+   - 見出し（`## `）は本文の要旨を検索可能な語で表す（比喩だけに寄りすぎない）。
+     見出しの使い回し回避ルール（既出）と両立させる。
+   - タグ設計（`tag-strategist`）は既存どおり Medium 内の発見性（タグ・Publication）を担当。
+     本項目はそれに加えて、Google 等の外部検索からの流入も見込んだタイトル表記の一致を狙うもの。
 2. **カバー生成** — `python3 tools/build_covers.py <slug>`（JOBS に slug 追加）。**正式名を優先**（崩れれば字サイズ/字間で調整）。
 3. **タグ付け** — Medium 5 タグ（1 つ目最重要・固定ペア Self Improvement / Mindfulness・広リーチ＋ニッチ）を設計し、
    `articles/tag-tracker.md` と各記事 front matter に記録。note 版は日本語ハッシュタグを front matter に。
