@@ -2,7 +2,7 @@
 title: "「今、こうして抱きしめられて、どんな心境ですか」と若い娘に問われ、僧は答えました。「冬の寒い岩に寄りかかる、枯れた木のようだ。温もりは、どこにもない」。老婆はそれを聞き、庵を焼き払いました。禅の公案「婆子焼庵(ばすしょうあん)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 婆子焼庵, 五灯会元, マインドフルネス, 感情労働]
 created: 2026-08-17
 published_url: ""

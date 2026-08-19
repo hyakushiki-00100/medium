@@ -2,7 +2,7 @@
 title: "「寒さや暑さから、どう逃げればいいのでしょう」と僧が問うと、師は答えた。「寒いなら、その寒さに殺されなさい。暑いなら、その暑さに殺されなさい」。禅の公案「洞山無寒暑(とうざんむかんじょ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 洞山無寒暑, 洞山良价, 碧巌録, マインドフルネス, 燃え尽き症候群]
 created: 2026-08-17
 published_url: ""

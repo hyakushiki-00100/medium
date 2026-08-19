@@ -3,7 +3,7 @@ title: "\"In a hundred years I'll be reborn as a water buffalo at the foot of th
 subtitle: "The Zen Case \"Guishan's Water Buffalo\" (潙山水牯牛)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: ["Open-Mindedness", "Self Improvement", Mindfulness, "Critical Thinking", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-17
 published_url: ""

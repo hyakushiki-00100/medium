@@ -3,7 +3,7 @@ title: "A monk answered: like a bare tree against a cold cliff, no warmth anywhe
 subtitle: "The Zen Case \"The Old Woman Burns the Hut\" (婆子焼庵)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Vulnerability, "Self Improvement", Mindfulness, "Emotional Intelligence", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-17
 published_url: ""

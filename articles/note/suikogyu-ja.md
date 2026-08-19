@@ -2,7 +2,7 @@
 title: "「わたしは百年後、山のふもとで一頭の水牛に生まれ変わるだろう。左の脇腹には『潙山の僧、某』と書かれているはずだ。そのとき、わたしを何と呼べばいいのか」。師は、弟子たちにそう問いました。誰も答えませんでした。禅の公案「潙山水牯牛(いさんすいこぎゅう)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [禅語, エッセイ, 禅, 潙山水牯牛, 潙山霊祐, 潙山語録, マインドフルネス, 決めつけ]
 created: 2026-08-17
 published_url: ""

@@ -3,7 +3,7 @@ title: "A monk asked how to escape the cold and the heat. The teacher's answer: 
 subtitle: "The Zen Case \"Dongshan's No Cold, No Heat\" (洞山無寒暑)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published    # draft | review | revising | published
 tags: [Burnout, "Self Improvement", Mindfulness, "Stress Management", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-17
 published_url: ""
