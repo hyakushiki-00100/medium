@@ -134,6 +134,20 @@
    後半の識別部分(`The Zen ... "X" (漢字).`)を `subtitle` フィールドに切り出す。Medium 投稿時は Title 欄に `title` からその末尾の
    識別部分を除いたフック文のみ、Subtitle 欄に `subtitle` フィールドの値をそのまま貼る。識別部分が無い変則タイトル(コロン区切り等)は、
    コロン/ダッシュの前後で機械的に分割してよい。過去記事(anjin まで)は `subtitle` フィールドを追記済み。
+
+   **タイトルの長さに上限を設ける**（2026-08-17〜）。mukanjo→bashoan→suikogyu の3記事で、
+   フック文に問答のやり取りを丸ごと詰め込む書き方が定着し、タイトルが記事ごとに単調増加していた
+   （JA: 96字→116字→127字、EN: 26語→36語→42語。オーナー指摘・2026-08-17）。
+   これはフック文に「一問一答」ではなく「二往復・三往復の問答」を丸ごと収めようとしたことが原因。
+   **目安は JA 70〜90字・EN 24〜32語**（kanto〜muinoshinnin の実績値に基づく）。
+   フック文は問答の**核心の一往復**（最も強い一言）だけに絞り、背景の問い・経緯は本文の冒頭で語る。
+   執筆後にタイトルの字数・語数をコードで確認する:
+   ```bash
+   # JA タイトル文字数
+   python3 -c "import re;t=open('article-ja.md').read();m=re.search(r'^title: \"(.+)\"',t,re.M);print(len(re.sub(r'\s','',m.group(1))))"
+   # EN タイトル語数
+   python3 -c "import re;t=open('article-en.md').read();m=re.search(r'^title: \"(.+)\"',t,re.M);print(len(re.findall(r\"[A-Za-z']+\",m.group(1))))"
+   ```
 2. **カバー生成** — `python3 tools/build_covers.py <slug>`（JOBS に slug 追加）。**正式名を優先**（崩れれば字サイズ/字間で調整）。
 3. **タグ付け** — Medium 5 タグ（1 つ目最重要・固定ペア Self Improvement / Mindfulness・広リーチ＋ニッチ）を設計し、
    `articles/tag-tracker.md` と各記事 front matter に記録。note 版は日本語ハッシュタグを front matter に。
