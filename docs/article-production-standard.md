@@ -167,7 +167,13 @@
 3. **タグ付け** — Medium 5 タグ（1 つ目最重要・固定ペア Self Improvement / Mindfulness・広リーチ＋ニッチ）を設計し、
    `articles/tag-tracker.md` と各記事 front matter に記録。note 版は日本語ハッシュタグを front matter に。
 4. **インデックス更新** — `articles/note/README.md` / `articles/covers/README.md` / `tag-tracker.md`。
-5. **commit & push**（作業ブランチ）。
+5. **ファクトチェック（自動・オーナー指示・2026-08-17〜）** — commit の前に、`fact-checker` エージェント
+   （`.claude/agents/fact-checker.md`、model: opus）を**必ず呼び出す**。EN/JA 記事本文と front matter の
+   `source:` を渡し、出典の前後関係・引用の逐語性・断定過多・定型文衝突を再検証させる。
+   これは毎回自動実行するステップであり、「Opus で精査して」という指示を都度待たない。
+   指摘が返ってきたら、**このエージェント自身はファイルを編集しないため、指摘の適用は呼び出し元(自分)が行う**。
+   全指摘に対応し終えてから commit する。指摘ゼロでも、実行したこと自体を進捗として一言報告する。
+6. **commit & push**（作業ブランチ）。
 
 **一時停止して確認する判断点（ここだけは自動化しない）**:
 - 長い禅語でカバーの字組みが崩れる場合（都度判断）。
