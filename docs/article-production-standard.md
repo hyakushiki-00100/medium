@@ -105,6 +105,8 @@
 - 見出し `"The [名詞] you [動詞] yourself"` 型（katsu「The shout you give yourself」/ mu「The certainty you
   manufacture for yourself」/ mukudoku「The ledger you keep on yourself」）。
 - 見出し `"A caveat about the record"` 系（hogejaku / katsu / kissako / muichimotsu で衝突歴あり）。
+- 史実性ビートの締め `"What's certain is that ... [N] hundred years ..."`（bashoan / hifuhiban）。
+  fact-checker（Opus）で検知・回避（2026-08-17）。
 
 **JA — 確認済みの使い回し**:
 - `「〜ではありません。むしろ、〜」`（英語の "It's not X. It's Y" の直訳的パターン）を転換の一文に使う
@@ -116,6 +118,8 @@
   型（kanto / nichinichi / muinoshinnin / daichi の 4 本）。mukansho で検知・回避（2026-08-17）。
 - 内面ビートの見出し `「自分自身に〜」` 型（mu「自分自身に対して作り出す確信」/ mukudoku「自分自身につける帳簿」/
   muinoshinnin「自分自身に、こっそり割り当てている位」の 3 本）。mukansho で検知・回避（2026-08-17）。
+- 結びの文末 `「〜ただけでした。」`（kanto / daichi / nichinichi / anjin / hifuhiban の 5 本）。
+  fact-checker（Opus）で検知・回避（2026-08-17）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
