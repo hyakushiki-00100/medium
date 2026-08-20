@@ -8,30 +8,30 @@ tags: ["Self Awareness", "Self Improvement", Mindfulness, "Emotional Intelligenc
 created: 2026-08-17
 published_url: ""
 cover: "../covers/hifuhiban.png"
-source: "新規執筆（禅語シリーズ）。JA版(hifuhiban-ja.md)と同時に native EN voiceで直接執筆(翻訳ではない)。事実確認済み（原文「不是風動、不是幡動、仁者心動」の逐語確認・出典は『六祖壇経』・後に『無門関』第二十九則「非風非幡」(1228年、無門慧開編)として独立の公案になったこと・慧能(638-713)の伝記的記録＝弘忍から法衣を受け継いだのち南へ身を隠し、広州法性寺で住職の印宗のもとに現れるまで公には教えを説かなかったこと・muichimotsu(本来無一物)ですでに確認済みの慧能・弘忍の生没年/事跡と整合していることを再確認済み）。慧能の前半生を伝える記録の史実性については muichimotsu で既に詳述した McRae・Yampolsky らの指摘を簡潔に引き継ぎ、重複を避け要点のみ触れた。EN タイトルの識別部分は英語圏での通称「Not the Wind, Not the Flag」に寄せた（検索流入意識・2026-08-17 運用ルールに基づく、WebSearch で確認）。5タグ確定: Self Awareness(primary, シリーズ初) / Self Improvement / Mindfulness / Emotional Intelligence / Zen。primary Self Awareness は shujinko と重複する懸念があったが、shujinko は「自己点検の習慣」、本記事は「外部への原因帰属と反応性」という別角度のため差別化。"
+source: "新規執筆（禅語シリーズ）。JA版(hifuhiban-ja.md)と同時に native EN voiceで直接執筆(翻訳ではない)。fact-checker(Opus)による精査を受け大幅修正済み(2026-08-17): 当初『六祖壇経に記録され、後に無門関が公案化した』としていたが、実際は逆に近いことが判明。最古の敦煌本壇経にこの場面は無く、現存最古の記録は慧能没後68年の『曹渓大師別伝』(781年)で字句・場面設定も異なる（二僧の対立ではなく複数僧による四説の論議）。現在広く読まれる字句(「不是風動、不是幡動、仁者心動」)を含む壇経の版本は1291年成立で、無門関(1228年)より63年後。史実性ビートをこの正しい前後関係に基づいて全面的に書き直した。また『隠棲が幡の一言で終わった』という因果も原典と逆(慧能は自ら弘法の時と決めて寺に出てきており、幡の一言は隠していた正体が露見した契機)と判明し修正。「印宗が即座に問うた」も原典では「上席に招き奥義を問い質した」段階が省略されていたため追加。「the abbot」という印宗の役職断定、慧能が「聴衆に紛れて座っていた」という描写(原典は「寓止廊廡間」＝回廊に身を寄せていた)も不正確と判明し修正。原文「不是風動、不是幡動、仁者心動」自体の逐語性は無門関・壇経とも一致確認済み。慧能(638-713)・弘忍の生没年はmuichimotsu(本来無一物)と整合。史実性の注意はmuichimotsuより強く当てはまる(前者は敦煌本に存在し文言差異のレベル、本記事の場面は最古写本に不在という、より弱い史料的基盤)ため「even more forcefully」と明記。EN タイトルの識別部分は英語圏での通称「Not the Wind, Not the Flag」に寄せた（検索流入意識・2026-08-17 運用ルールに基づく、WebSearch で確認）。5タグ確定: Self Awareness(primary, シリーズ初) / Self Improvement / Mindfulness / Emotional Intelligence / Zen。primary Self Awareness は shujinko と重複する懸念があったが、shujinko は「自己点検の習慣」、本記事は「外部への原因帰属と反応性」という別角度のため差別化。"
 ---
 
 # Two monks argued whether the flag was moving or the wind. The Sixth Patriarch said: neither — it's your mind that's moving. The Zen Case "Not the Wind, Not the Flag" (非風非幡).
 
-A temple flag snaps in the wind. Two monks are arguing about it. One says the flag is moving. The other says the wind is moving. Neither will give ground. A man steps between them. "It isn't the wind moving," he says. "It isn't the flag moving. What's moving is your mind." Everyone in earshot goes quiet.
+A temple flag snaps in the wind. Two monks are arguing about it. One says the flag is moving. The other says the wind is moving. Neither will give ground. A man steps between them. "It isn't the wind moving," he says. "It isn't the flag moving. What's moving is your mind." The assembly falls silent, stunned.
 
-## The years of hiding that ended that afternoon
+## What gave away years of hiding
 
-The man lecturing that day at Faxing Temple was the abbot, Yinzong¹. Huineng² was sitting in the crowd, not yet identified as anyone in particular.
+The man lecturing that day at Faxing Temple was Yinzong¹, working through the Nirvana Sutra. Huineng² was lodging, unrecognized, in the temple's outer corridors.
 
-Years earlier, after receiving the robe from Hongren³, Huineng had gone into hiding in the south and taught no one openly. This single remark about a flag is what ended that.
+Years earlier, after receiving the robe from Hongren³, Huineng had gone into hiding in the south and taught no one openly. By his own account he'd since decided it was time to stop hiding and teach, and had made his way to this temple already resolved to do so. The remark about the flag is what gave him away before he said a word about who he was.
 
-Yinzong turned to him, startled. "You're no ordinary man," he said. "Aren't you the one who received the robe at Huangmei?"
+Yinzong invited him to a seat of honor and pressed him with questions; struck by how directly he answered without leaning on scripture, he finally asked outright. "You're no ordinary man," he said. "Aren't you the one who received the robe at Huangmei?"
 
-Huineng didn't deny it.
+Huineng answered with a word of humility — he didn't claim it outright, but he didn't deny it either.
 
-## A scene that deserves the same caution as the last one
+## A scene that isn't quite where it first sounds like it's from
 
-This exchange is recorded in the Platform Sutra⁴ and later became its own case — number twenty-nine, "Not the Wind, Not the Flag," in the Wumen Guan⁵, compiled in 1228.
+This exchange is best known today from case twenty-nine of the Wumen Guan⁴, "Not the Wind, Not the Flag," compiled in 1228. It's tempting to assume the Platform Sutra⁵ is the older source here and the Wumen Guan simply picked the story up later. It runs closer to the other way around. The earliest surviving manuscript of the Platform Sutra, found at Dunhuang, doesn't contain this scene at all. The earliest known telling of it appears in a separate biography, the Caoxi Dashi Biezhuan⁶, written in 781 — with different wording, and a different scene: several monks debating four separate positions, not two monks locked in a face-off. The Platform Sutra edition most people read today, carrying the line quoted above, comes from a compilation finished in 1291 — sixty-three years after the Wumen Guan.
 
-The record of Huineng's early life calls for real caution, as this series noted in an earlier piece on his succession story: some scholars have argued the whole robe-transmission narrative was shaped generations later to argue for one lineage's legitimacy over another's. The same caution applies here. There's no way to confirm this exact exchange happened word for word.
+The caution this series raised about Huineng's succession story applies here even more forcefully. That story, at least, appears in the earliest surviving manuscript, just with a disputed line. This one is largely absent from it. There's no way to confirm the exchange happened exactly as quoted, or that it happened as a face-off between two monks at all.
 
-What's certain is that this scene was chosen for the Wumen Guan and has been read for nearly eight hundred years since.
+What multiple generations of Chan teachers clearly agreed on was that this version — two monks, one flag, one line cutting straight through the argument — was worth carrying forward, in a form distinct enough from the earlier tellings that it's the one still being read today.
 
 ## Nobody was arguing about whether it was moving
 
@@ -69,10 +69,11 @@ The two monks were trying to settle which one was right — the flag or the wind
 
 ---
 
-¹ Yinzong (印宗), abbot of Faxing Temple (法性寺) in Guangzhou.
+¹ Yinzong (印宗), the monk lecturing at Faxing Temple (法性寺, present-day Guangxiao Temple) in Guangzhou that day.
 ² Huineng (慧能): 638–713, Sixth Patriarch of Chan.
 ³ Hongren (弘忍), Fifth Patriarch of Chan.
-⁴ 六祖壇経 (Platform Sutra).
-⁵ 無門関 (Wumen Guan), compiled 1228 by Wumen Huikai.
+⁴ 無門関 (Wumen Guan), compiled 1228 by Wumen Huikai.
+⁵ 六祖壇経 (Platform Sutra); the widely-read edition containing this scene in its familiar wording dates to a compilation finished in 1291.
+⁶ 曹渓大師別伝, a separate biography of Huineng completed in 781, the earliest known account of this scene.
 
-*Sources: the exchange as recorded in the Platform Sutra (六祖壇経), including the case text ("不是風動，不是幡動，仁者心動"), later collected as case twenty-nine, "Not the Wind, Not the Flag" (非風非幡), in the Wumen Guan (compiled 1228 by Wumen Huikai); biographical accounts of Huineng (638–713) going into hiding in the south after receiving the robe from Hongren and teaching no one openly until this scene at Faxing Temple under Yinzong. As with the earlier account of Huineng's succession discussed elsewhere in this series, modern scholarship (John McRae, Philip Yampolsky) urges caution about how much of the record of Huineng's early life reflects later sectarian shaping rather than a plain historical account.*
+*Sources: case twenty-nine of the Wumen Guan (無門関), "Not the Wind, Not the Flag" (非風非幡), compiled 1228 by Wumen Huikai, including the case text ("不是風動，不是幡動，仁者心動"); the earliest surviving Platform Sutra manuscript (from Dunhuang) not containing this scene, and the earliest known telling of it appearing instead in the Caoxi Dashi Biezhuan (781), with different wording and a different cast of debaters; the Platform Sutra edition most widely read today, which carries the familiar wording, dating to a 1291 compilation — after the Wumen Guan; biographical accounts of Huineng (638–713) going into hiding in the south after receiving the robe from Hongren, later deciding on his own to stop hiding, and being identified by Yinzong at Faxing Temple through this exchange. As with the earlier account of Huineng's succession discussed elsewhere in this series, modern scholarship (John McRae, Philip Yampolsky) urges caution about how much of the record of Huineng's early life reflects later sectarian shaping rather than a plain historical account — a caution that applies with particular force to this scene, given its absence from the earliest manuscript.*
