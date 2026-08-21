@@ -40,9 +40,9 @@ That "what else would it be" reaction is exactly what this koan has been pointin
 **4/**
 Jingqing isn't correcting a fact. He's pointing at the exact moment perception happens:
 
-1. A sound occurs
-2. The brain matches it to a known pattern, assigns a label
-3. Once labeled, it counts as "understood" — attention moves on
+1) A sound occurs
+2) The brain matches it to a known pattern, assigns a label
+3) Once labeled, it counts as "understood" — attention moves on
 
 We hear the word "rain." Not the rain.
 
@@ -75,9 +75,9 @@ Even he doesn't hand over a tidy technique. Zen rarely does. It hands back a que
 **8/**
 Three questions worth asking right before a judgment call:
 
-1. Am I actually hearing this, or did I just attach a label to it?
-2. Does that label really fit this situation — or is it recycled from something else?
-3. If I set the label aside, what's actually happening here?
+1) Am I actually hearing this, or did I just attach a label to it?
+2) Does that label really fit this situation — or is it recycled from something else?
+3) If I set the label aside, what's actually happening here?
 
 ---
 
