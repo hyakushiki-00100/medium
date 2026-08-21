@@ -77,15 +77,14 @@ Holding that line clearly can spare a lot of needless self-blame.
 ---
 
 **9/**
-Two questions worth asking:
+One question worth asking: am I confusing "provide the rain equally" with "control exactly how every tree grows"?
 
-1) Am I confusing "provide the rain equally" with "control exactly how every tree grows"?
-2) When I see a gap in growth, do I treat it as proof coaching failed — before considering it might just be a difference in capacity?
+There's a second one that goes with it — about what to check before treating a growth gap as proof coaching failed.
 
 ---
 
 **10/**
 Not a call to lower the bar. Just a distinction worth holding onto.
 
-The four-character version of this — 一雨潤千山, "one rain moistens a thousand mountains" — plus the rest of the piece 👇
+The second question, plus the four-character version of this — 一雨潤千山, "one rain moistens a thousand mountains" — are in the full piece 👇
 https://medium.com/@mk3372/dharma-rain-the-same-rain-different-growth-562ec691a4b4

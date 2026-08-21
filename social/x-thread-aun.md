@@ -54,26 +54,19 @@ Assuming a colleague "should understand without being told" skips the part that 
 ---
 
 **8/**
-A-un isn't only about two people. It's inside one person too.
-
-Someone with only the power to start (A) drowns in half-finished things. Someone with only the power to finish (Un) never begins anything new. For everything you start, the other half is finishing it.
-
----
-
-**9/**
 There's a literal version too. Exhale is "A." Inhale is "Un." A first cry enters the world as an "A." A last breath leaves it as an "Un."
 
 One full breath, done deliberately, travels once from the start of the universe to its end and back.
 
 ---
 
-**10/**
+**9/**
 For close to a thousand years, the guardian statues have stood this way — one mouth open, one sealed, never competing over which is correct, guarding a single gate as two.
 
 Not a bad architecture for a relationship. Or a life.
 
 ---
 
-**11/**
-The full piece has the Noh play where this word first shows up on record, and where "A" and "Un" map onto the start and completion of the Buddhist path 👇
+**10/**
+The full piece has the other half of this: what happens when the A and the Un aren't split between two people, but living inside one — and why having only one of the two quietly wrecks people at work 👇
 https://medium.com/@mk3372/the-zen-word-a-un-%E9%98%BF%E5%90%BD-living-beginnings-and-endings-as-a-pair-54d6ffdae910

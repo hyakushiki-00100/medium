@@ -71,13 +71,12 @@ Just the observation that most events have more than one face — and which face
 ---
 
 **10/**
-Two questions worth asking:
+One question worth sitting with: in a situation I'm reading as "bad," where does the unchangeable fact end, and where does my own interpretation begin?
 
-1) In a situation I'm reading as "bad" — where does the unchangeable fact end, and where does my own interpretation begin?
-2) Looking at that same fact, what's a different angle (奇) worth noticing?
+There's a second question that flips it — looking for the angle (奇) worth noticing instead.
 
 ---
 
 **11/**
-Full piece (+ a related phrase: "farm when it's clear, read when it rains") 👇
+The second question, plus a related phrase — "farm when it's clear, read when it rains" — are in the full piece 👇
 https://medium.com/@mk3372/rain-or-shine-both-are-good-what-actually-ruins-a-rainy-day-26e65ef8d3eb

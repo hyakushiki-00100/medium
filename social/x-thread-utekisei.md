@@ -71,18 +71,14 @@ Even he doesn't hand over a tidy technique. Zen rarely does. It hands back a que
 ---
 
 **8/**
-Three questions worth asking right before a judgment call:
+One question worth asking right before a judgment call: am I actually hearing this, or did I just attach a label to it?
 
-1) Am I actually hearing this, or did I just attach a label to it?
-2) Does that label really fit this situation — or is it recycled from something else?
-3) If I set the label aside, what's actually happening here?
+There are two more that go with it — one catches a recycled assumption, the other catches what you'd have missed entirely.
 
 ---
 
 **9/**
 Not a meditation technique. Just the discipline of pausing one beat before deciding.
 
-That beat often prevents a premature call — or catches what someone was actually trying to say.
-
-Full piece (+ a related Zen phrase on one action's reach) 👇
+The other two questions — plus a related Zen phrase on how one action reaches many — are in the full piece 👇
 https://medium.com/@mk3372/the-sound-of-raindrops-are-you-hearing-it-or-just-naming-it-5d5f845dae5d
