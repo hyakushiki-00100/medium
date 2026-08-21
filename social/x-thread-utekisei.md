@@ -5,15 +5,13 @@
 ---
 
 **1/**
-A Zen master heard rain falling outside.
+A Zen master heard rain outside and asked his student what the sound was.
 
-He asked his student: "What's that sound?"
+The student gave the obviously correct answer.
 
-Student: "It's rain."
+The master said that answer is exactly why ordinary people spend their lives half-asleep.
 
-Master: "That's the problem. You didn't hear rain — you heard the word 'rain,' and stopped there."
-
-A thread on the exact moment we stop listening 🧵👇
+A thread on the moment we stop listening 🧵👇
 
 ---
 

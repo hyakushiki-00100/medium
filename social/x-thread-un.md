@@ -7,9 +7,9 @@
 **1/**
 There's a single Japanese character carved into temple guardian statues for centuries.
 
-It has no sound. No word. Just a closed mouth.
+It's the one sound made with the mouth fully shut.
 
-And it might be the most underrated skill nobody's teaching you. 🧵👇
+And it's the half of speaking almost nobody teaches. 🧵👇
 
 ---
 
@@ -33,25 +33,23 @@ Same pattern at Shinto shrines with the komainu lion-dogs. That closed-mouthed f
 ---
 
 **4/**
-We're taught to open our mouths. Voice opinions, speak up in meetings, pitch ideas.
+One correction, since it matters: "Un" isn't originally a Zen word.
 
-Nobody teaches the "Un" side — closing the mouth. And yet:
+It's a Sanskrit syllable (hūṃ), treasured in Esoteric Buddhism as a mantra — absorbed into Japanese culture so thoroughly (temple gates, shrine dogs, tea-room scrolls) that it now reads as Zen.
 
 ---
 
 **5/**
-→ The most trusted person in a meeting is rarely the one who talks most. It's the one who listens all the way through, then says one sentence.
+We're taught to open our mouths — voice opinions, speak up in meetings, pitch ideas. Nobody teaches the "Un" side: closing the mouth.
 
-→ That furious email reply you drafted and never sent — how much did NOT sending it save you the next morning?
+The most trusted person in a meeting is rarely the one who talks most. It's the one who listens, then says one sentence.
 
 ---
 
 **6/**
-→ Sitting beside a grieving friend, finding nothing clever to say, just staying in silence.
+That furious email reply you drafted and never sent — how much did not sending it save you the next morning?
 
-Haven't you later been told: "it helped that you were just there"?
-
-Silence isn't the absence of words. It's a response that goes beyond them.
+Or sitting beside a grieving friend, finding nothing clever to say, just staying silent. Silence isn't the absence of words. It's a response that goes beyond them.
 
 ---
 
@@ -63,14 +61,14 @@ In daily life, finishing is harder than starting. The half-written proposal. "Le
 ---
 
 **8/**
-Psychology has a name for this: the Zeigarnik effect. Unfinished tasks linger in the mind far more stubbornly than finished ones.
+There's a psychology term that rhymes with this — the Zeigarnik effect: unfinished tasks tend to linger in the mind more than finished ones.
 
-The unclosed quietly drains you. "Un" teaches: close your affairs the way you close your mouth.
+Not what "Un" is about. But it points at the same cost: the unclosed quietly drains you.
 
 ---
 
 **9/**
-Three ways to practice it:
+Three ways to practice "Un":
 
 1) Before sleep — put the phone down, exhale fully, and put a period on the day. Leave tomorrow's worries to tomorrow.
 2) In conversation — when someone finishes speaking, stay silent for one breath before replying.
@@ -78,7 +76,7 @@ Three ways to practice it:
 ---
 
 **10/**
-3) Before hitting Send on a charged message — close your lips, read it once more, and ask: "would tomorrow's me still want to send this?"
+The third way to practice "Un": before hitting Send on a charged message, close your lips, read it once more, and ask — "would tomorrow's me still want to send this?"
 
 The closed-mouthed guardian is, in effect, standing watch in front of your outbox.
 

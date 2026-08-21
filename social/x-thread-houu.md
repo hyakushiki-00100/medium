@@ -42,20 +42,21 @@ The teaching makes no attempt to flatten that difference.
 ---
 
 **5/**
-This quietly separates two things we usually collapse into one:
+In the parable, "equal" quietly means something specific:
 
 Equal ≠ guaranteeing the same outcome for everyone
-Equal = offering the same opportunity to everyone
+Equal = offering the same opportunity (the rain) to everyone
 
-Different growth speeds aren't someone's failure. They're a natural result of different capacity.
+Different growth speeds aren't a failure. They're what different capacity naturally produces.
 
 ---
 
 **6/**
-Where this shows up at work:
+Two places this lands at work:
 
-→ The same training lands at different speeds for different people. Not unfair — it reflects prior experience, the "vessel" each person brings.
-→ Identical feedback to a team changes some people's behavior and not others'.
+Same training, different speeds — not unfair, just different prior experience, the "vessel" each person brings.
+
+Identical feedback changes some behavior and not others'. Worth checking readiness before rewriting the feedback.
 
 ---
 
@@ -86,5 +87,5 @@ Two questions worth asking:
 **10/**
 Not a call to lower the bar. Just a distinction worth holding onto.
 
-Full piece (+ a related four-character phrase: "one rain moistens a thousand mountains") 👇
+The four-character version of this — 一雨潤千山, "one rain moistens a thousand mountains" — plus the rest of the piece 👇
 https://medium.com/@mk3372/dharma-rain-the-same-rain-different-growth-562ec691a4b4
