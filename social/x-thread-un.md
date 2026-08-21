@@ -76,21 +76,14 @@ Three ways to practice "Un":
 ---
 
 **10/**
-The third way to practice "Un": before hitting Send on a charged message, close your lips, read it once more, and ask — "would tomorrow's me still want to send this?"
-
-The closed-mouthed guardian is, in effect, standing watch in front of your outbox.
-
----
-
-**11/**
 The ungyō statue's mouth is closed, but it isn't asleep. Whole body charged, eyes wide open, ready to move — and it deliberately doesn't speak.
 
 "Un" is silence with power stored inside it. Stillness with a will.
 
 ---
 
-**12/**
+**11/**
 In an age overflowing with words, the weight of one closed mouth stands out.
 
-Full piece (origin, sourcing, and more) 👇
+The third way to practice "Un" — what to do right before hitting Send on a message you'll regret — is in the full piece 👇
 https://medium.com/@mk3372/the-zen-word-un-%E5%90%BD-what-a-single-closed-mouth-character-teaches-us-about-silence-and-endings-c0ea2d91c832
