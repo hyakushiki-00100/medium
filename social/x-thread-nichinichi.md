@@ -65,15 +65,15 @@ It's a refusal of the whole premise that some days are pre-loaded with more sign
 ---
 
 **13/**
-Start with the plan that begins "once things calm down." A backlog, a reorg, a launch: something is always about to make the coming stretch of ordinary days count less than the marked one on the other side of it.
+Every plan that begins "once things calm down" runs on the fifteenth. A backlog, a reorg, a launch: something is always about to make the coming stretch of ordinary days count less than the marked one on the other side of it.
 
 ---
 
 **14/**
-None of this is a call to stop planning around real deadlines. The fifteenth was a real date, tied to a real practice. It's a check on whether the ordinary days around it are being treated as workable material or as a waiting room.
+Yunmen's answer isn't a call to stop planning around real deadlines. The fifteenth was a real date, tied to a real practice. It's a check on whether the ordinary days around it are being treated as workable material or as a waiting room.
 
 ---
 
 **15/**
-Two more forms of waiting for the fifteenth are still unopened here, and so is the private habit of grading a day before it's finished. The piece ends by asking whether good day and bad day were ever real categories at all 👇
+Two more forms of waiting for the fifteenth are still unopened here, and so is the private version, the one that runs without any calendar involved. The piece closes by turning Yunmen's line on the two labels you've been sorting your own days into 👇
 https://medium.com/@mk3372/he-challenged-the-room-to-say-something-about-the-day-after-the-fifteenth-no-one-could-57b17f195350

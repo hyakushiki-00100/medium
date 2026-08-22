@@ -84,7 +84,7 @@ But it rested on an assumption his own rule didn't allow: that enough seniority,
 ---
 
 **16/**
-Take the founder who stops doing the actual work. Standards that applied rigorously in year one quietly loosen once someone has enough tenure, title, or track record to make the exemption look earned rather than granted.
+Tenure does this quietly. Standards that applied rigorously in year one loosen once someone has enough title or track record to make the exemption look earned rather than granted, and the founder who no longer does the actual work is the clearest case.
 
 ---
 

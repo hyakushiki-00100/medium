@@ -5,9 +5,9 @@
 ---
 
 **1/**
-A monk asks a teacher the biggest question there is: what is Buddha?
+Tradition says the teacher was in the storeroom, weighing out hemp for the monastery's rope and cloth, when a monk came in and asked him the biggest question there is: what is Buddha?
 
-Tradition says the teacher was in the storeroom at the time, weighing out hemp for the monastery's rope and cloth. He doesn't reach for a sutra, a metaphor, or a moment of dramatic silence. 🧵👇
+He doesn't reach for a sutra, a metaphor, or a moment of dramatic silence. 🧵👇
 
 ---
 
@@ -27,7 +27,7 @@ It's Case 12 of the Blue Cliff Record, compiled by Yuanwu Keqin in 1125 as comme
 ---
 
 **5/**
-Worth being precise here. Both base texts record the same two lines and nothing more: a monk asks what Buddha is, Dongshan answers three pounds of flax.
+The base texts are thinner than the retellings. Both record the same two lines and nothing more: a monk asks what Buddha is, Dongshan answers three pounds of flax.
 
 ---
 
@@ -72,10 +72,10 @@ And per Yuanwu's warning, the lesson isn't "always answer this way as a rule." I
 ---
 
 **14/**
-Consider the vision question. Asked where the team is headed, there's real pressure to supply something inspirational rather than the plainer, truer answer: here's what we're actually doing this week, and why.
+The vision question does this reliably. Asked where the team is headed, there's real pressure to supply something inspirational rather than the plainer, truer answer: here's what we're actually doing this week, and why.
 
 ---
 
 **15/**
-The piece hands you a one-line test for your own answer, sharper than just staying concrete. Two more forms of borrowed altitude at work sit next to it, along with the version of this question you only ever ask yourself 👇
+The piece hands you a one-line test for your own answer, sharper than just staying concrete. Two more ways altitude gets borrowed at work sit next to it, along with the version of this question you only ever ask yourself 👇
 https://medium.com/@mk3372/he-was-asked-what-buddha-is-632783673d94

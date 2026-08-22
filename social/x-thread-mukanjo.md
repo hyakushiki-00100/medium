@@ -82,10 +82,10 @@ The cool place stays exactly one commitment ahead, permanently.
 ---
 
 **16/**
-None of this is a case for taking on less work. It's a question about whether the cool place being searched for was ever actually out there.
+Dongshan isn't telling anyone to take on less work. He's asking whether the cool place being searched for was ever actually out there.
 
 ---
 
 **17/**
-Where this lands hardest isn't the calendar. It's the remark that starts replaying around midnight, and what Dongshan's answer means carried into that room. The article works it through, plus two more places the cool place keeps moving one step ahead 👇
+Where this lands hardest isn't the calendar. It's the remark that starts replaying around midnight, and what Dongshan's answer means carried into that room. The article works it through, plus two more ways the cool place keeps moving one step ahead 👇
 https://medium.com/@mk3372/a-monk-asked-how-to-escape-the-cold-and-the-heat-the-teachers-answer-let-it-kill-you-a269e04793af

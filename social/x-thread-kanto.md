@@ -17,7 +17,9 @@ The teacher doesn't offer a technique, a stage beyond this one, or a warning abo
 ---
 
 **3/**
-His answer, in full: "The mountains of Langzhou, the waters of Lizhou."
+His answer: "The mountains of Langzhou, the waters of Lizhou."
+
+Real, specific places, named as if he'd been asked a geography question.
 
 ---
 
@@ -77,7 +79,7 @@ The more famous a line becomes, it turns out, the more it's worth tracing back t
 ---
 
 **15/**
-Take the expert who's out of moves. Someone masters a domain completely enough that every remaining problem feels like a variation on ones they've already solved, and the growth quietly stops. Not from laziness, but from running out of the kind of problem that got them here.
+Experts run out of moves this way. Someone masters a domain completely enough that every remaining problem feels like a variation on ones they've already solved, and the growth quietly stops. Not from laziness, but from running out of the kind of problem that got them here.
 
 ---
 

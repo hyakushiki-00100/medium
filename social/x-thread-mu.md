@@ -74,7 +74,7 @@ The instruction isn't to solve "Mu" as a riddle with a hidden correct reading. I
 ---
 
 **14/**
-Picture the status meeting. Someone asks a question nobody in the room has enough information to answer, and someone answers it anyway, because silence reads as incompetence and a wrong-but-confident guess doesn't.
+Status meetings run on this. Someone asks a question nobody in the room has enough information to answer, and someone answers it anyway, because silence reads as incompetence and a wrong-but-confident guess doesn't.
 
 ---
 

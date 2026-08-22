@@ -79,5 +79,5 @@ The old woman didn't grade it as one.
 ---
 
 **15/**
-What she was actually testing for wasn't the absence of a reaction. The article names it, then adds two more ways a flat face passes for composure at work, and the harder distinction: telling numbness apart from peace after something painful 👇
+The fire wasn't punishment. What she was marking with it is in the article, with what composure turns out to require instead of the absence of feeling, two more ways a flat face reads as professionalism at work, and the line between numbness and peace 👇
 https://medium.com/@mk3372/like-a-bare-tree-against-a-cold-cliff-no-warmth-anywhere-the-old-woman-burned-the-hut-down-c576ac1f31f7

@@ -34,7 +34,7 @@ Before he arrived, he had supported his mother by selling firewood. Once there, 
 ---
 
 **6/**
-Worth being honest about the story. Modern scholars, including John McRae and Philip Yampolsky, treat the entire verse contest with real skepticism. Some read it as a later construction, quite possibly shaped by Huineng's own disciple Shenhui.
+The story itself doesn't survive scrutiny cleanly. Modern scholars, including John McRae and Philip Yampolsky, treat the entire verse contest with real skepticism. Some read it as a later construction, quite possibly shaped by Huineng's own disciple Shenhui.
 
 ---
 
@@ -76,7 +76,7 @@ The most obvious version at work is the performance of having it together. A lot
 ---
 
 **14/**
-None of this argues for carelessness. It argues for checking whether what you're defending so vigilantly actually needs the defense.
+Carelessness isn't what's on offer here. The suggestion is smaller and more awkward: check whether the thing you're defending so vigilantly actually needs defending.
 
 ---
 

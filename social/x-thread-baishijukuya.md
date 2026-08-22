@@ -27,7 +27,7 @@ Damei doesn't blink. "Let him teach whatever he wants," he says. "I'm sticking w
 ---
 
 **5/**
-Worth being precise about where this comes from. The original exchange, Mazu's answer, is genuinely Case 30 of the Gateless Gate, compiled by Wumen Huikai in 1228. But the case is just that one line.
+Two different documents are doing the work here. The original exchange, Mazu's answer, is genuinely Case 30 of the Gateless Gate, compiled by Wumen Huikai in 1228. But the case is just that one line.
 
 ---
 
@@ -71,12 +71,12 @@ Even Wumen's warning about clinging to the phrase doesn't really land on him. Da
 ---
 
 **13/**
-He had the time to be sure. Damei Fachang (752–839) came to Chan practice in his twenties, didn't linger long as one of Mazu's many students, and spent roughly forty years on that mountain, deepening a realization that arrived in one sentence.
+He had the time to be sure. Damei Fachang (752–839) came to Chan practice in his twenties, didn't linger long as one of Mazu's many students, and spent roughly forty years on that mountain, deepening a realization that had arrived, by tradition's account, in one sentence.
 
 ---
 
 **14/**
-Watch it happen when a respected voice moves. The reflex is to shift with them, even when your own understanding never came from secondhand repetition to begin with. Updating the moment the room does is not the same as updating because you checked.
+A respected voice changes their public stance, and the reflex is to shift with them, even when your own understanding never came from secondhand repetition to begin with. Updating the moment the room does is not the same as updating because you checked.
 
 ---
 

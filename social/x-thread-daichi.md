@@ -59,7 +59,7 @@ Most retellings stop at the grain of rice and leave out what Xuefeng does next. 
 ---
 
 **11/**
-Consider the strategic problem no one will touch. "Fix our culture" or "solve retention" gets discussed at the scale of the whole organization, which is exactly the scale at which no one can do anything about it.
+Some problems never get touched because of the size they're held at. "Fix our culture" or "solve retention" gets discussed at the scale of the whole organization, which is exactly the scale at which no one can do anything about it.
 
 ---
 
@@ -69,5 +69,5 @@ The moment someone names one actual behavior in one actual meeting, the whole-or
 ---
 
 **13/**
-His drum call is a single technical term from monastic life, and it changes what the case is asking for. The piece unpacks it, then finds two more places a problem gets held at a scale nobody can act on, plus the one you're holding at arm's length now 👇
+His drum call is a single technical term from monastic life, and it changes what the case is asking for. The piece unpacks it, then finds two more problems being held at a scale nobody can act on, plus the one you're holding at arm's length now 👇
 https://medium.com/@mk3372/he-picked-up-the-entire-earth-it-was-the-size-of-a-grain-of-rice-and-still-no-one-saw-it-035133d3d8b0
