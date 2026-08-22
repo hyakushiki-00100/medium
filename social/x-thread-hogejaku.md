@@ -9,12 +9,12 @@
 
 It's the advice everyone gives and almost nobody can follow.
 
-Trace it to the Zen teacher who coined the sharper version, and it turns out even your letting-go is one more thing you're still holding. 🧵👇
+There's a Zen phrase behind that advice, and it asks for something harder: even your letting-go is one more thing you're still holding. 🧵👇
 
 ---
 
 **2/**
-Zhaozhou (778–897) was a Tang-dynasty Zen master famous for answering enormous questions with almost nothing at all. Two monks once asked him separately about the same thing and got the identical two-word instruction back: go have some tea.
+Zhaozhou (778–897) was a Tang-dynasty Zen master famous for answering enormous questions with almost nothing at all. He once asked two monks the same question, have you been here before. They gave opposite answers and got the same instruction back: go have some tea.
 
 ---
 
@@ -66,5 +66,5 @@ There's a sharper, inward version too. The person who says "Oh, I've completely 
 ---
 
 **12/**
-The other two things people carry without noticing, plus the one-line test for whether letting go is real or just an announcement, are in the essay 👇
+The one-line test for whether letting go is real or just an announcement, plus the two loads people carry without ever noticing they picked them up, is in the essay 👇
 https://medium.com/@mk3372/put-it-down-even-im-carrying-nothing-the-zen-word-h%C5%8Dgejaku-%E6%94%BE%E4%B8%8B%E8%91%97-fb1fc6992dd5

@@ -42,30 +42,25 @@ The emperor, baffled, presses further: asks what the highest truth of Buddhism a
 ---
 
 **8/**
-The emperor asks who, then, is standing before him. "I don't know," Bodhidharma says, and leaves for the kingdom of Wei.
-
----
-
-**9/**
 It's tempting to read this as Bodhidharma dismissing the emperor's works as worthless. He wasn't. The temples stayed built. The monks stayed fed. The refusal wasn't aimed at the deeds. It was aimed at the ledger the emperor was keeping alongside them.
 
 ---
 
-**10/**
+**9/**
 The deed itself doesn't stop counting because someone was hoping for a return on it. What changes is what's actually occupying the person at the moment of giving: part of their attention is on the gift, part is already at the teller's window, waiting for the payout.
 
 ---
 
-**11/**
+**10/**
 One example: the favor with an invoice attached. Help extended with half an eye on the future ask isn't generosity; it's financing. Resentment is what a loan looks like when it isn't repaid.
 
 ---
 
-**12/**
+**11/**
 None of this is an argument for self-erasure, or for pretending you don't want to be seen doing good work. Wanting to be seen is human. It's a distinction between the deed and the accounting attached to it.
 
 ---
 
-**13/**
-The other two examples of this, the private version of the ledger you might be keeping on yourself with an audience of one, and how the whole exchange with Bodhidharma actually closes, are in the piece 👇
+**12/**
+How the exchange with Bodhidharma actually closes is in the piece, along with two more forms the invoice takes at work and the private ledger you may be keeping with an audience of one 👇
 https://medium.com/@mk3372/you-did-the-right-thing-stop-waiting-for-the-receipt-the-zen-answer-no-merit-%E7%84%A1%E5%8A%9F%E5%BE%B3-41c1e1f231ac

@@ -69,5 +69,5 @@ There's a quieter point hiding in the etymology too. We tend to imagine depth li
 ---
 
 **13/**
-The other two gates worth rebuilding, plus the line the whole piece turns on: "you meet it at the door, or you don't meet it at all". Waiting in the article 👇
+Two more thresholds worth rebuilding, and the single sentence about where depth actually begins that the whole piece turns on, are waiting in the article 👇
 https://medium.com/@mk3372/the-doorway-where-you-take-off-your-shoes-means-gate-to-the-profound-the-zen-word-genkan-%E7%8E%84%E9%96%A2-a6c20c8be956

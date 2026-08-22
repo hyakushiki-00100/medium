@@ -59,12 +59,12 @@ Yuanwu's answer refused the substitution. He didn't claim to see the road ahead.
 ---
 
 **11/**
-High achievers tend to treat uncertainty as a research problem: gather enough data, model enough scenarios, and the darkness will eventually resolve into a lit path. Often it doesn't, and the gathering becomes its own form of paralysis.
+High achievers tend to treat uncertainty as a research problem: gather enough data, model enough scenarios, and the darkness will eventually resolve into a lit path. Sometimes it does. Often it doesn't, and the gathering becomes its own form of paralysis.
 
 ---
 
 **12/**
-One place this bites: the strategy no one can finalize. When the five-year plan won't cohere, the instinct is to keep refining the plan. Kankyakka suggests refining the next decision instead, the one concrete step you can actually verify right now.
+Take the strategy no one can finalize. When the five-year plan won't cohere, the instinct is to keep refining the plan. Kankyakka suggests refining the next decision instead, the one concrete step you can actually verify right now.
 
 ---
 
@@ -74,5 +74,5 @@ None of this is an argument against planning. It's an argument against waiting f
 ---
 
 **14/**
-The other three situations this applies to, plus what confidence actually means once you stop trying to see the whole path, are in the piece 👇
+Three more corners of a working life where the same instruction applies, plus what confidence actually means once you stop trying to see the whole path, are in the piece 👇
 https://medium.com/@mk3372/the-lantern-went-out-look-at-your-feet-the-zen-instruction-kankyakka-%E7%9C%8B%E8%84%9A%E4%B8%8B-511c3416d0f5

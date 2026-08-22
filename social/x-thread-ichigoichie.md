@@ -57,7 +57,7 @@ The meeting you half-attend today isn't deferred to a better one. It's simply sp
 ---
 
 **11/**
-One place this bites: the introduction you rush. Meeting someone for the first time happens exactly once. Whatever attention you fail to bring, you don't get to bring later. First meetings have no retake.
+Consider the introduction you rush. Meeting someone for the first time happens exactly once. Whatever attention you fail to bring, you don't get to bring later. First meetings have no retake.
 
 ---
 
@@ -72,5 +72,5 @@ But every ordinary dinner, every unremarkable phone call on the drive home, is a
 ---
 
 **14/**
-The other three situations this changes at work, plus the one-line reframe the whole piece lands on, are waiting in the article 👇
+Three more meetings this quietly changes, plus the one-line reframe the whole piece lands on, are in the article 👇
 https://medium.com/@mk3372/you-will-never-be-in-this-exact-room-again-the-zen-phrase-ichigo-ichie-%E4%B8%80%E6%9C%9F%E4%B8%80%E4%BC%9A-cd88caf466eb

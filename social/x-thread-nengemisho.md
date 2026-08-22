@@ -9,7 +9,7 @@
 
 Said like that, it sounds like a nice bit of chemistry.
 
-Trace the phrase back to its Zen root, and you find something stranger: a flower, held up in silence, that Buddhist scholars now think never happened. 🧵👇
+Its Zen root is something stranger: a flower, held up in silence, in a scene Buddhist scholars now think never happened. 🧵👇
 
 ---
 
@@ -41,7 +41,7 @@ Earlier Buddhist accounts even place Mahakasyapa far from the Buddha's side at t
 ---
 
 **7/**
-The story doesn't settle into Zen literature until around 1183, roughly 1,700 years after the Buddha's lifetime.
+In writing, the story doesn't clearly settle into Zen literature until around 1183, roughly 1,700 years after the Buddha's lifetime.
 
 ---
 
@@ -76,5 +76,5 @@ One question worth sitting with before assuming someone should "just get it": am
 ---
 
 **14/**
-The other two checks worth running before assuming someone should just get it, plus why even careful, thorough explanation still needs silence and trust sitting next to it, are in the piece 👇
+Before assuming someone should just get it, there are two further checks worth running. Both are in the piece, along with why even careful, thorough explanation still needs silence and trust sitting next to it 👇
 https://medium.com/@mk3372/we-just-get-each-other-isnt-a-compliment-it-s-the-zen-story-of-holding-up-a-flower-c35bcd62fb20

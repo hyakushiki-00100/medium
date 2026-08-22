@@ -59,7 +59,7 @@ Most professional training rewards exactly the move this koan forbids: find the 
 ---
 
 **11/**
-One example: the reorg with no good option. Every path costs someone something real, and the meeting keeps generating clever frameworks to avoid saying so plainly. At some point the frameworks are the avoidance.
+Watch it happen in a reorg with no good option. Every path costs someone something real, and the meeting keeps generating clever frameworks to avoid saying so plainly. At some point the frameworks are the avoidance.
 
 ---
 
@@ -69,5 +69,5 @@ None of this argues against expertise. It argues for noticing the specific momen
 ---
 
 **13/**
-The other two places this bites, the private edition of this koan for when no one else is in the room, and the actual instruction Hakuin's answer gives you, are in the piece 👇
+Hakuin's koan ends by handing you an actual instruction. That, two more moments where cleverness runs out, and the private edition of this koan for when no one else is in the room, are in the piece 👇
 https://medium.com/@mk3372/the-clever-answer-was-never-the-point-hakuins-koan-of-the-sound-of-one-hand-77f4d68468a5

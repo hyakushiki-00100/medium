@@ -9,7 +9,7 @@
 
 Say something like that and you're picturing volume: a raised voice, a hard face.
 
-Trace the Zen shout behind it back to its origin, and it has almost nothing to do with anger. 🧵👇
+The Zen shout underneath that instinct started somewhere else entirely. It has almost nothing to do with anger. 🧵👇
 
 ---
 
@@ -51,27 +51,20 @@ One like a golden-haired lion crouching low: pure poised presence, before any mo
 ---
 
 **9/**
-One like a fisherman's probing pole: a lure, testing what the other person will do.
-
-And one that "does not function as a shout" at all: restraint, the deliberate choice not to shout.
+Notice that only the first of those is anything like a raised voice. In Linji's hands a shout was a whole vocabulary, not a volume setting.
 
 ---
 
 **10/**
-Only the first is anything like a raised voice. The other three are precision, presence, probing, and knowing when to stay quiet. In Linji's hands a shout was a whole vocabulary, not a volume setting.
-
----
-
-**11/**
 Most of the "katsu" delivered in offices is the crude kind: louder feedback, a sharper tone, aimed at motivation. It mostly manufactures fear. Fear produces careful people, not awake ones.
 
 ---
 
-**12/**
+**11/**
 The real katsu is smaller and better aimed: one well-timed question that stops a colleague, or yourself, mid-rationalization. Delivered once, at the right moment, it does what an hour of raised voices cannot.
 
 ---
 
-**13/**
-The actual question worth asking mid-rationalization, the fourth katsu that matters most for anyone who leads, and the inward version you can turn on yourself, are all in the piece 👇
+**12/**
+Two of the four shouts are missing here, including the one that isn't a shout at all and matters most for anyone who leads. So is the actual question worth asking mid-rationalization, and the version you turn on yourself 👇
 https://medium.com/@mk3372/shouting-louder-doesnt-wake-anyone-the-zen-word-katsu-%E5%96%9D-8dc1f128c7d7

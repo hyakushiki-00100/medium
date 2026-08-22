@@ -9,7 +9,7 @@ Several times a day, a monk named Ruiyan Shiyan (better known by the Japanese re
 
 Then answer his own call: "Yes."
 
-He did this for years, without embarrassment. 🧵👇
+He did this for years, apparently without embarrassment. 🧵👇
 
 ---
 
@@ -59,7 +59,7 @@ A boss's offhand comment. A family expectation never examined. An old version of
 ---
 
 **11/**
-One place this bites: the inbox that runs you instead of the reverse. Before opening it, a two-second check: master, are you here? If not, the inbox will happily make every decision for you today.
+Start with the inbox that runs you instead of the reverse. Before opening it, a two-second check: master, are you here? If not, the inbox will happily make every decision for you today.
 
 ---
 
@@ -69,5 +69,5 @@ What makes Zuigan's practice unusual isn't the content. Plenty of traditions rec
 ---
 
 **13/**
-The other two situations this changes at work, the version of this practice meant for when nobody's watching at all, and how Zuigan's own exchange actually ends, are all in the piece 👇
+There's a version of this practice meant for when nobody's watching at all, two more places the master quietly goes missing, and a reason what you answer matters less than you'd think. All in the piece 👇
 https://medium.com/@mk3372/master-are-you-there-the-zen-habit-of-calling-your-own-name-%E4%B8%BB%E4%BA%BA%E5%85%AC-ec211c6e27d5

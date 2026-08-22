@@ -37,7 +37,7 @@ Nanquan's reply is the sharper half of the exchange: "The moment you aim at it, 
 ---
 
 **7/**
-Worth being honest about the record: this is preserved as Case 19 of the Gateless Gate, compiled in 1228, nearly four centuries after Nanquan's death. What we have is the teaching as the tradition carried it forward, not minutes taken that afternoon.
+Worth being honest about the record: this is preserved as Case 19 of the Gateless Gate, compiled in 1228, nearly four centuries after Nanquan's death. What we have is the teaching as the tradition carried it forward, and the wording almost certainly sharpened with retelling.
 
 ---
 
@@ -62,10 +62,10 @@ The "peak state" everyone chases is usually just ordinary mind plus a great deal
 ---
 
 **12/**
-One place this bites: waiting to feel ready. Motivation gets treated as a prerequisite for starting. The steadier move is the reverse: begin in an entirely ordinary state and let engagement arrive through the work itself, not before it.
+Waiting to feel ready is the obvious case. Motivation gets treated as a prerequisite for starting. The steadier move is the reverse: begin in an entirely ordinary state and let engagement arrive through the work itself, not before it.
 
 ---
 
 **13/**
-The other two places this bites, the inward version of the same aiming stretched across a whole life instead of a single afternoon, and the actual instruction Nanquan's teacher carried forward, are in the piece 👇
+The reaching shows up in two more places at work. Those, the same aiming stretched across a whole life instead of a single afternoon, and what mastery turns out to be once you stop chasing a peak state, are in the piece 👇
 https://medium.com/@mk3372/stop-chasing-the-peak-state-the-zen-answer-ordinary-mind-is-the-way-%E5%B9%B3%E5%B8%B8%E5%BF%83%E6%98%AF%E9%81%93-7bcc6d214bb3
