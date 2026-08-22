@@ -1,6 +1,6 @@
 # X thread — 本来無一物 (honrai muichimotsu) — 元記事: articles/medium/muichimotsu-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/he-couldnt-read-a-word-003337a38808
 
 ---
 
@@ -82,4 +82,4 @@ None of this argues for carelessness. It argues for checking whether what you're
 
 **15/**
 Hongren never announced the winner out loud. What he did after dark instead is where the story actually turns. The article has that, the two remaining mirrors people keep polishing at work, and the question all of this puts to your own self-image 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/he-couldnt-read-a-word-003337a38808

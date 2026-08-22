@@ -1,6 +1,6 @@
 # X thread — 尽大地 (jin daichi) — 元記事: articles/medium/daichi-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/he-picked-up-the-entire-earth-it-was-the-size-of-a-grain-of-rice-and-still-no-one-saw-it-035133d3d8b0
 
 ---
 
@@ -70,4 +70,4 @@ The moment someone names one actual behavior in one actual meeting, the whole-or
 
 **13/**
 His drum call is a single technical term from monastic life, and it changes what the case is asking for. The piece unpacks it, then finds two more places a problem gets held at a scale nobody can act on, plus the one you're holding at arm's length now 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/he-picked-up-the-entire-earth-it-was-the-size-of-a-grain-of-rice-and-still-no-one-saw-it-035133d3d8b0

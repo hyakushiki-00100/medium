@@ -1,6 +1,6 @@
 # X thread — 麻三斤 (masangin) — 元記事: articles/medium/masangin-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/he-was-asked-what-buddha-is-632783673d94
 
 ---
 
@@ -78,4 +78,4 @@ Consider the vision question. Asked where the team is headed, there's real press
 
 **15/**
 The piece hands you a one-line test for your own answer, sharper than just staying concrete. Two more forms of borrowed altitude at work sit next to it, along with the version of this question you only ever ask yourself 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/he-was-asked-what-buddha-is-632783673d94

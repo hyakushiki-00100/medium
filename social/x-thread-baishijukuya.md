@@ -1,6 +1,6 @@
 # X thread — 梅子熟也 (baishi jukuya) — 元記事: articles/medium/baishijukuya-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/his-teacher-changed-the-answer-a5eca4358d05
 
 ---
 
@@ -87,4 +87,4 @@ Mazu's second answer wasn't wrong for the people who needed it. What actually ma
 
 **16/**
 The monk carried Damei's answer back down the mountain. Mazu's verdict was not "he passed", and the joke buried inside it turns on Damei's own name. Read that, plus two more ways the updated position gets chased at work, here 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/his-teacher-changed-the-answer-a5eca4358d05

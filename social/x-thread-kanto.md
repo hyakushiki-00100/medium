@@ -1,6 +1,6 @@
 # X thread — 百尺竿頭進一歩 (hyakushaku kantō shin ippo) — 元記事: articles/medium/kanto-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/a-monk-whod-already-reached-the-top-asked-what-came-next-4a48debee94b
 
 ---
 
@@ -88,4 +88,4 @@ Take the expert who's out of moves. Someone masters a domain completely enough t
 
 **17/**
 The monk didn't follow that answer, so Changsha added one more line, and that second one is where the koan lands. The article carries the exchange to its finish, then finds two more heights people stop climbing, and the step off your own pole 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/a-monk-whod-already-reached-the-top-asked-what-came-next-4a48debee94b

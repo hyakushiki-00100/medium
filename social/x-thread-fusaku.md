@@ -1,6 +1,6 @@
 # X thread — 一日不作、一日不食 (ichijitsu fusaku, ichijitsu fushoku) — 元記事: articles/medium/fusaku-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/his-students-hid-his-farm-tools-so-hed-finally-rest-he-skipped-dinner-instead-6f10d1d86420
 
 ---
 
@@ -90,4 +90,4 @@ Take the founder who stops doing the actual work. Standards that applied rigorou
 
 **17/**
 Baizhang wasn't staging a protest by skipping one meal, and the point isn't self-punishment. What the piece asks in its place is one blunt question about the standards you enforce, and it arrives with two more shapes the exemption takes at work 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/his-students-hid-his-farm-tools-so-hed-finally-rest-he-skipped-dinner-instead-6f10d1d86420

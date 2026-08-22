@@ -1,6 +1,6 @@
 # X thread — 安心 (anjin) — 元記事: articles/medium/anjin-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/my-mind-isnt-at-peace-fix-it-show-me-this-mind-and-i-will-d69469d5d6cc
 
 ---
 
@@ -85,4 +85,4 @@ Huike's unrest was real enough to carry him across a mountain range in winter, s
 
 **16/**
 This thread stops one line short of the ending. What Huike found when he went looking, and what Bodhidharma said back, finish the exchange in the article, next to two more forms of this reflex at work and an exercise that reruns his search 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/my-mind-isnt-at-peace-fix-it-show-me-this-mind-and-i-will-d69469d5d6cc

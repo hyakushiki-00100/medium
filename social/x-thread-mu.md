@@ -1,6 +1,6 @@
 # X thread — 無 (mu) — 元記事: articles/medium/mu-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/a-monk-asked-if-a-dog-has-buddha-nature-the-teacher-said-no-which-should-have-been-41780a1ae5bf
 
 ---
 
@@ -85,4 +85,4 @@ Zhaozhou's answer worked precisely because he wasn't managing anyone's discomfor
 
 **16/**
 Zhaozhou gave a different monk the opposite answer, in that same earlier record, with a reason for that one too. The article picks it up there, finds two more places an open question gets closed early, then one where the unready decision is yours 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/a-monk-asked-if-a-dog-has-buddha-nature-the-teacher-said-no-which-should-have-been-41780a1ae5bf
