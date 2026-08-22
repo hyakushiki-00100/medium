@@ -1,6 +1,6 @@
 # X thread — 潙山水牯牛 (isan suikogyū) — 元記事: articles/medium/suikogyu-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/in-a-hundred-years-ill-be-reborn-as-a-water-buffalo-at-the-foot-of-this-mountain-3ff12c5d1835
 
 ---
 
@@ -92,4 +92,4 @@ Sit in the meeting where the same issue gets two names. Sales calls it a pricing
 
 **17/**
 Guishan wasn't asking anyone to find the correct name. What he was asking for instead, two more meetings that stall on a label, and the two contradictory names you answer to depending on which room you're in: all of that starts where this thread stops 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/in-a-hundred-years-ill-be-reborn-as-a-water-buffalo-at-the-foot-of-this-mountain-3ff12c5d1835

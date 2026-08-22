@@ -1,6 +1,6 @@
 # X thread — 無位真人 (mui no shinnin) — 元記事: articles/medium/muinoshinnin-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/he-told-the-room-theres-a-person-with-no-rank-living-behind-their-own-faces-8e01594b3c01
 
 ---
 
@@ -81,4 +81,4 @@ Structure still matters here. Meetings need someone running them, and someone ha
 
 **16/**
 What that hesitation gave away, and why Linji treated it as the end of the conversation, is worked out in the article. So are two more places rank quietly stands in for the work, and the private ladder you've been climbing that nobody else can see 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/he-told-the-room-theres-a-person-with-no-rank-living-behind-their-own-faces-8e01594b3c01

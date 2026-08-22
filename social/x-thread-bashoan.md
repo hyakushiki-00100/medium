@@ -1,6 +1,6 @@
 # X thread — 婆子焼庵 (bashōan) — 元記事: articles/medium/bashoan-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/like-a-bare-tree-against-a-cold-cliff-no-warmth-anywhere-the-old-woman-burned-the-hut-down-c576ac1f31f7
 
 ---
 
@@ -80,4 +80,4 @@ The old woman didn't grade it as one.
 
 **15/**
 What she was actually testing for wasn't the absence of a reaction. The article names it, then adds two more ways a flat face passes for composure at work, and the harder distinction: telling numbness apart from peace after something painful 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/like-a-bare-tree-against-a-cold-cliff-no-warmth-anywhere-the-old-woman-burned-the-hut-down-c576ac1f31f7

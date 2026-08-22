@@ -1,6 +1,6 @@
 # X thread — 日日是好日 (nichinichi kore kōnichi) — 元記事: articles/medium/nichinichi-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/he-challenged-the-room-to-say-something-about-the-day-after-the-fifteenth-no-one-could-57b17f195350
 
 ---
 
@@ -76,4 +76,4 @@ None of this is a call to stop planning around real deadlines. The fifteenth was
 
 **15/**
 Two more forms of waiting for the fifteenth are still unopened here, and so is the private habit of grading a day before it's finished. The piece ends by asking whether good day and bad day were ever real categories at all 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/he-challenged-the-room-to-say-something-about-the-day-after-the-fifteenth-no-one-could-57b17f195350

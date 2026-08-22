@@ -1,6 +1,6 @@
 # X thread — 無寒暑 (mukanjo) — 元記事: articles/medium/mukanjo-en.md
 
-元URL(CTA用): ⚠️未取得 — リポジトリ内に本記事の Medium 公開 URL が存在しない。オーナーが投稿前に実 URL を貼付すること。
+元URL(CTA用): https://medium.com/@mk3372/a-monk-asked-how-to-escape-the-cold-and-the-heat-the-teachers-answer-let-it-kill-you-a269e04793af
 
 ---
 
@@ -88,4 +88,4 @@ None of this is a case for taking on less work. It's a question about whether th
 
 **17/**
 Where this lands hardest isn't the calendar. It's the remark that starts replaying around midnight, and what Dongshan's answer means carried into that room. The article works it through, plus two more places the cool place keeps moving one step ahead 👇
-⚠️元記事URL未取得（オーナー貼付）
+https://medium.com/@mk3372/a-monk-asked-how-to-escape-the-cold-and-the-heat-the-teachers-answer-let-it-kill-you-a269e04793af
