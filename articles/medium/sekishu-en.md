@@ -3,7 +3,7 @@ title: "The Clever Answer Was Never the Point. Hakuin's Koan of the Sound of One
 subtitle: "Hakuin's Koan of the Sound of One Hand."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-08-22・オーナー報告）。published_url 未取得
 tags: ["Critical Thinking", "Self Improvement", Mindfulness, Leadership, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-07-27
 published_url: ""
