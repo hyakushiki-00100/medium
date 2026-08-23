@@ -14,70 +14,47 @@ Then one day she sent the girl who brought his meals to embrace him, and to ask 
 **2/**
 He answered: like a bare tree leaned against a cold cliff, not a trace of warmth anywhere.
 
----
-
-**3/**
 The girl carried the answer back. The old woman said she'd spent twenty years feeding an ordinary man, threw him out, and burned the hut to the ground.
 
 ---
 
+**3/**
+Twenty years isn't the kind of thing anyone spends on charity. It reads more like preparation, for exactly this one moment. From the monk's side it was sudden: an embrace with no time to compose an answer. From the old woman's side, every year had been building toward it.
+
+---
+
 **4/**
-Twenty years isn't the kind of thing anyone spends on charity. It reads more like preparation, for exactly this one moment.
-
----
-
-**5/**
-From the monk's side, what happened was sudden: an unscripted embrace, a question with no time to compose an answer. From the old woman's side, every year of food and shelter had been building toward this single test.
-
----
-
-**6/**
 She wasn't measuring how many sutras he could recite or how long he could sit still. She wanted to know what would come out of him the instant he had no chance to prepare it.
 
 ---
 
-**7/**
-The exchange survives in the Wudeng Huiyuan, compiled in 1252 by the monk Puji, who condensed five earlier Chan lamp-records into a single collection.
+**5/**
+The exchange survives in the Wudeng Huiyuan, compiled in 1252 by the monk Puji from five earlier Chan lamp-records. It appears there under an entry titled, roughly, "an old woman of the way whose name is lost." Neither the monk nor the old woman is named anywhere in the text.
 
 ---
 
-**8/**
-It appears there under an entry titled, roughly, "an old woman of the way whose name is lost." Neither the monk nor the old woman is named anywhere in the text.
-
----
-
-**9/**
+**6/**
 Whoever they were, history apparently didn't think their names were the point. What's certain is that an exchange between two people nobody bothered to name has still reached readers more than seven hundred years later.
 
 ---
 
-**10/**
-For two decades, the monk's days probably looked nearly identical to one another. The same girl arrived with food at roughly the same hour. Mountains outside the hut, seasons turning. Nothing else happened.
+**7/**
+For two decades, the monk's days probably looked nearly identical: the same girl at the same hour, seasons turning. Inside that stillness, it would have been easy to believe his own flatness was the finish line. The old woman's test existed to find out if that calm was real.
 
 ---
 
-**11/**
-Inside that stillness, it would have been easy to start believing his own flatness was the finish line. That a life with nothing left to disturb it was what the practice had been building toward.
-
----
-
-**12/**
-The test the old woman designed existed to find out whether that calm was real.
-
----
-
-**13/**
+**8/**
 Treating a blank expression as professionalism is common enough that it barely registers as a choice. An unreasonable request lands, an unfair comment lands, the face doesn't move. It reads as composure. It can just as easily be a nervous system gone rigid rather than settled.
 
 ---
 
-**14/**
+**9/**
 The monk's answer, bare tree, no warmth, sounds on its face like something close to an ideal.
 
 The old woman didn't grade it as one.
 
 ---
 
-**15/**
+**10/**
 The fire wasn't punishment. What she was marking with it is in the article, with what composure turns out to require instead of the absence of feeling, two more ways a flat face reads as professionalism at work, and the line between numbness and peace 👇
 https://medium.com/@mk3372/like-a-bare-tree-against-a-cold-cliff-no-warmth-anywhere-the-old-woman-burned-the-hut-down-c576ac1f31f7
