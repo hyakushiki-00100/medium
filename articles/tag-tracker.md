@@ -67,6 +67,7 @@ Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断
 | 潙山水牯牛 suikogyu | **Open-Mindedness** | Self Improvement | Mindfulness | Critical Thinking | Zen | 公開済み。潙山霊祐「百年後、水牛に生まれ変わる。『潙山の僧』と呼べば水牛でもあり、『水牛』と呼べば潙山の僧でもある。何と呼べばいいのか」＝同じ実体が矛盾する二つの名前に正しく答えうる、というカテゴリー分けの限界への問い。primary Open-Mindedness はシリーズ初。muinoshinnin(無位真人)と「名前・定義が本質を捉えられない」というテーマで隣接するが、muinoshinninは肩書き不要の本質という自己肯定寄りの角度、本記事はカテゴリー分けの限界という角度で差別化 |
 | 非風非幡 hifuhiban | **Self Awareness** | Self Improvement | Mindfulness | Emotional Intelligence | Zen | 新規（draft）。六祖慧能「風が動くのでも、幡が動くのでもない。動いているのは、あなたがたの心だ」＝外部への原因帰属と、それに反応している自分自身の心の区別。primary Self Awareness は shujinko(主人公)と重複懸念があったが、shujinkoは自己点検の習慣、本記事は外部帰属と反応性という別角度で差別化。muichimotsu(本来無一物)と同じ慧能の伝記(弘忍からの法衣継承・南への逃避)の続きの場面で、事実関係の整合性を再確認済み |
 | 不昧因果 fumaiinga | **Consequences** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。無門関第二則「百丈野狐」＝深く修めた者は因果に落ちないと答えた老僧が五百回キツネに生まれ変わり、百丈の「因果に昧まされない」の一言で解脱。因果からの免除を主張することと、因果を明晰に見ることの違いへの問い。primary Consequences はシリーズ初。教師(百丈懐海)は fusaku(一日不作一日不食)と重複するが、fusaku は「地位が免除を与えない」という自己規律の角度、本記事は「深さが因果からの免除を与えるという思い込み」という因果の見え方の角度で差別化 |
+| 香厳上樹 joju | **Communication** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。景徳伝灯録(1004年、香厳没後約106年)が最古の出典＝崖の木に歯だけでぶら下がる者に、下から誰かが大きな問いを投げる。答えれば落ち、黙れば相手を裏切る、という二者択一の罠＝弟子の招上座は罠の条件そのものを解かず「木に上る前はどうだったか」と時間軸の外から切り返した。primary Communication はシリーズ初の角度（nengemisho は「以心伝心」というテーマで近いが、本記事は「言うか黙るかの二択の罠」という別角度）。教師(香厳智閑)は kyogen(香厳撃竹)と重複するが、kyogen は知識への執着、本記事は二者択一の罠という別角度で差別化 |
 
 ### 仏教語シリーズ（一隅を照らす）
 
