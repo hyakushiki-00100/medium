@@ -117,3 +117,33 @@ utekisei/houu/ukiseikou/un の4本を Opus に横断評価させた結果、以�
 
 `social/x-thread-<slug>.md`（`<slug>` は元記事の slug と揃える）。
 先頭に元記事へのパスと、CTA で使う元記事 URL をメモとして残す。
+
+note(日本語)記事から作る日本語版 X スレッドは `social/x-thread-<slug>-ja.md`
+（`-ja` サフィックスで英語版と区別。元記事は `articles/note/<slug>-ja.md`、
+CTA の URL は note.com のもの）。
+
+## 日本語版の文字数チェック（bashoan-ja で導入・2026-08-23〜）
+
+X は全角(CJK・全角記号)を2字、半角を1字として重み付けし、合計が280以内かで判定する
+（EN のような「常に1字」ではない）。日本語スレッドは以下で確認する。
+
+```bash
+python3 << 'EOF'
+import re, unicodedata
+
+def weighted_len(s):
+    return sum(2 if unicodedata.east_asian_width(c) in ('W', 'F') else 1 for c in s)
+
+text = open('social/x-thread-<slug>-ja.md').read()
+segments = re.split(r'^\*\*(\d+)/\*\*\s*$', text, flags=re.M)
+it = iter(segments[1:])
+for num, body in zip(it, it):
+    body_clean = body.strip().split('\n---')[0].strip()
+    body_for_count = re.sub(r'https?://\S+', 'x'*23, body_clean)  # URL は半角23字換算
+    wl = weighted_len(body_for_count)
+    print(num, wl, 'OVER' if wl > 280 else 'ok')
+EOF
+```
+
+引用の逐語チェックは EN と同じ手順（`grep -o` で抽出し元記事に存在するか確認）だが、
+日本語は「」『』の両方を鍵括弧として扱う点に注意する。
