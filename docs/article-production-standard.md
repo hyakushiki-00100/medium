@@ -101,6 +101,8 @@
 - `"There's a version of this..."` を内面ビートの書き出しに使う（byojoshin / ichigoichie / ichigu / kankyakka /
   kissako / mukudoku）。
 - `"The same [名詞] runs/shows up privately"` を内面ビートの書き出しに使う（mu / daichi）。
+- `"There's a private version/edition/shape of..."` を内面ビートの書き出しに使う（mukudoku / sekishu / nittensuishu）。
+  nittensuishu で検知・回避（2026-08-27、内容を直接書き出す形に変更）。
 - 見出し `"What [X] actually [Y]"` 型（masangin / muichimotsu / ukiseikou）。
 - 見出し `"The [名詞] you [動詞] yourself"` 型（katsu「The shout you give yourself」/ mu「The certainty you
   manufacture for yourself」/ mukudoku「The ledger you keep on yourself」）。
@@ -120,6 +122,9 @@
   muinoshinnin「自分自身に、こっそり割り当てている位」の 3 本）。mukansho で検知・回避（2026-08-17）。
 - 結びの文末 `「〜ただけでした。」`（kanto / daichi / nichinichi / anjin / hifuhiban の 5 本）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
+- 内面ビートの書き出し `「同じ[名詞]は、もっと個人的な場面にも{現れます/起こります/働きます/姿を現します}」`型
+  （bashoan / daichi / kanto / mu / mukanjo の 5 本）。nittensuishu で検知・回避（2026-08-27、
+  メタな前置きの一文を削除し内容を直接書き出す形に変更）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
