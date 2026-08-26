@@ -1,0 +1,108 @@
+# Medium タグトラッカー
+
+Medium 記事ごとに確定した **5 タグ**を記録するシリーズ横断トラッカー。
+タグ戦略の方針は [`../.claude/agents/tag-strategist.md`](../.claude/agents/tag-strategist.md) と
+`CLAUDE.md`（タグ戦略）を参照。
+
+## 運用ルール（要点）
+
+- **最大 5 タグ。1 つ目が最重要**（記事概要に最も近い語＝アルゴリズムの主カテゴリ）。
+- **固定ペア**: `Self Improvement` / `Mindfulness`（プロフィール上のタグ露出を集約）。
+- 残り 3 枠は記事ごとに可変（1〜2 個目は広リーチ、3〜5 個目はニッチ）。
+- ⚠️ **フォロワー数は編集画面の表示値で最終確認**する。公開値・過去記事の数値は古く不正確なので、
+  本トラッカーには具体数を事実として記録しない（「要・編集画面確認」とする）。
+
+## 記録
+
+### The Zen Word "Un"（吽）
+
+| 順位 | タグ | 区分 | メモ |
+|---|---|---|---|
+| 1（主） | **Mindfulness** | 広リーチ | 「沈黙・一拍置く」という実用面と直結。固定ペアの一方 |
+| 2 | Self Improvement | 広リーチ | 固定ペアの一方。ターゲット層と親和 |
+| 3 | Productivity | 広リーチ | ブランド一貫テーマ。既存シリーズと回遊 |
+| 4 | Japan | ニッチ | 文化フックで差別化。競合が少ない可能性（要・編集画面確認） |
+| 5 | Philosophy または Zen | ニッチ | **未確定**。Zen は直接的だがニッチ、Philosophy は母数大の見込み（要確認） |
+
+### The Zen Word "A-un"（阿吽）
+
+| 順位 | タグ | 区分 | メモ |
+|---|---|---|---|
+| 1（主） | **Relationships** | 広リーチ | 「言葉なしで通じ合う」という核と一致 |
+| 2 | Communication | 広リーチ | 職場での応用パート（阿吽の呼吸＝蓄積の結果）と直結 |
+| 3 | Self Improvement | 広リーチ | 固定ペアの一方。ブランド全体の受け皿 |
+| 4 | Mindfulness | 広リーチ | 固定ペアの一方。①と共通させ著者プロフィール上の露出を集約 |
+| 5 | Japan | ニッチ | ①と同様の文化フック |
+
+### 禅語シリーズ（非風非幡・潙山水牯牛・婆子焼庵・洞山無寒暑・無位真人・日日是好日・雪峰尽大地・百尺竿頭進一歩・無・安心・一日不作一日不食・麻三斤・梅子熟也・本来無一物・喫茶去・香厳撃竹・平常心是道・隻手の声・無功徳・主人公・看脚下・一期一会・玄関・放下著・喝・拈華微笑・一華開五葉・鏡花水月）
+
+| 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
+|---|---|---|---|---|---|---|
+| 平常心是道 byojoshin | **Mental Health** | Self Improvement | Mindfulness | Productivity | Zen | 公開済み。南泉・趙州の問答＝ピーク状態を追うほど道から遠ざかる。「特別な状態」志向へのアンチテーゼ。primary は当初 Productivity だったが ikkegoyo と重複のため Mental Health に変更 |
+| 隻手の声 sekishu | **Critical Thinking** | Self Improvement | Mindfulness | Leadership | Zen | 公開済み（Medium）。白隠慧鶴の公案＝論理で解けない問いを「解こうとせず留まる」。看脚下（まだ解ける一歩がある）とは対照的な切り口。primary Critical Thinking はシリーズ初 |
+| 無功徳 mukudoku | **Generosity** | Self Improvement | Mindfulness | Leadership | Zen | 公開済み。梁武帝と達磨「無功徳」問答＝見返り目当ての善行は取引に姿を変える。primary Generosity はシリーズ初 |
+| 主人公 shujinko | **Self Awareness** | Self Improvement | Mindfulness | Mental Health | Zen | 公開済み。瑞巌師彦の日課「主人公!／はい」＝自分の内側の主導権の点検。primary Self Awareness はシリーズ初（genkan の Habits と被らないよう選定） |
+| 看脚下 kankyakka | **Decision Making** | Productivity | Self Improvement | Mindfulness | Zen | 新規（draft）。不確実性下では遠い地平線でなく足元の一歩＝分析麻痺への処方。primary Decision Making はシリーズ初 |
+| 一期一会 ichigoichie | **Life Lessons** | Self Improvement | Mindfulness | Relationships | Zen | 新規（draft）。反復前提が「今ここ」を蝕む＝会議/対話の全注意。primary Life Lessons はシリーズ初。公開時に Relationships/Mindfulness へ回す選択も可 |
+| 玄関 genkan | **Habits** | Self Improvement | Mindfulness | Japan | Zen | 新規（draft）。日常語「玄関」の禅由来＝敷居は状態を切り替える装置。primary Habits はシリーズ初。公開時に Productivity/Mindfulness へ回す選択も可 |
+| 放下著 hogejaku | **Minimalism** | Self Improvement | Mindfulness | Productivity | Zen | 新規（draft）。手放す／過負荷の荷（＝空っぽへの執着も下ろす）。primary Minimalism はシリーズ初で重複なし |
+| 喝 katsu | **Leadership** | Communication | Self Improvement | Mindfulness | Zen | 新規（draft）。喝＝声量でなく的確な中断。法雨と Leadership が被るため、公開時に先頭を Communication へ回す選択も可 |
+| 拈華微笑 nengemisho | **Communication** | Self Improvement | Mindfulness | Relationships | Zen | 言葉なしの理解。A-un と近いため先頭を Communication にして差別化 |
+| 一華開五葉 ikkegoyo | **Productivity** | Self Improvement | Mindfulness | Personal Growth | Zen | 成果は順序の結果。四半期成果への静かな反論 |
+| 鏡花水月 kyokasuigetsu | **Social Media** | Self Improvement | Mindfulness | Mental Health | Zen | いいね/承認への非執着。SNS 時代に刺さる |
+| 香厳撃竹 kyogen | **Expertise** | Self Improvement | Mindfulness | Personal Growth | Zen | 公開済み。潙山霊祐の問いに答えられず蔵書を焼いた香厳智閑＝知識と実感の違い。primary Expertise はシリーズ初 |
+| 喫茶去 kissako | **Emotional Intelligence** | Self Improvement | Mindfulness | Company Culture | Zen | 公開済み。趙州従諗＝来歴の異なる二人の僧と院主全員に同じ「喫茶去」。相手をカテゴリーで仕分けず、目の前の人として遇する。primary Emotional Intelligence はシリーズ初 |
+| 本来無一物 muichimotsu | **Identity** | Self Improvement | Mindfulness | Imposter Syndrome | Zen | 公開済み。六祖壇経の偈争い＝神秀「絶えず磨け」対、字の読めない慧能「そもそも磨く鏡がない」。自己イメージの絶え間ない防衛への問い。primary Identity はシリーズ初 |
+| 梅子熟也 baishijukuya | **Mastery** | Self Improvement | Mindfulness | Thought Leadership | Zen | 公開済み。馬祖道一が教えを「即心是仏」から「非心非仏」へ切り替えても動じなかった大梅法常＝決まり文句の暗唱と本物の体得の違い。流行りのフレームワークを追いかける態度への問い。primary Mastery はシリーズ初 |
+| 麻三斤 masangin | **Authenticity** | Self Improvement | Mindfulness | Executive Presence | Zen | 公開済み。「仏とは何か」に洞山守初が「麻三斤」と答えた公案＝大きな問いに壮大な言葉で応えず、手元の具体で答える。借り物の壮大さへの問い。primary Authenticity はシリーズ初 |
+| 一日不作一日不食 fusaku | **Accountability** | Self Improvement | Mindfulness | Servant Leadership | Zen | 公開済み。老いた百丈懐海が農具を隠され、その日の夕食を抜いた逸話＝地位や年功による免除を自分自身には許さない。他人にだけ適用する規則への問い。primary Accountability はシリーズ初 |
+| 安心 anjin | **Anxiety** | Self Improvement | Mindfulness | Stress Management | Zen | 公開済み。慧可「心が落ち着かない、鎮めてほしい」に達磨「その心をここに出してみよ」＝不安を固定した対象として扱う限り探しても見つからない。管理ではなく直視への問い。primary Anxiety はシリーズ初 |
+| 無 mu | **Uncertainty** | Self Improvement | Mindfulness | Critical Thinking | Zen | 公開済み。趙州の「犬に仏性はあるか」への「無」＝答えが用意されていない問いを、性急な確信で埋めずに抱え続ける。primary Uncertainty はシリーズ初。sekishu の primary Critical Thinking と角度が近いため4枠目に配置し重複を回避 |
+| 百尺竿頭進一歩 kanto | **Complacency** | Self Improvement | Mindfulness | Career Growth | Zen | 公開済み。長沙景岑への「百尺竿頭からどう一歩進むか」に「朗州山、澧州水」＝到達後の「次」は同じ登攀の延長ではなく、登っている間は見えていなかった足もとの世界に気づくこと。primary Complacency はシリーズ初 |
+| 雪峰尽大地 daichi | **Perspective** | Self Improvement | Mindfulness | Problem Solving | Zen | 公開済み。雪峰義存「大地をつかめば粟粒大」＝目の前に示されても抽象的な規模でしか見ていないと気づけない。太鼓を打って共同で探せという指示＝一人で抱え込まず具体的に手を伸ばすことへの問い。primary Perspective はシリーズ初 |
+| 日日是好日 nichinichi | **Procrastination** | Self Improvement | Mindfulness | Acceptance | Zen | 公開済み。雲門文偃「十五日より後について一句を言え」に誰も答えられず自ら「日々是好日」＝節目の日と、価値が劣るとされる日々という区別そのものへの拒絶。「状況が落ち着いたら」型の先延ばしへの問い。primary Procrastination はシリーズ初 |
+| 無位真人 muinoshinnin | **Status** | Self Improvement | Mindfulness | Self Worth | Zen | 公開済み。臨済義玄「位のない真の人」＝肩書き・年功という序列の下にすでにある、与えられも奪われもしない何か。「それは何か」と問われ僧の胸ぐらをつかんだ臨済＝定義を要求する動きそのものが見失わせる、という逆説。primary Status はシリーズ初。katsu(同じく臨済)とは扱う教えが別（喝の技法 vs 無位真人）で角度重複なし |
+| 洞山無寒暑 mukanjo | **Burnout** | Self Improvement | Mindfulness | Stress Management | Zen | 公開済み。洞山良价「寒ければ寒さに殺され、暑ければ暑さに殺されよ」＝不快を避けようとする動きそのものが逃げ場のない緊張を生む、という逆説。primary Burnout はシリーズ初（燃え尽き／回避行動の切り口）。anjin(Anxiety/Self Improvement/Mindfulness/Stress Management/Zen)と同じ並びの構造を踏襲 |
+| 婆子焼庵 bashoan | **Vulnerability** | Self Improvement | Mindfulness | Emotional Intelligence | Zen | 公開済み。老婆が二十年養った僧を、若い娘に抱きしめさせて試した公案＝「枯れた木のようだ、温もりはない」という無感情の答えは、老婆の求めていた本物の反応ではなかった。感情を凍らせることと平静を混同する、職場の擬態的プロフェッショナリズムへの問い。primary Vulnerability はシリーズ初の角度。僧・老婆いずれも実名不伝(『五灯会元』巻六「亡名道婆」条) |
+| 潙山水牯牛 suikogyu | **Open-Mindedness** | Self Improvement | Mindfulness | Critical Thinking | Zen | 公開済み。潙山霊祐「百年後、水牛に生まれ変わる。『潙山の僧』と呼べば水牛でもあり、『水牛』と呼べば潙山の僧でもある。何と呼べばいいのか」＝同じ実体が矛盾する二つの名前に正しく答えうる、というカテゴリー分けの限界への問い。primary Open-Mindedness はシリーズ初。muinoshinnin(無位真人)と「名前・定義が本質を捉えられない」というテーマで隣接するが、muinoshinninは肩書き不要の本質という自己肯定寄りの角度、本記事はカテゴリー分けの限界という角度で差別化 |
+| 非風非幡 hifuhiban | **Self Awareness** | Self Improvement | Mindfulness | Emotional Intelligence | Zen | 新規（draft）。六祖慧能「風が動くのでも、幡が動くのでもない。動いているのは、あなたがたの心だ」＝外部への原因帰属と、それに反応している自分自身の心の区別。primary Self Awareness は shujinko(主人公)と重複懸念があったが、shujinkoは自己点検の習慣、本記事は外部帰属と反応性という別角度で差別化。muichimotsu(本来無一物)と同じ慧能の伝記(弘忍からの法衣継承・南への逃避)の続きの場面で、事実関係の整合性を再確認済み |
+| 不昧因果 fumaiinga | **Consequences** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。無門関第二則「百丈野狐」＝深く修めた者は因果に落ちないと答えた老僧が五百回キツネに生まれ変わり、百丈の「因果に昧まされない」の一言で解脱。因果からの免除を主張することと、因果を明晰に見ることの違いへの問い。primary Consequences はシリーズ初。教師(百丈懐海)は fusaku(一日不作一日不食)と重複するが、fusaku は「地位が免除を与えない」という自己規律の角度、本記事は「深さが因果からの免除を与えるという思い込み」という因果の見え方の角度で差別化 |
+| 香厳上樹 joju | **Communication** | Self Improvement | Mindfulness | Leadership | Zen | 新規（draft）。景徳伝灯録(1004年、香厳没後約106年)が最古の出典＝崖の木に歯だけでぶら下がる者に、下から誰かが大きな問いを投げる。答えれば落ち、黙れば相手を裏切る、という二者択一の罠＝弟子の招上座は罠の条件そのものを解かず「木に上る前はどうだったか」と時間軸の外から切り返した。primary Communication はシリーズ初の角度（nengemisho は「以心伝心」というテーマで近いが、本記事は「言うか黙るかの二択の罠」という別角度）。教師(香厳智閑)は kyogen(香厳撃竹)と重複するが、kyogen は知識への執着、本記事は二者択一の罠という別角度で差別化 |
+| 運水搬柴 unsuihansai | **Impostor Syndrome** | Self Improvement | Mindfulness | Productivity | Zen | 新規（draft）。龐蘊(在家・出家せず、官吏の家系だが官職に就かず)が石頭希遷への偈「神通並妙用、運水及搬柴」(不思議な力とは、ただ水を運び薪を割ることだ)を残したのち、一族の財産を川に沈め、竹細工で生計を立てた逸話。目に見える証拠(官位の色=朱紫・可視化された徳)を退け、誰にも見られない・記録に残らない仕事そのものを特別視した。primary Impostor Syndrome は muichimotsu(自己イメージの防衛)・muinoshinnin(無位真人、肩書きを待たない資格の内在化)の双方と重複懸念があったが、本記事は「成果の証拠・記録そのものを手放す」という角度で差別化(fact-checkerの指摘によりmuinoshinninとの重複を修正済み・2026-08-24)。禅語シリーズで初めて中心に据える在家人物 |
+
+### 仏教語シリーズ（一隅を照らす）
+
+> 禅宗（中国禅・日本の臨済宗/曹洞宗）に限らない、広く仏教の言葉を扱う新シリーズ。
+> 禅語シリーズとは文体・カバーデザイン（背景色・アクセントカラー琥珀色・法輪モチーフ・ラベル「仏教語」）を差別化。
+> 経緯: 一隅を照らすは当初「禅語」として制作したが、実際は天台宗開祖・最澄の言葉であり
+> 禅語ではないと判明したため分離（2026-08-06）。
+> ⚠️ Opus による精査（2026-08-07）でテーマの指摘: 一隅を照らすの核（見えない仕事・承認より実質）は
+> 禅語シリーズの無功徳・主人公と重なる部分がある。シリーズを分けても同じ Medium プロフィール/読者に
+> 届くため、今後 仏教語シリーズに追加する記事は角度の重複に注意すること。
+
+| 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
+|---|---|---|---|---|---|---|
+| 一隅を照らす ichigu | **Impact** | Self Improvement | Mindfulness | Career | Buddhism | 新規（draft）。最澄『山家学生式』＝規模・可視性でなく、自分の持ち場を誠実に照らすことの価値。primary Impact はこのシリーズ初。5枠目は Zen ではなく Buddhism（天台宗のため）。4枠目は Career（禅語シリーズの Personal Growth 重複を避けた名残） |
+
+### 雨シリーズ（雨滴声・法雨・雨奇晴好）
+
+| 記事 | 1（主） | 2 | 3 | 4 | 5 | メモ |
+|---|---|---|---|---|---|---|
+| 雨滴声 utekisei | **Mindfulness** | Self Improvement | Productivity | Psychology | Zen | 知覚・ラベル・注意。判断前の一拍 |
+| 法雨 houu | **Leadership** | Management | Self Improvement | Mindfulness | Zen | 育成/個人差。管理職向け（固定ペアは 3・4 枠に配置） |
+| 雨奇晴好 ukiseikou | **Mindset** | Self Improvement | Mindfulness | Resilience | Zen | 解釈の選択。レジリエンス・リフレーミング |
+
+> - すべて **1 つ目＝記事概要に最も近い語**、固定ペア（Self Improvement / Mindfulness）を必ず含む構成。
+> - **5 枠目の `Zen` は編集画面で `Japan` / `Philosophy` と比較**し、概算フォロワー数の大きい方に差し替えてよい（要・編集画面確認）。
+> - 各記事の note 版タグ（日本語ハッシュタグ）は `articles/note/*.md` の front matter を参照。
+> - 制作標準は [`../docs/article-production-standard.md`](../docs/article-production-standard.md)。
+
+## 確定前チェック
+
+- [ ] 1 つ目のタグが記事概要に最も近いか
+- [ ] 固定ペア（Self Improvement / Mindfulness）が含まれているか
+- [ ] 広リーチ 2 + ニッチ 3 のバランスになっているか
+- [ ] **編集画面で候補の概算フォロワー数を確認**し、必要なら差し替えたか
+- [ ] 未確定タグ（例: ① の 5 枠目）を確定したか
+
+> Medium の仕様（バッジ制度等）は頻繁に変わるため、タグ戦略の有効性も時期で変動しうる。
