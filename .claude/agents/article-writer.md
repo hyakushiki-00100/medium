@@ -16,7 +16,8 @@ model: inherit
 - **カットライン**: 本編の核心手前で止め、続きは Gumroad へ。フック（具体物・「意外だったのはどれか」等）を残す。
 - Voice: calm / practical / secular、二人称 "you"。誇大・神秘化しない。
 - **話者ペルソナ（英語・日本語 共通）**: 40 代・英語ネイティブ・高所得・高学歴の洗練された professional。
-  **英語は日本語の翻訳ではなく、ネイティブの語彙・イディオム・リズムで直接書く**（translationese を排除）。
+  **英語は日本語の翻訳ではなく、ネイティブの語彙・イディオム・リズムで直接書く**（translationese を排除。直訳 calque・過剰
+  hedging・硬い接続語の乱発・感嘆符多用・guru 調を残さない。idiom と自然な collocation を使う）。
   日本語も同じペルソナの教養ある語彙で（note の可読性は維持）。詳細は `docs/article-production-standard.md`「話者ペルソナと語彙」。
 
 ## CTA
