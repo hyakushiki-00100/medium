@@ -1,6 +1,6 @@
 ---
 title: "Not Arguing Back Is the Easy Half. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
-subtitle: "He went to dinner before the bell rang. When he was questioned, he said nothing — and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
+subtitle: "He went to dinner early. When questioned, he said nothing — and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published
@@ -10,6 +10,16 @@ published_url: ""
 cover: "../covers/tokusantakuhatsu.png"
 source: "新規執筆（禅語シリーズ）。fact-checker(Opus)による精査を受け大幅修正済み(2026-08-27): 「徳山の棒」を『答えられない弟子を打った』としていたが、実際は答えの正否によらず等しく打ったのが要点だったため訂正(道い得るも三十棒、道い得ざるも三十棒)。「巌頭を呼びつけて弁解させることもしませんでした」という記述が原文(実際には呼びつけて詰問した)と矛盾していたため削除。「leaned in(身を寄せ)」という原文にない所作の創作を削除(原文は「密啓其意」＝ひそかに告げた、のみ)。「by every account(どの記録によっても)」という存在しない複数典拠への言及(出典は無門関一件のみ)を削除。「Tang-dynasty lamp records」という唐代には存在しない燈史区分の言及を削除。「two centuries」という年代差(徳山没865→無門関1228成立)を実際の約363年=three centuriesに訂正。「this piece can confirm」という内部語的な自己言及を弱め、記録そのものの話に修正。徳山宣鑑の生年を782年と断定していたが、780年説もあるため併記。「末後の句」の脚注が『wordless』と一つの解釈を断定していたため、発語しうる句か言葉を超えた境地かで注釈者の読みが分かれる旨に修正。無門の評唱を「isn't dismissing the exchange」と一方の解釈で断定していたが、問答全体への否定と読む解釈もある旨を追加。定型文衝突(見出し「What Deshan did with that」を「Deshan sends for him」に変更・内面ビート見出しの「The same gap opens up privately」型=8本目を回避)、"physically demanding"の誤ったコロケーションを解消。primary Feedback はシリーズ初出のタグ。雪峰義存はdaichi記事の主役(師として)だが、本記事では若い修行僧としての雪峰を扱っており人生の別の時期・別の角度(叱る側ではなく問いを発する側)のため重複しない。「徳山の棒」はkatsu/kissakoで対比として触れられているが、徳山自身を主役に据えた記事はこれが初出。"
 ---
+
+<!--
+Medium投稿手順:
+1. Medium の Title 欄には、下の [MEDIUM TITLE] の一行だけを貼る(識別部分・末尾のピリオドは含めない)
+2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
+3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
+
+[MEDIUM TITLE] Not Arguing Back Is the Easy Half
+[MEDIUM SUBTITLE] He went to dinner early. When questioned, he said nothing — and that still wasn't enough. The Zen Koan "Tokusan Takuhatsu" (徳山托鉢).
+-->
 
 # Not Arguing Back Is the Easy Half. The Zen Koan "Tokusan Takuhatsu" (徳山托鉢).
 

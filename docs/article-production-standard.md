@@ -159,13 +159,39 @@
    **抽象的な洞察型タイトルを使う場合、`subtitle` を単なる識別部分の繰り返しにしない**（オーナー指摘・2026-08-27）。
    洞察型は Title 欄が短い分、Subtitle 欄（Medium では比較的長い文章を表示できる）が余ってしまう。
    場面描写型のときに Title 欄へ書いていた「具体的な場面・出来事」の一文を、代わりに Subtitle 欄に回し、
-   末尾に識別部分(`The Zen ... "X" (漢字).`)を付ける。例（tokusantakuhatsu）:
+   末尾に識別部分(`The Zen ... "X" (漢字).`)を付ける。
+
+   ⚠️ **Medium の Subtitle 欄は 140 字が上限**（実測・2026-08-27。tokusantakuhatsu で最初の案が
+   152字あり、オーナーの投稿画面で識別部分ごと切り捨てられる事故が発生）。場面の要約＋識別部分を
+   両方入れると簡単に超えるため、**執筆後に必ずコードで確認する**:
+   ```bash
+   python3 -c "import re;t=open('article-en.md').read();m=re.search(r'^subtitle: \"(.+)\"',t,re.M);s=m.group(1).replace('\\\\\"','\"');print(len(s))"
+   ```
+   140字に収まらない場合は、場面描写の一文を削り込む（識別部分は削らない）。例（tokusantakuhatsu、130字）:
    - `title`: "Not Arguing Back Is the Easy Half. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
      → Medium Title 欄には "Not Arguing Back Is the Easy Half."
-   - `subtitle`: "He went to dinner before the bell rang. When he was questioned, he said nothing —
-     and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
+   - `subtitle`: "He went to dinner early. When questioned, he said nothing — and that still wasn't enough.
+     The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
      → Medium Subtitle 欄にはこの全文（場面の要約＋識別部分）
-   場面描写型を選んだ場合は、これまで通り `subtitle` は識別部分のみでよい。
+   場面描写型を選んだ場合は、これまで通り `subtitle` は識別部分のみでよい（40字前後で余裕がある）。
+
+   **Medium 投稿時の Title/Subtitle 分割ミスを防ぐため、EN ファイルにも note と同様の投稿手順コメントを
+   付ける**（オーナーの投稿画面で `title` フィールドの全文(識別部分込み)がそのまま Title 欄に貼られてしまう
+   事故が発生・2026-08-27）。front matter の直後に以下の形式で、Medium にそのまま貼る文字列を
+   あらかじめ分割して明記する:
+   ```html
+   <!--
+   Medium投稿手順:
+   1. Medium の Title 欄には、下の [MEDIUM TITLE] の一行だけを貼る(識別部分・末尾のピリオドは含めない)
+   2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
+   3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
+
+   [MEDIUM TITLE] (識別部分を除いたフック文)
+   [MEDIUM SUBTITLE] (subtitle フィールドの値をそのまま)
+   -->
+   ```
+   新規記事は執筆時からこの形式で作成する。既存記事は次に触るタイミングで追記していけばよい
+   （遡って一括修正は不要）。
 
    **タイトルの長さに上限を設ける**（2026-08-17〜、2026-08-27に基準を再引き締め）。mukanjo→bashoan→suikogyu の3記事で、
    フック文に問答のやり取りを丸ごと詰め込む書き方が定着し、タイトルが記事ごとに単調増加していた
