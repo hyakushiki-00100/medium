@@ -100,7 +100,12 @@
 - 由来ビートを `"The teacher was X, a disciple of Y..."` で始める（fusaku / kissako / masangin / daichi / kanto）。
 - `"There's a version of this..."` を内面ビートの書き出しに使う（byojoshin / ichigoichie / ichigu / kankyakka /
   kissako / mukudoku）。
-- `"The same [名詞] runs/shows up privately"` を内面ビートの書き出しに使う（mu / daichi）。
+- `"The same [名詞] runs/shows up privately"` を内面ビートの書き出しに使う
+  （mu / daichi / muinoshinnin / nichinichi / suikogyu / fusaku の6本、tokusantakuhatsu で7本目衝突を検知・回避
+  =2026-08-27、内容を直接書き出す形に変更）。
+- 見出し `"## What ..."` 型の記事横断での飽和（20本超）。個別の `"What [X] actually [Y]"` だけでなく
+  `"## What"` 全体が主要テンプレ化している。tokusantakuhatsu で `"## What Deshan did with that"` を
+  `"## Deshan sends for him"` に変更（2026-08-27）。新規記事では `## What` 見出しを増やさない方向を意識する。
 - `"There's a private version/edition/shape of..."` を内面ビートの書き出しに使う（mukudoku / sekishu / nittensuishu）。
   nittensuishu で検知・回避（2026-08-27、内容を直接書き出す形に変更）。
 - 見出し `"What [X] actually [Y]"` 型（masangin / muichimotsu / ukiseikou）。
