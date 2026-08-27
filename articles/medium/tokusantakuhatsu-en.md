@@ -1,6 +1,6 @@
 ---
 title: "Not Arguing Back Is the Easy Half. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
-subtitle: "The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
+subtitle: "He went to dinner before the bell rang. When he was questioned, he said nothing — and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
 platform: medium
 lang: en
 status: draft        # draft | review | revising | published

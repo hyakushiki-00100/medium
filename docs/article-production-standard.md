@@ -156,6 +156,17 @@
    識別部分を除いたフック文のみ、Subtitle 欄に `subtitle` フィールドの値をそのまま貼る。識別部分が無い変則タイトル(コロン区切り等)は、
    コロン/ダッシュの前後で機械的に分割してよい。過去記事(anjin まで)は `subtitle` フィールドを追記済み。
 
+   **抽象的な洞察型タイトルを使う場合、`subtitle` を単なる識別部分の繰り返しにしない**（オーナー指摘・2026-08-27）。
+   洞察型は Title 欄が短い分、Subtitle 欄（Medium では比較的長い文章を表示できる）が余ってしまう。
+   場面描写型のときに Title 欄へ書いていた「具体的な場面・出来事」の一文を、代わりに Subtitle 欄に回し、
+   末尾に識別部分(`The Zen ... "X" (漢字).`)を付ける。例（tokusantakuhatsu）:
+   - `title`: "Not Arguing Back Is the Easy Half. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
+     → Medium Title 欄には "Not Arguing Back Is the Easy Half."
+   - `subtitle`: "He went to dinner before the bell rang. When he was questioned, he said nothing —
+     and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
+     → Medium Subtitle 欄にはこの全文（場面の要約＋識別部分）
+   場面描写型を選んだ場合は、これまで通り `subtitle` は識別部分のみでよい。
+
    **タイトルの長さに上限を設ける**（2026-08-17〜、2026-08-27に基準を再引き締め）。mukanjo→bashoan→suikogyu の3記事で、
    フック文に問答のやり取りを丸ごと詰め込む書き方が定着し、タイトルが記事ごとに単調増加していた
    （JA: 96字→116字→127字、EN: 26語→36語→42語。オーナー指摘・2026-08-17）。
