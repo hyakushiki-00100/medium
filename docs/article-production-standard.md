@@ -177,6 +177,16 @@
      曖昧な主語で外部の評価を先出ししていた。`— and That Still Wasn't Enough` のような、事実だけで
      終わる逆説に書き換えて解消）。
    フック文は問答の**核心の一往復**（最も強い一言）だけに絞り、背景の問い・経緯は本文の冒頭で語る。
+
+   **タイトルは「具体的な場面描写型」と「抽象的な洞察型」の二択がある**（tokusantakuhatsu でオーナー確認・2026-08-27）。
+   場面描写型（例: "A Monk Sat in a Tree. A Governor Called It Dangerous. The Monk Disagreed."）は
+   上記の目安（EN 18〜24語・JA 55〜75字）に従う。**洞察型**（記事の核心の主張を場面を出さずに直接言い切る型。
+   例: katsu "Shouting Louder Doesn't Wake Anyone."＝JA 30字）は、場面描写がない分もっと短くてよく、
+   EN 6〜14語・JA 30〜55字が目安。ただし洞察型は `"[X] isn't/doesn't [Y]"` という否定形の書き出しに
+   寄りがちで、この型はすでに5本（anjin「Isn't at Peace」・kissako系「Isn't a Compliment」・
+   ukiseikou「Aren't the Treasure」・kanto「Isn't a Pep Talk」・nittensuishu「Isn't Enlightenment」・
+   katsu「Doesn't Wake Anyone」）使われている。洞察型を選ぶ場合は、この否定形以外の構文
+   （例: tokusantakuhatsu "Not Arguing Back Is the Easy Half."＝肯定の名詞文）を優先する。
    執筆後にタイトルの字数・語数をコードで確認する:
    ```bash
    # JA タイトル文字数
