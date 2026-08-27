@@ -311,6 +311,7 @@ JOBS = [
     ("unsuihansai", "運水搬柴", "禅語"),
     ("shoakumakusa", "諸悪莫作", "禅語"),
     ("nittensuishu", "入鄽垂手", "禅語"),
+    ("tokusantakuhatsu", "徳山托鉢", "禅語"),
 ]
 
 # 8字等、1列では字が小さくなりすぎる/字間が間延びして見えるタイトルは、

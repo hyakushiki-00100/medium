@@ -107,6 +107,9 @@
 - 見出し `"The [名詞] you [動詞] yourself"` 型（katsu「The shout you give yourself」/ mu「The certainty you
   manufacture for yourself」/ mukudoku「The ledger you keep on yourself」）。
 - 見出し `"A caveat about the record"` 系（hogejaku / katsu / kissako / muichimotsu で衝突歴あり）。
+- 見出し `"[名詞] nobody [動詞]"` 型（"A challenge nobody in the room could answer" / "The fire nobody else could see" /
+  "A private ledger nobody would ever contest" / "The record nobody asked to see" の4本）。
+  tokusantakuhatsu で検知・回避（2026-08-27、"An unexpected verdict" に変更）。
 - 史実性ビートの締め `"What's certain is that ... [N] hundred years ..."`（bashoan / hifuhiban）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
 
@@ -123,8 +126,12 @@
 - 結びの文末 `「〜ただけでした。」`（kanto / daichi / nichinichi / anjin / hifuhiban の 5 本）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
 - 内面ビートの書き出し `「同じ[名詞]は、もっと個人的な場面にも{現れます/起こります/働きます/姿を現します}」`型
-  （bashoan / daichi / kanto / mu / mukanjo の 5 本）。nittensuishu で検知・回避（2026-08-27、
+  （bashoan / daichi / kanto / mu / mukanjo の 5 本）。nittensuishu・tokusantakuhatsu で検知・回避（2026-08-27、
   メタな前置きの一文を削除し内容を直接書き出す形に変更）。
+- 見出し `「誰も/誰の〜」`型の**記事横断での多用**（「誰も獲得する必要のなかった位」「誰も答えられなかった問い」
+  「誰もいない部屋での、もうひとつの隻手」「誰も見ていない場所で」「誰も求めていない報告」「誰のためでもない帳簿」
+  の6本）。1記事内では1本までという運用だったが、記事横断でも既に6本に達しており新規記事では**極力避ける**。
+  tokusantakuhatsu で検知・回避（2026-08-27、「思いがけない方向から来た評」に変更）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
