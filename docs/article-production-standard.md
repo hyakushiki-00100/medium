@@ -94,7 +94,9 @@
 - 文頭 `"Worth being honest/precise about..."` など、史実性ビートを `Worth ~ing` で始める（anjin / baishijukuya /
   hogejaku / ichigoichie / ichigu / katsu / kissako / masangin / muichimotsu の 9 本）。
 - `"None of this argues for X. It argues for checking whether Y"` / `"None of this is an argument for/against X.
-  It's a distinction between..."`（kankyakka / kissako / muichimotsu / mukudoku / sekishu / shujinko）。
+  It's a distinction between..."`（kankyakka / kissako / muichimotsu / mukudoku / sekishu / shujinko の変種を含め
+  fumaiinga / mukanjo / nittensuishu / shoakumakusa / unsuihansai / kyukyoryutan にも拡大、計12本）。
+  記事横断で極めて高頻度のため、新規記事では「None of this...」型の開始を避け、肯定文で書き切ることを徹底する。
 - `"Turned inward," / "Turned toward yourself," / "Turned on yourself,"` を内面ビートの書き出しに使う
   （muichimotsu / kissako / baishijukuya）。
 - 由来ビートを `"The teacher was X, a disciple of Y..."` で始める（fusaku / kissako / masangin / daichi / kanto）。
@@ -128,6 +130,8 @@
   型（kanto / nichinichi / muinoshinnin / daichi の 4 本）。mukansho で検知・回避（2026-08-17）。
 - 内面ビートの見出し `「自分自身に〜」` 型（mu「自分自身に対して作り出す確信」/ mukudoku「自分自身につける帳簿」/
   muinoshinnin「自分自身に、こっそり割り当てている位」の 3 本）。mukansho で検知・回避（2026-08-17）。
+- `「だからといって、〜わけではありません」`型（"None of this..."のJA版）。fusaku / joju / muinoshinnin の3本に加え
+  kyukyoryutan で4本目を検知・回避（2026-08-27）。新規記事では避け、肯定文で書き切ることを徹底する。
 - 結びの文末 `「〜ただけでした。」`（kanto / daichi / nichinichi / anjin / hifuhiban の 5 本）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
 - 内面ビートの書き出し `「同じ[名詞]は、もっと個人的な場面にも{現れます/起こります/働きます/姿を現します}」`型
