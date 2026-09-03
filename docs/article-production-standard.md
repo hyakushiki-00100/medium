@@ -117,6 +117,9 @@
 - 見出し `"[名詞] nobody [動詞]"` 型（"A challenge nobody in the room could answer" / "The fire nobody else could see" /
   "A private ledger nobody would ever contest" / "The record nobody asked to see" の4本）。
   tokusantakuhatsu で検知・回避（2026-08-27、"An unexpected verdict" に変更）。
+- 見出し `"## Where ..."` 型の記事横断での飽和（16本目衝突を検知）。tairokinpu で
+  `"## Where the explaining usually starts"` を `"## What gets built on top of a plain fact"` に変更
+  （fact-checker(Opus)の指摘・2026-08-27）。`"## What"` 型と同様、新規記事では増やさない方向を意識する。
 - 史実性ビートの締め `"What's certain is that ... [N] hundred years ..."`（bashoan / hifuhiban）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
 
