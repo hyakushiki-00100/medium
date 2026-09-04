@@ -244,6 +244,7 @@
    1. tokusantakuhatsu（2026-08-27）
    2. kyukyoryutan（2026-08-27）
    3. tairokinpu（2026-08-27）
+   4. senpatsu（2026-09-04）
 
    執筆後にタイトルの字数・語数をコードで確認する:
    ```bash
