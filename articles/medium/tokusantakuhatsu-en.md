@@ -3,7 +3,7 @@ title: "Not Arguing Back Is the Easy Half. The Zen Koan \"Tokusan Takuhatsu\" (�
 subtitle: "He went to dinner early. When questioned, he said nothing — and that still wasn't enough. The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Feedback, "Self Improvement", Mindfulness, Communication, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-27
 published_url: ""

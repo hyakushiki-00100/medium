@@ -2,7 +2,7 @@
 title: "枝を歯でくわえたまま、崖の上の木にぶら下がっています。手も足も、かけるものがありません。禅の公案「香厳上樹(きょうげんじょうじゅ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 香厳上樹, 香厳智閑, 景徳伝灯録, マインドフルネス, コミュニケーション]
 created: 2026-08-23
 published_url: ""

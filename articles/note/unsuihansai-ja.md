@@ -2,7 +2,7 @@
 title: "一族の全財産を、川に沈めました。それから、水を汲むことを「奇跡」と呼びました。禅の偈「運水搬柴(うんすいはんさい)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 運水搬柴, 龐蘊, 祖堂集, マインドフルネス, 自己肯定]
 created: 2026-08-24
 published_url: ""

@@ -3,7 +3,7 @@ title: "The Dark Did What Years of Commentary Couldn't. The Zen Koan \"Kyukyo Ry
 subtitle: "A monk famous for explaining a sutra was handed a candle in the dark, then watched it blown out. The Zen Koan \"Kyukyo Ryutan\" (久嚮龍潭)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Learning, "Self Improvement", Mindfulness, "Critical Thinking", Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-27
 published_url: ""

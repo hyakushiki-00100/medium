@@ -3,7 +3,7 @@ title: "A Monk Sat in a Tree. A Governor Called It Dangerous. The Monk Disagreed
 subtitle: "The Zen Teaching \"Shoaku Makusa\" (諸悪莫作)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Habits, "Self Improvement", Mindfulness, Leadership, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-26
 published_url: ""

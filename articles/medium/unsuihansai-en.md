@@ -3,7 +3,7 @@ title: "He Sank His Family's Entire Fortune in a River. Then Called Carrying Wat
 subtitle: "The Zen Verse \"Unsui Hansai\" (運水搬柴)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Impostor Syndrome, "Self Improvement", Mindfulness, Productivity, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-24
 published_url: ""

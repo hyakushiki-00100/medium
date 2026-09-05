@@ -2,7 +2,7 @@
 title: "秋の風が、答えのすべてでした。禅の公案「体露金風(たいろきんぷう)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 公案, 体露金風, 雲門文偃, マインドフルネス, 受容]
 created: 2026-08-27
 published_url: ""

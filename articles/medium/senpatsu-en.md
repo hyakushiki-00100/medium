@@ -3,7 +3,7 @@ title: "He Asked for a Teaching. He Got a Chore. The Zen Case \"Joshu Senpatsu\"
 subtitle: "A monk, new to the monastery, asked Zhaozhou for guidance. Zhaozhou asked if he'd eaten. He had. \"Then go wash your bowl.\""
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Focus, "Self Improvement", Mindfulness, Productivity, Zen]
 created: 2026-09-04
 published_url: ""

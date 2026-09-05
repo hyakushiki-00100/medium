@@ -2,7 +2,7 @@
 title: "言い返さないことは、指摘を受け止めたことにはなりません。禅の公案「徳山托鉢(とくさんたくはつ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 公案, 徳山托鉢, 徳山宣鑑, マインドフルネス, コミュニケーション]
 created: 2026-08-27
 published_url: ""

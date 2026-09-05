@@ -3,7 +3,7 @@ title: "Hanging From a Branch by Your Teeth. Someone Below Asks You a Question. 
 subtitle: "The Zen Koan \"Xiangyan's Man Up a Tree\" (香厳上樹)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Communication, "Self Improvement", Mindfulness, Leadership, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-23
 published_url: ""

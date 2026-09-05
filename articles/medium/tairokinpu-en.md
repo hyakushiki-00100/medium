@@ -3,7 +3,7 @@ title: "The Golden Wind Was the Whole Answer. The Zen Case \"Tai Ro Kin Pu\" (�
 subtitle: "A monk asked what happens when the leaves fall. The answer just named the weather. The Zen Case \"Tai Ro Kin Pu\" (體露金風)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Acceptance, "Self Improvement", Mindfulness, Resilience, Zen]  # 5枠目 Zen は編集画面で Japan/Philosophy と比較（tag-tracker 参照）
 created: 2026-08-27
 published_url: ""

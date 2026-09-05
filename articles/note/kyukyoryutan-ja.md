@@ -2,7 +2,7 @@
 title: "何年もの注釈が届かなかったところに、暗闇が届きました。禅の公案「久嚮龍潭(きゅうきょうりゅうたん)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 公案, 久嚮龍潭, 徳山宣鑑, マインドフルネス, 学び]
 created: 2026-08-27
 published_url: ""

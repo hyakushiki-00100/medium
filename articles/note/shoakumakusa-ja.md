@@ -2,7 +2,7 @@
 title: "木の上に座る僧に、太守は「危ないですよ」と言いました。僧はこう答えました。「あなたの方がずっと危ない」。禅の教え「諸悪莫作(しょあくまくさ)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 諸悪莫作, 鳥窠道林, 祖堂集, マインドフルネス, 習慣]
 created: 2026-08-26
 published_url: ""

@@ -3,7 +3,7 @@ title: "He Asked One Question. The Answer Came Later. The Zen Story \"Dozan Kasu
 subtitle: "Before his teacher died, he asked how to answer for him. The reply only made sense in a river, later. The Zen Story \"Dozan Kasui\" (洞山過水)."
 platform: medium
 lang: en
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [Succession, "Self Improvement", Mindfulness, Mentorship, Zen]
 created: 2026-09-05
 published_url: ""

@@ -2,7 +2,7 @@
 title: "答えは、あとになって届きました。禅の逸話「洞山過水(とうざんかすい)」の話"
 platform: note
 lang: ja
-status: draft        # draft | review | revising | published
+status: published   # Medium 公開確認済み（2026-09-05）。published_url 未取得
 tags: [禅語, エッセイ, 禅, 公案, 洞山過水, 洞山良价, マインドフルネス, 継承]
 created: 2026-09-05
 published_url: ""
