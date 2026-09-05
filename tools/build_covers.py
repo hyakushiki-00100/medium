@@ -334,6 +334,7 @@ BUDDHIST_ACCENT_COLOR = (139, 90, 43)  # 温かみのある琥珀色（禅語シ
 JOBS_BUDDHIST = [
     ("ichigu", "一隅を照らす", "仏教語"),
     ("tarikihongan", "他力本願", "仏教語"),
+    ("chudo", "中道", "仏教語"),
 ]
 
 if __name__ == "__main__":
