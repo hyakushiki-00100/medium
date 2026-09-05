@@ -128,6 +128,14 @@
   （fact-checker(Opus)の指摘・2026-08-27）。`"## What"` 型と同様、新規記事では増やさない方向を意識する。
 - 史実性ビートの締め `"What's certain is that ... [N] hundred years ..."`（bashoan / hifuhiban）。
   fact-checker（Opus）で検知・回避（2026-08-17）。
+- 見出し `"## Two ..."` 型の記事横断での飽和（10本目衝突を検知）。aisatsu で
+  `"## Two characters that both mean..."` を `"## Contact, not conversation"` に変更
+  （fact-checker(Opus)の指摘・2026-09-05）。`"## What"` `"## Where"` 型と同様、新規記事では増やさない方向を意識する。
+- 見出し `"## The version ..."` 型（"The version you're still holding at arm's length" /
+  "The version with nothing to show for it" / "The version with no one else in the room" の3本、
+  aisatsu の4本目衝突で検知・回避=2026-09-05）。
+- 文頭 `"Most people ..."`（anjin / joju ×2 / kasui ×2 / kissako / kohin / senpatsu の8本、
+  aisatsu で検知・回避=2026-09-05）。ビート冒頭でこの構文を多用しないこと。
 
 **JA — 確認済みの使い回し**:
 - `「〜ではありません。むしろ、〜」`（英語の "It's not X. It's Y" の直訳的パターン）を転換の一文に使う
@@ -255,6 +263,7 @@
    6. chudo（2026-09-04、仏教語シリーズ）
    7. kasui（2026-09-05）
    8. kohin（2026-09-05）
+   9. aisatsu（2026-09-05）
 
    執筆後にタイトルの字数・語数をコードで確認する:
    ```bash
