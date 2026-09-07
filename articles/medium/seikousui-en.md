@@ -1,5 +1,5 @@
 ---
-title: "A Visitor Asked to Meet the One Free of Every Attachment. He Was Given a River to Drink Instead. The Zen Koan \"Seikousui\" (西江水)."
+title: "He Asked Who Keeps Company With Nothing at All. He Was Given a River to Drink Instead. The Zen Koan \"Seikousui\" (西江水)."
 subtitle: "The Zen Koan \"Seikousui\" (西江水)."
 platform: medium
 lang: en
@@ -8,7 +8,7 @@ tags: ["Self-Reliance", "Self Improvement", Mindfulness, Mentorship, Zen]
 created: 2026-09-07
 published_url: ""
 cover: "../covers/seikousui.png"
-source: "新規執筆（禅語シリーズ）。オーナーの依頼(analystエージェントによる既存15記事のView/Read分析)を反映し、場面描写型タイトルで「師の核心の答え・オチをタイトルに明かさない」方針を採用(パラドックスの構造のみ提示し、馬祖の返答の具体的な文言はタイトルに出さない)。龐蘊(『運水搬柴』unsuihansai の主役と同一人物、既出)が石頭希遷に『不與萬法為侶者是甚麼人』と問い、石頭が手で口をふさぎ龐蘊が『有省』(部分的な気づき)を得たのち、同じ問いを馬祖道一に投げかけ『一口吸尽西江水』(西江の水を一口で吸い尽くせたら教えよう)という答えを得て大悟したという逸話。unsuihansai は石頭への『日用事作麼生』問答から生まれた偈と、その後(伝承の時系列は史料により前後する)一族の財産を川に沈めた逸話を扱っており、本記事とは龐蘊の別の問答・別の出来事を扱う(石頭希遷は両記事に登場するが、担った役割・問答内容が異なる)。WebSearchで確認: 石頭の『手で口をふさぐ』返答と馬祖の『西江水』の返答が同一問いへの二段階の返答として複数の中国語資料(百度百科・中台山月刊等)で一致して伝わっている。最古の確実な出典は祖堂集(952年、龐蘊は馬祖の法嗣として巻十五に収録)と見られ、景徳伝灯録(1004年)にも同内容が伝わるが、一次資料への直接アクセスはネットワーク制限で確認できず、間接確認に留まる旨を明記。茶道における『一口吸尽西江水』の掛軸・千利休の逸話は日本語の複数サイト(茶席の禅語選等)で言及されているが、伝承の性格上『〜と伝わる』という留保を付けた。"
+source: "新規執筆（禅語シリーズ）。オーナーの依頼(analystエージェントによる既存15記事のView/Read分析)を反映し、場面描写型タイトルで『師の核心の答え・オチをタイトルに明かさない』方針を採用。龐蘊(『運水搬柴』unsuihansaiの主役と同一人物、既出、別の問答・別の出来事を扱う)が石頭希遷に『不與萬法為侶者是甚麼人』(万物のどれとも連れ添わない者とは誰か)と問い、石頭が手で口をふさぎ『豁然有省』(その場ではっきりとした気づきを得た。当初これを『失敗』『決着しなかった』と誤って書いていたが、原文は明確な肯定表現であり、fact-checker(Opus)の指摘を受け『開いたが完成はしていない』という段階的な悟りの構造に訂正)。その後、同じ問いを馬祖道一に投げかけ『一口吸尽西江水』(西江の水を一口で吸い尽くせたら教えよう)という答えを得て大悟したという逸話。fact-checker(Opus)の精査を受け大幅修正済み(2026-09-07): (1)最古の出典を祖堂集(952)と断定し、かつ石頭の場面まで祖堂集に含まれる前提で書いていたが、この問答を最も詳しく伝えるのは龐蘊と同時代の官吏・于頔(?-818)編と伝わる『龐居士語録』であり(現存本は1637年の再刊)、祖堂集(952)には龐蘊が馬祖の法嗣として収録されていることは確認できたが石頭の場面が含まれるかは未確認だったため、最古断定を避け複数の記録を並記する形に訂正。(2)石頭の返答から馬祖の返答までを『二世代あとの書き写し』としていたが没後(808)から祖堂集(952)まで実際には一世紀半・約5世代であり数字の誤りを訂正。(3)本文に『このセッションでは確認できなかった』という制作プロセス上の断りを直接書いていたが、CLAUDE.mdの内部編集マーカー不使用の方針に反するため本文から削除しsource欄に集約。(4)千利休が自らこの句を『最も重い言葉』として挙げたとしていたが、実際の伝承は逆で、利休の参禅の師である大徳寺の古渓宗陳(1532-1597)がこの句を利休に示し、利休はこれによって開けを得たとされる、という向きだったため主体を訂正。(5)タイトルの英訳が『無執着(free of every attachment)』となっており原句の『万法のいずれとも伴侶とならぬ者』とずれていたため『keeps company with nothing at all』に訂正し本文の訳と一致させた。(6)引用符で括った『One gulp, the whole West River』が実際の掛軸の字句の逐語訳ではなかったため引用符を外した。(7)front matterの引用句『待汝一口吸尽西江水，即向汝道』は景徳伝灯録系の字句であり、祖堂集で確認できた形(維基文庫経由、原典未直接照合)は『待居士一口吸盡西江水，我則為你說』と異なり、問いの側『不與萬法為侶者是甚麼人』は龐居士語録の字句(『甚麼』)と一致する一方、景徳伝灯録系は『什麼』である旨をここに明記。定型文衝突(見出し『A question that had already failed once』型が7本目衝突、『A scroll in the tea room』がichigoichieの『tea room』見出しと近接)も解消。一次資料(CBETA/祖堂集原文)への直接アクセスはネットワーク制限で確認できず、WebSearchのスニペット経由の間接確認に留まる。primary Self-Reliance はシリーズ初出。kasui(洞山過水、去っていく師が答えをそのまま手渡せず後から完成する継承の構造)と『師が答えをそのまま渡さない』というテーマで近接するが、本記事は『答えを求める側が、答えの代わりに課題を渡される』という角度で差別化。"
 ---
 
 <!--
@@ -17,25 +17,25 @@ Medium投稿手順:
 2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
 3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
 
-[MEDIUM TITLE] A Visitor Asked to Meet the One Free of Every Attachment. He Was Given a River to Drink Instead
+[MEDIUM TITLE] He Asked Who Keeps Company With Nothing at All. He Was Given a River to Drink Instead
 [MEDIUM SUBTITLE] The Zen Koan "Seikousui" (西江水).
 -->
 
-# A Visitor Asked to Meet the One Free of Every Attachment. He Was Given a River to Drink Instead. The Zen Koan "Seikousui" (西江水).
+# He Asked Who Keeps Company With Nothing at All. He Was Given a River to Drink Instead. The Zen Koan "Seikousui" (西江水).
 
-Layman Pang¹ asked Mazu Daoyi² a question he'd already put to another teacher once, without getting an answer that held: who is the one who keeps no company with anything at all — untouched by every last one of the ten thousand things this world is made of? Mazu told him to come back once he'd swallowed the entire West River in a single gulp. Pang didn't ask what that meant. Something in him gave way on the spot.
+Layman Pang¹ asked Mazu Daoyi² a question he'd already put to another teacher once: who is the one who keeps company with nothing at all — untouched by every last one of the ten thousand things this world is made of? Mazu told him to come back once he'd swallowed the entire West River in a single gulp. Pang didn't ask what that meant. Something in him gave way on the spot.
 
-## A question that had already failed once
+## Shitou's hand, and what came after
 
-The first time Pang asked it, he was standing in front of Shitou Xiqian³, and Shitou answered by pressing a hand over his mouth. It stirred something loose without settling it — Pang left that exchange with a question still open, not a question resolved. By the time he reached Mazu, he wasn't testing a stranger with something clever. He was bringing back a question that had already cost him one unfinished attempt. Mazu didn't finish it either, not in the sense Pang was hoping for. He handed him a chore no living person could complete, and that turned out to be the part that worked: a question built to keep generating more thought got met with something thought had no grip on at all.
+The first time Pang asked it, he was standing in front of Shitou Xiqian³, and Shitou answered by pressing a hand over his mouth. Something opened in Pang right there — the record calls it a clear stirring, not yet the whole of it. He carried the same question forward anyway. By the time he reached Mazu, he wasn't testing a stranger with something clever. He was putting the identical question to a second teacher. Mazu's answer wasn't a continuation of Shitou's gesture. It was a chore no living person could complete, and that turned out to be the piece that finished what Shitou had only started: a question built to keep generating more thought met with something thought had no grip on at all.
 
-## Before the ink dried on either chronicle
+## Recorded by a contemporary, copied by strangers
 
-The earliest surviving record that places this exchange in writing is the Patriarchs' Hall Anthology⁴, compiled well within two centuries of Pang's own lifetime, with Pang listed among Mazu's students. The better-known Jingde-era record of the lamp⁵ preserves close to the same scene a little later. Whether the phrasing is Pang's own or the shape two generations of copyists gave it isn't something either text lets a reader settle from the outside, and a side-by-side check of the earliest manuscripts wasn't something this piece could manage firsthand. What holds across both versions is the discipline of the answer itself: nothing a listener could carry away and repeat as content.
+The fullest account of the exchange sits in Pang's own recorded sayings⁴, traditionally credited to Yu Di⁵, a Tang official who knew him personally — though the copy that survives is a seventeenth-century reprint, centuries removed from any original in his hand. Zutangji⁶, compiled within a century and a half of Pang's death, lists him among Mazu's dharma heirs, though whether that entry includes the earlier scene with Shitou isn't something this record confirms. The Jingde-era record of the lamp⁷ preserves both encounters together, with small variations of its own. What's consistent across all three is simpler than any ranking of which came first: none of them hands a reader content that could be carried away and repeated as an answer.
 
-## A scroll in the tea room
+## What a teacher handed his student, centuries later
 
-The line outlived the temple record it came from. "One gulp, the whole West River" has hung in tea rooms as a scroll for centuries, the kind of phrase a host chooses precisely because a guest can't do anything with it. Sen no Rikyu⁶ is said to have named it among the lines that mattered most to him. Nobody drinks a river during tea. The scroll just hangs there, doing the same job it did the first time it was spoken: refusing to be finished.
+Centuries after, the phrase resurfaced somewhere no monk would have predicted. Kokei Sochin⁸, the Daitokuji abbot who served as Sen no Rikyu's⁹ own Zen teacher, is said to have given him this line, and Rikyu is said to have reached an opening of his own through it. The phrase became fixed as a scroll hung in the tea room — the kind of line a host chooses precisely because a guest can't do anything with it. Nobody drinks a river during tea. The scroll just hangs there, doing the same work it did the first time it was spoken: refusing to be finished.
 
 ## Asking someone senior to skip the water
 
@@ -53,8 +53,11 @@ Pang got his answer, and it wasn't an answer — it was a task built to outlast 
 ¹ Layman Pang (龐蘊, Páng Yùn): born around 740, died 808. Already the subject of a separate exchange with Shitou and a later episode sinking his family's fortune in a river, treated elsewhere in this series; this piece covers a different question, put to a different teacher.
 ² Mazu Daoyi (馬祖道一): 709–788.
 ³ Shitou Xiqian (石頭希遷): 700–790.
-⁴ Zutangji (祖堂集): compiled 952, the earliest surviving Chan history in narrative form.
-⁵ Jingde Chuandenglu (景德傳燈錄): compiled by Daoyuan, presented to the court in 1004.
-⁶ Sen no Rikyu (千利休): 1522–1591.
+⁴ The Recorded Sayings of Layman Pang (龐居士語錄).
+⁵ Yu Di (于頔): d. 818; a Tang-dynasty official traditionally credited as the compiler.
+⁶ Zutangji (祖堂集): compiled 952.
+⁷ Jingde Chuandenglu (景德傳燈錄): compiled by Daoyuan, presented to the court in 1004.
+⁸ Kokei Sochin (古渓宗陳): 1532–1597; abbot of Daitokuji.
+⁹ Sen no Rikyu (千利休): 1522–1591.
 
-*Sources: accounts of Layman Pang (龐蘊, c. 740–808) asking Shitou Xiqian (石頭希遷, 700–790) "who is not a companion of the ten thousand dharmas," receiving a hand pressed over his mouth in reply, then putting the same question to Mazu Daoyi (馬祖道一, 709–788), who answered "wait until you've swallowed the entire West River in one gulp, then I'll tell you" — after which Pang is recorded as reaching full understanding. The exchange appears in the Zutangji (祖堂集, compiled 952), where Pang is listed among Mazu's dharma heirs, and again in the Jingde Chuandenglu (景德傳燈錄, 1004); direct comparison of the earliest manuscript wording wasn't accessible for this piece. The phrase's later use as a tea-ceremony hanging scroll, and its association with Sen no Rikyu (千利休, 1522–1591), reflects a widely repeated tradition rather than a documented historical record.*
+*Sources: accounts of Layman Pang (龐蘊, c. 740–808) asking Shitou Xiqian (石頭希遷, 700–790) "who is not a companion of the ten thousand dharmas," receiving a hand pressed over his mouth in reply, then putting the same question to Mazu Daoyi (馬祖道一, 709–788), who answered "wait until you've swallowed the entire West River in one gulp, then I'll tell you" — after which Pang is recorded as reaching full understanding. The fullest version appears in the Recorded Sayings of Layman Pang (龐居士語錄), traditionally credited to the official Yu Di (于頔, d. 818), in a text surviving only as a 1637 reprint; Pang also appears as a dharma heir of Mazu's in the Zutangji (祖堂集, compiled 952), and the exchange is preserved again in the Jingde Chuandenglu (景德傳燈錄, 1004) — the two later sources phrase the master's line somewhat differently from the Recorded Sayings version quoted above, and direct comparison of the earliest surviving manuscripts wasn't accessible for this piece. The later use of the phrase as a tea-ceremony hanging scroll, and the tradition that Kokei Sochin (古渓宗陳, 1532–1597) gave it to his student Sen no Rikyu (千利休, 1522–1591), reflects a widely repeated account rather than a documented historical record.*
