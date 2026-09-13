@@ -127,9 +127,10 @@
 - 見出し `"The [名詞] you [動詞] yourself"` 型（katsu「The shout you give yourself」/ mu「The certainty you
   manufacture for yourself」/ mukudoku「The ledger you keep on yourself」）。
 - 見出し `"A caveat about the record"` 系（hogejaku / katsu / kissako / muichimotsu で衝突歴あり）。
-- 見出し `"[名詞] nobody [動詞]"` 型（"A challenge nobody in the room could answer" / "The fire nobody else could see" /
+- 見出し `"[名詞] nobody/no one [動詞]"` 型（"A challenge nobody in the room could answer" / "The fire nobody else could see" /
   "A private ledger nobody would ever contest" / "The record nobody asked to see" の4本）。
-  tokusantakuhatsu で検知・回避（2026-08-27、"An unexpected verdict" に変更）。
+  tokusantakuhatsu で検知・回避（2026-08-27、"An unexpected verdict" に変更）。heichuga で執筆直後の自己チェックにより
+  5本目衝突（"The constraint no one checked"）を検知・回避（2026-09-13、"Three walls, arriving as one mandate" に変更）。
 - 見出し `"## Where ..."` 型の記事横断での飽和（16本目衝突を検知）。tairokinpu で
   `"## Where the explaining usually starts"` を `"## What gets built on top of a plain fact"` に変更
   （fact-checker(Opus)の指摘・2026-08-27）。`"## What"` 型と同様、新規記事では増やさない方向を意識する。
@@ -165,7 +166,9 @@
 - 見出し `「誰も/誰の〜」`型の**記事横断での多用**（「誰も獲得する必要のなかった位」「誰も答えられなかった問い」
   「誰もいない部屋での、もうひとつの隻手」「誰も見ていない場所で」「誰も求めていない報告」「誰のためでもない帳簿」
   の6本）。1記事内では1本までという運用だったが、記事横断でも既に6本に達しており新規記事では**極力避ける**。
-  tokusantakuhatsu で検知・回避（2026-08-27、「思いがけない方向から来た評」に変更）。
+  tokusantakuhatsu で検知・回避（2026-08-27、「思いがけない方向から来た評」に変更）。heichuga でも執筆直後の
+  自己チェックにより「誰も同意していなかった制約」を検知・回避（2026-09-13、「三つの壁が、ひとつの命令として
+  降ってくるとき」に変更）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
@@ -285,6 +288,7 @@
    3. yaousu（2026-09-09）
    4. daihisenjugen（2026-09-10）
    5. reiuntoka（2026-09-12）
+   6. heichuga（2026-09-13）
 
    執筆後にタイトルの字数・語数をコードで確認する:
    ```bash
