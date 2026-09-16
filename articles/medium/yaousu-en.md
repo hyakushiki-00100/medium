@@ -17,8 +17,8 @@ Medium投稿手順:
 2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
 3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
 
-[MEDIUM TITLE] A Student Said the Birds Had Already Flown Away. His Teacher Grabbed His Nose and Twisted
-[MEDIUM SUBTITLE] The Zen Koan "Yaousu" (野鴨子).
+[MEDIUM TITLE] A Student Said the Birds Had Already Flown Away.
+[MEDIUM SUBTITLE] His Teacher Grabbed His Nose and Twisted. The Zen Koan "Yaousu" (野鴨子).
 -->
 
 # A Student Said the Birds Had Already Flown Away. His Teacher Grabbed His Nose and Twisted. The Zen Koan "Yaousu" (野鴨子).

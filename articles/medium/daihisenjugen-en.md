@@ -17,8 +17,8 @@ Medium投稿手順:
 2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
 3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
 
-[MEDIUM TITLE] Two Brothers Described the Same Miracle Differently. One Answer Was Graded Only Eighty Percent Complete
-[MEDIUM SUBTITLE] The Zen Koan "Daihi Senju Gen" (大悲千手眼).
+[MEDIUM TITLE] Two Brothers Described the Same Miracle Differently.
+[MEDIUM SUBTITLE] One Answer Was Graded Only Eighty Percent Complete. The Zen Koan "Daihi Senju Gen" (大悲千手眼).
 -->
 
 # Two Brothers Described the Same Miracle Differently. One Answer Was Graded Only Eighty Percent Complete. The Zen Koan "Daihi Senju Gen" (大悲千手眼).

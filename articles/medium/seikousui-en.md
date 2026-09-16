@@ -17,8 +17,8 @@ Medium投稿手順:
 2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
 3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
 
-[MEDIUM TITLE] He Asked Who Keeps Company With Nothing at All. He Was Given a River to Drink Instead
-[MEDIUM SUBTITLE] The Zen Koan "Seikousui" (西江水).
+[MEDIUM TITLE] He Asked Who Keeps Company With Nothing at All.
+[MEDIUM SUBTITLE] He Was Given a River to Drink Instead. The Zen Koan "Seikousui" (西江水).
 -->
 
 # He Asked Who Keeps Company With Nothing at All. He Was Given a River to Drink Instead. The Zen Koan "Seikousui" (西江水).

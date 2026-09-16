@@ -17,8 +17,8 @@ Medium投稿手順:
 2. Medium の Subtitle 欄には、下の [MEDIUM SUBTITLE] の一行をそのまま貼る(140字制限に収まる長さで作成済み)
 3. front matter の title/subtitle フィールドは記事管理・検索用のフル文字列で、Mediumにそのまま貼るものではない
 
-[MEDIUM TITLE] Thirty Years of Searching Found Nothing. One Ordinary Flower, No Different From Countless Others, Finally Did
-[MEDIUM SUBTITLE] The Zen Verse "Reiun Toka" (霊雲桃花).
+[MEDIUM TITLE] Thirty Years of Searching Found Nothing.
+[MEDIUM SUBTITLE] One Ordinary Flower, No Different From Countless Others, Finally Did. The Zen Verse "Reiun Toka" (霊雲桃花).
 -->
 
 # Thirty Years of Searching Found Nothing. One Ordinary Flower, No Different From Countless Others, Finally Did. The Zen Verse "Reiun Toka" (霊雲桃花).

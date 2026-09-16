@@ -207,7 +207,15 @@
    - `subtitle`: "He went to dinner early. When questioned, he said nothing — and that still wasn't enough.
      The Zen Koan \"Tokusan Takuhatsu\" (徳山托鉢)."
      → Medium Subtitle 欄にはこの全文（場面の要約＋識別部分）
-   場面描写型を選んだ場合は、これまで通り `subtitle` は識別部分のみでよい（40字前後で余裕がある）。
+   ⚠️ **場面描写型でも Title 欄には1文(ビート1)だけを入れる**（2026-09-16、オーナーがMedium投稿画面の
+   「Story preview」カードのスクリーンショットで発見。Title 欄に2文(ビート1＋ビート2)をまとめて貼ると、
+   カードには1文目だけが太字見出しとして表示され、2文目が識別部分と地の文でそのまま連結された状態で
+   見出しの下に紛れ込み、"Stick.The Zen Koan..." のように**文の切れ目にスペースすら入らない壊れた表示**に
+   なることが判明。洞察型で既に採用していた「Title＝短い1文、Subtitle＝場面の要約＋識別部分」という
+   構成を、場面描写型にも適用する。すなわち `subtitle` は「ビート2＋識別部分」とし（例: santon
+   `"The Teacher Said He'd Earned Sixty Blows With a Stick. The Zen Koan \"Tozan Santon\" (洞山三頓)."`）、
+   引き続き140字以内に収める。既存の場面描写型7本(seikousui/hakuju/yaousu/daihisenjugen/reiuntoka/
+   heichuga/santon)は[MEDIUM TITLE]/[MEDIUM SUBTITLE]の分割を修正済み(2026-09-16)。
 
    **Medium 投稿時の Title/Subtitle 分割ミスを防ぐため、EN ファイルにも note と同様の投稿手順コメントを
    付ける**（オーナーの投稿画面で `title` フィールドの全文(識別部分込み)がそのまま Title 欄に貼られてしまう
