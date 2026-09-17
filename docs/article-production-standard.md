@@ -141,6 +141,8 @@
 - 見出し `"## Two ..."` 型の記事横断での飽和（10本目衝突を検知）。aisatsu で
   `"## Two characters that both mean..."` を `"## Contact, not conversation"` に変更
   （fact-checker(Opus)の指摘・2026-09-05）。`"## What"` `"## Where"` 型と同様、新規記事では増やさない方向を意識する。
+  ginwan で執筆直後の自己チェックにより「Two more answers, and a teacher who needed nothing else」の
+  10本目衝突を検知・回避（2026-09-17、「A pair of earlier answers, and a teacher who needed nothing else」に変更）。
 - 見出し `"## The version ..."` 型（"The version you're still holding at arm's length" /
   "The version with nothing to show for it" / "The version with no one else in the room" の3本、
   aisatsu の4本目衝突で検知・回避=2026-09-05）。
@@ -165,6 +167,10 @@
   （bashoan / daichi / kanto / mu / mukanjo の 5 本）。nittensuishu・tokusantakuhatsu・kyukyoryutan で
   検知・回避（2026-08-27、メタな前置きの一文を削除し内容を直接書き出す形に変更。7本目衝突）。
   **記事横断で7本に達しているため、新規記事ではこの構文を完全に避け、内容から直接書き出すことを徹底する。**
+  ginwan で「同じことは、もっと小さな規模でも起きています」として8本目衝突をfact-checker(Opus)が検知・回避
+  （2026-09-17、メタな前置きを削除し「人に気づかれる落ち着きと、実際に支えている落ち着きの違いです」から
+  直接書き出す形に変更）。EN側も対応するメタな前置き「This plays out at a smaller scale too」を検知・回避
+  し、内面ビートの内容から直接書き出す形に変更。
 - 見出し `「誰も/誰の〜」`型の**記事横断での多用**（「誰も獲得する必要のなかった位」「誰も答えられなかった問い」
   「誰もいない部屋での、もうひとつの隻手」「誰も見ていない場所で」「誰も求めていない報告」「誰のためでもない帳簿」
   の6本）。1記事内では1本までという運用だったが、記事横断でも既に6本に達しており新規記事では**極力避ける**。
@@ -300,6 +306,7 @@
    5. reiuntoka（2026-09-12）
    6. heichuga（2026-09-13）
    7. santon（2026-09-15）
+   8. ginwan（2026-09-17）
 
    > 10本目に到達し次第、オーナーに振り返りを提案すること。
 
