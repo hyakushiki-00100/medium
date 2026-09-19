@@ -115,6 +115,12 @@
 - 由来ビートを `"The teacher was X, a disciple of Y..."` で始める（fusaku / kissako / masangin / daichi / kanto）。
 - `"There's a version of this..."` を内面ビートの書き出しに使う（byojoshin / ichigoichie / ichigu / kankyakka /
   kissako / mukudoku）。
+  ⚠️ **2026-09-19 fact-checker(Opus)がmosshosekiの精査で実測**: `"There's a ~"` で内面ビートを開始する型は、
+  上記6本に加えてanjin/fusaku/genkan/ichigoichie/ichigu(2箇所)/kankyakka/kissako/kyogen/kyokasuigetsu/
+  masangin(2箇所)/mukudoku/sekishu/shoakumakusa/shujinko/unsuihansaiを含め**記事横断で17本**に達しており、
+  mosshosekiが18本目衝突になるところを検知・回避した（「Closer to home, ...」等の言い換えも「The same」型と
+  機能的に同じメタな橋渡し文のため不可、「An answer produced because...」のように内容から直接書き出す形に
+  変更）。**新規記事では `"There's a"` を内面ビートの書き出しに使わないことを徹底する。**
 - `"The same [名詞] runs/shows up"` 型（"The same trick runs privately"〈daichi〉/ "The same refusal shows up"〈hakuju〉/
   "the same pull shows up"〈masangin〉/ "The same pressure runs privately"〈mu〉/ "The same habit runs inward"
   〈muinoshinnin・nichinichi〉/ "The same pattern shows up"〈senpatsu〉の7本、santon で
@@ -123,6 +129,10 @@
 - 見出し `"## What ..."` 型の記事横断での飽和（20本超）。個別の `"What [X] actually [Y]"` だけでなく
   `"## What"` 全体が主要テンプレ化している。tokusantakuhatsu で `"## What Deshan did with that"` を
   `"## Deshan sends for him"` に変更（2026-08-27）。新規記事では `## What` 見出しを増やさない方向を意識する。
+- 見出し `"## The/A [名詞] that/who [動詞]"` 型（"The answer that trapped him" / "The shout that cut through
+  thinking" / "The record that refuses to elaborate" 等、mosshosekiのfact-checker(Opus)精査で**26本以上**と
+  実測・2026-09-19）。`## What` `## Where` `## Two` `## The version` と同様、記事横断で最も飽和した型の一つ。
+  新規記事では増やさない方向を意識し、可能なら記事固有の名詞・比喩を主語に立てる構文に寄せる。
 - `"There's a private version/edition/shape of..."` を内面ビートの書き出しに使う（mukudoku / sekishu / nittensuishu）。
   nittensuishu で検知・回避（2026-08-27、内容を直接書き出す形に変更）。
 - 見出し `"What [X] actually [Y]"` 型（masangin / muichimotsu / ukiseikou）。
@@ -176,7 +186,9 @@
   の6本）。1記事内では1本までという運用だったが、記事横断でも既に6本に達しており新規記事では**極力避ける**。
   tokusantakuhatsu で検知・回避（2026-08-27、「思いがけない方向から来た評」に変更）。heichuga でも執筆直後の
   自己チェックにより「誰も同意していなかった制約」を検知・回避（2026-09-13、「三つの壁が、ひとつの命令として
-  降ってくるとき」に変更）。
+  降ってくるとき」に変更）。mosshoseki でfact-checker(Opus)が9本目衝突（内面ビート書き出し「もっと身近な場所にも、
+  同じ隔たりがあります」）を検知（2026-09-19、メタな前置きを削除し「『これが分かっている人ならこう言うはずだ』
+  という理由で組み立てられた答えと…」から直接書き出す形に変更）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
@@ -308,6 +320,7 @@
    7. santon（2026-09-15）
    8. ginwan（2026-09-17）
    9. jofukyo（2026-09-17、仏教語シリーズ）
+   10. mosshoseki（2026-09-19）→ **10本目到達。振り返りのタイミング。**
 
    > 10本目に到達し次第、オーナーに振り返りを提案すること。
 
