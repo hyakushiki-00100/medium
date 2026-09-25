@@ -133,6 +133,9 @@
   thinking" / "The record that refuses to elaborate" 等、mosshosekiのfact-checker(Opus)精査で**26本以上**と
   実測・2026-09-19）。`## What` `## Where` `## Two` `## The version` と同様、記事横断で最も飽和した型の一つ。
   新規記事では増やさない方向を意識し、可能なら記事固有の名詞・比喩を主語に立てる構文に寄せる。
+  seiten で執筆直後の自己チェックにより「An evening judged against what it was supposed to be」に
+  改題した見出しがこの型に近づいていたが、内容を主語に立てる構文で回避。最終稿には「A queen who trusted
+  her eyes over the reports」の1本のみ残り、単発は許容範囲としてそのまま採用（2026-09-25）。
 - `"There's a private version/edition/shape of..."` を内面ビートの書き出しに使う（mukudoku / sekishu / nittensuishu）。
   nittensuishu で検知・回避（2026-08-27、内容を直接書き出す形に変更）。
 - 見出し `"What [X] actually [Y]"` 型（masangin / muichimotsu / ukiseikou）。
@@ -188,7 +191,10 @@
   自己チェックにより「誰も同意していなかった制約」を検知・回避（2026-09-13、「三つの壁が、ひとつの命令として
   降ってくるとき」に変更）。mosshoseki でfact-checker(Opus)が9本目衝突（内面ビート書き出し「もっと身近な場所にも、
   同じ隔たりがあります」）を検知（2026-09-19、メタな前置きを削除し「『これが分かっている人ならこう言うはずだ』
-  という理由で組み立てられた答えと…」から直接書き出す形に変更）。
+  という理由で組み立てられた答えと…」から直接書き出す形に変更）。seiten でも執筆直後の自己チェック・
+  fact-checker(Opus)双方が「似たようなことは、たった一晩の中でも起こります。」という10本目相当の衝突を検知
+  （2026-09-25、内面ビートの冒頭からこの一文を削除し「夕食も、電話も、一人で過ごす静かな時間も…」から
+  直接書き出す形に変更。コミット前に検知・修正したためカウントは9本のまま据え置き）。
 
 見出しと同様、**執筆前に `grep -n "^## " articles/medium/*.md` に加えて、上記のセンテンス断片で
 `grep` して既出でないか確認する**（例: `grep -rn "Worth being" articles/medium/*.md`）。
@@ -330,6 +336,7 @@
    > 同様に振り返りを提案すること。
 
    **場面描写型タイトル使用実績・第2クール（2026-09-23〜）**:
+   1. seiten（2026-09-25）
 
    > 10本に達したら同様に振り返りを提案すること。
 
