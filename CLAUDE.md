@@ -48,6 +48,9 @@ Gumroad の商品へ誘導する**ための AI エージェント・チームを
 - **記事制作標準**: [`docs/article-production-standard.md`](docs/article-production-standard.md)。
   禅語シリーズの8ビート構成・語数目安・話者ペルソナ・脚注スタイル・タイトル長の目安・
   定型文/見出しの使い回し回避リスト・標準制作フロー(fact-checker 自動呼び出しを含む)。
+- **note 版(JA)の自然さ・再発防止策**: [`docs/ja-naturalness-prevention.md`](docs/ja-naturalness-prevention.md)。
+  英語の比喩の直訳(「握力より長生きした会議」型)が出る原因と対策。JA 見出しは EN 見出しから作らない・
+  直すときは平叙文にする・commit 前に EN を見ない `ja-reader` に JA だけを読ませる。**JA を書く前に必ず読む。**
 - **X(Twitter)スレッド制作ルール**: [`social/README.md`](social/README.md)。
   Medium/note 記事から X スレッドを作る際の注意点。番号付きリストの誤リンク化バグ、
   文字数チェック(EN は URL 固定23字・JA は全角2字/半角1字の重み付け)、引用の逐語性、
@@ -62,6 +65,7 @@ Gumroad の商品へ誘導する**ための AI エージェント・チームを
 | `publication-scout` | 寄稿先 Publication の選定・応募方針・商用リンク規約の確認 |
 | `article-qa` | CTA/リンク・**確信度ラベルの残存ゼロ**・composite 明示・重複章チェック・語数検証 |
 | `fact-checker` | 禅語シリーズの新規記事(EN/JA)を書き終えた直後に **Opus で自動精査**。出典の前後関係・引用の逐語性・断定過多・定型文衝突を再検証(指摘のみ、適用はオーナー) |
+| `ja-reader` | fact-checker 反映・推敲パスのあと、**EN を見せずに JA だけを**読ませ、ネイティブの日本人なら使わない表現(英語の比喩の直訳等)を挙げさせる(指摘のみ、適用は呼び出し元) |
 | `analyst` | 記事の閲覧/クリック/流入の振り返りと次の切り口提案 |
 
 ## 非交渉の品質基準
