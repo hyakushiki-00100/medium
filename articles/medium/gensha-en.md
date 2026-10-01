@@ -8,7 +8,7 @@ tags: ["Contentment", "Self Improvement", "Mindfulness", "Career", "Zen"]
 created: 2026-10-01
 published_url: ""
 cover: "../covers/gensha.png"
-source: "新規執筆（禅語シリーズ・場面描写型タイトル第2クール5本目）。玄沙の答え(『達磨不來東土，二祖不往西天』)の中身をタイトルに明かさない方針を継続。CBETA XML原文(raw.githubusercontent.com/cbeta-org/xml-p5)を執筆者自身が直接照合: 景徳伝灯録T51n2076(1004)巻十八玄沙章は『幼好垂釣…唐咸通初年甫三十…棄釣舟…雪峯以其苦行呼為頭陀…異日雪峯召曰：備頭陀何不遍參去。師曰：達磨不來東土二祖不往西天。雪峯然之』で、出嶺して脚指を打つ場面は無い。五灯会元X80n1565(1252)も同様に無い。碧巌録T48n2003(c.1125)第78則評唱に『玄沙過嶺。磕著脚指頭』と既知の話として言及。聯燈會要X79n1557(1183)に『後欲徧歷諸方參尋知識，携囊出嶺，築著脚指頭，流血痛楚，忽然猛省曰：是身非有，痛自何來？即回雪峰』と完全な場面があり、続けて『達磨不來東土』の問答を置く(明代の玄沙語録X73n1446も同形)。本文では『最初の記録』とは書かず、1004年には問答だけ、c.1125に言及、1183年に完全な場面、と層で示す。玄沙師備(835-908、景徳伝灯録『梁開平二年…壽七十有四』)、雪峰義存(822-908)。『是身非有，痛自何來』は両様に読めるため直訳を示し解釈を断定しない。『達磨不來東土』の意味は史実(達磨は来た)と逆の言い方であることを示し、解釈は『よく読まれる読み』として留保。primary Contentment はシリーズ初出。文化的具体物としてセネカ『倫理書簡集』第28書簡(旅をしても憂鬱が晴れないと嘆くルキリウスに、ソクラテスの『いつも自分を連れて歩いているのに、旅が役に立たないのを不思議がるのか』を引く)を対比。近接記事: kankyakka(看脚下、足元の一歩)・senpatsu(特別な指導を求める)・kyukyoryutan(まだ生きていない人生のために助言を集める)と近いが、本記事は『答えを求めて場所を移しても、自分は一緒についてくる』という角度で差別化。職場ビートはIT用語を使わない(saishoのja-reader指摘を反映)。"
+source: "新規執筆（禅語シリーズ・場面描写型タイトル第2クール5本目）。玄沙の答え(『達磨不來東土，二祖不往西天』)の中身をタイトルに明かさない方針を継続。CBETA XML原文を執筆者が照合したうえで、fact-checker(Opus)がさらに広く照合し指摘を反映(2026-10-01): (1)【前後関係の誤り】初稿は『1004年は問答のみ→c.1125に言及→1183年に完全な場面』としていたが、祖堂集B25n0144(952初編、現存1245高麗版)巻十玄沙章に『雪峰一日諕曰：備頭陀未曾經歷諸方，何妨看一轉乎？如是得四度。師見和尚切，依和尚處分，裝裹一切了，恰去到嶺上踢著石頭，忽然大悟。後失聲云：達摩不過來，二祖不傳持。又上大樹望見江西了…便歸雪峰。雪峰…問師：教你去江西，那得與摩迴速乎？師對云：到了也』と、より古い別形があった(執筆者が後代の字句『築著脚』『不來東土』で検索したため見落とした。原文で再確認済み)。問答のみの系統は林澂撰の宗一大師碑文(玄沙広録X73n1445所収、930年以降)と景徳伝灯録T51n2076(1004)。痛みの句を伴う完全な形は大慧『正法眼蔵』X67n1309(c.1147、『築著脚指…是身非有，痛從何來？便回雪峯』)と聯燈會要X79n1557(1183、『築著脚指頭…忽然猛省曰：是身非有，痛自何來？即回雪峰』)。冒頭の場面はこの宋代の形に拠ると本文で明示し、どれが最初かは断定しない。天聖広灯録(1036)に『玄沙不出嶺，寶壽不過河』が成句として既出。碧巌録第78則評唱『玄沙過嶺。磕著脚指頭』は既知の話への言及。(2)『記録はどちらとも決めず引き返したことしか書いていない』は、原文が『忽然猛省/忽然大悟』と目覚めとして書いているため訂正。(3)『by every traditional account』は洛陽伽藍記が波斯國胡人とするため『by the traditional account』に。(4)『split his toe open』『on the first stretch of the road』は原文にないため削除(原文は『築著脚指，流血痛楚』、石は祖堂集の『踢著石頭』にのみ)。(5)結びで解釈を玄沙の発言として書いていたため『His answer amounted to saying』に。(6)見出し『The trip that was supposed to fix it』は飽和型のため変更、『One story, three dates』は前提が崩れたため変更。玄沙師備(835-908)、雪峰義存(822-908)、慧可(伝統的に487-593)、聯燈會要(悟明、1183)、セネカ第28書簡(Animum debes mutare, non caelum／quid miraris nihil tibi peregrinationes prodesse, cum te circumferas?)は確認済み。primary Contentment はシリーズ初出。玄沙はreiuntokaに評者として既出、主役としては初。近接記事: kankyakka・senpatsu・kyukyoryutan と近いが、答えを求めて場所を移しても自分は一緒についてくるという角度で差別化(kantoの『止まらず進め』とは対比として許容)。"
 ---
 
 <!--
@@ -23,21 +23,23 @@ Medium投稿手順:
 
 # A Monk Left to Find Other Teachers and Stubbed His Toe on the Way. He Turned Back, and Later Gave a Two-Line Reason for Never Leaving. The Zen Phrase "Daruma Todo ni Kitarazu" (達磨不来東土).
 
-Xuansha¹ had decided to leave his teacher, Xuefeng², and travel the country to study with every teacher worth meeting. He shouldered his bag and set off over the mountain pass. Before he was across, he caught his foot on a rock and split his toe open. It bled, and it hurt. "This body isn't real," he said. "So where is the pain coming from?" He turned around and went back. Some time later, Xuefeng asked him why he never went off to study elsewhere. Xuansha answered: "Bodhidharma didn't come to the East. The Second Patriarch didn't go to the West."
+Xuansha¹ had decided to leave his teacher, Xuefeng², and travel the country to study with every teacher worth meeting. He shouldered his bag and set off over the mountain pass. Before he was across, he stubbed his toe hard enough to bleed, and it hurt. "This body isn't real," he said. "So where is the pain coming from?" He turned around and went back. Some time later, Xuefeng asked him why he never went off to study elsewhere. Xuansha answered: "Bodhidharma didn't come to the East. The Second Patriarch didn't go to the West."
 
 ## A bag packed for somewhere else
 
-The plan itself was sensible. Traveling between teachers was what serious monks did, and Xuansha was serious; Xuefeng called him "the ascetic" because of how hard he practiced. What stopped him was a rock and a bleeding toe, on the first stretch of the road.
+The plan itself was sensible. Traveling between teachers was what serious monks did, and Xuansha was one of them; Xuefeng called him "the ascetic" because of how hard he practiced. What stopped him was a bleeding toe on the road out.
 
-His line about the pain is short enough to read two ways. One reading takes the first half as a doctrine he'd learned, that the body has no lasting reality, and the second half as the doctrine failing its first test: the toe hurt anyway. Another reading takes the whole sentence as the moment he noticed that whatever he was setting out to find was already here, in the one place the pain was happening. The record doesn't choose. It only says that he went back.
+The record presents his line about the pain as a sudden awakening, but it doesn't say what he saw, and the sentence is short enough to read two ways. One reading takes the first half as a doctrine he'd learned, that the body has no lasting reality, and the second half as that doctrine meeting the actual pain and not getting very far. Another takes the whole sentence as the moment he noticed that whatever he was setting out to find was already here, in the one place the pain was happening. Either way, the next thing he did was go back.
 
 ## Bodhidharma, told backwards
 
-Bodhidharma³ did come to China from India, by every traditional account, and Huike⁴, the Second Patriarch, never needed to go to India because the teaching came to him. So Xuansha's answer reverses the history on purpose. It's most often read as saying that what Bodhidharma brought was never really a thing carried from one country to another, and that Huike found it where he already was. Xuefeng, the record says, agreed.
+By the traditional account, Bodhidharma³ did come to China from India, and Huike⁴, the Second Patriarch, never needed to go to India because the teaching came to him. So Xuansha's answer reverses the history on purpose. It's most often read as saying that what Bodhidharma brought was never really a thing carried from one country to another, and that Huike found it where he already was. Xuefeng, the record says, agreed.
 
-## One story, three dates
+## Sent off by his teacher, in the oldest record
 
-Xuansha Shibei⁵ (835–908) spent his youth fishing from a small boat on a river near Fuzhou and left the boat for the monastery at about thirty; Xuefeng Yicun⁶ (822–908) was a fellow student who became his teacher in practice. The Jingde-era record of the lamp⁷, compiled in 1004, has the exchange about Bodhidharma, but no journey and no toe: Xuefeng simply asks why he doesn't go, and Xuansha answers. By the time of the Blue Cliff Record⁸, around 1125, the stubbed toe is mentioned in passing as a story readers already knew. The full scene, with the bag, the pass, the blood and the line about the pain, is found in the Essentials of the Collected Lamp⁹, compiled in 1183.
+Xuansha Shibei⁵ (835–908) was fond of fishing from a small boat on a river near Fuzhou as a young man and became a monk at around thirty; Xuefeng Yicun⁶ (822–908) was his senior from the same teacher, whom Xuansha came to treat as his own master.
+
+The scene above follows a Song dynasty form, found in Dahui's Treasury of the True Dharma Eye⁷ (around 1147) and the Essentials of the Collected Lamp⁸ (1183). The oldest surviving telling, in the Anthology of the Patriarchal Hall⁹, first compiled in 952, is shaped differently. There it's Xuefeng who urges him to go, four times. Xuansha packs, reaches the top of the pass, catches his foot on a stone and has his awakening on the spot, saying that Bodhidharma never came over and the Second Patriarch never carried anything on. He climbs a tree, looks out toward the province he'd been heading for, and walks back. Xuefeng asks how he could be back so soon. "I got there," Xuansha says. Other early records, including the Jingde-era record of the lamp¹⁰ of 1004, keep only the later question and answer, with no journey at all. By the 1030s, "Xuansha never left the mountains" was already a stock phrase other teachers used in their own answers.
 
 ## You take yourself with you
 
@@ -47,23 +49,24 @@ The Roman philosopher Seneca, writing to his friend Lucilius (Letters, 28), answ
 
 Someone leaves a job because the manager never listens. At the next company, after a year, it's the same complaint about a different manager; at the third, the same again. Some of that may be bad luck. But when the same frustration follows a person through three offices, the one thing all three had in common is worth a look. Changing jobs is sometimes the right call. It's a poor substitute for finding out what came along in the bag.
 
-## The trip that was supposed to fix it
+## A week at the coast
 
 A week at the coast is planned as a reset. By the third day, the same worries are back, now with a better view. The trip wasn't wasted; rest is real. It just couldn't do the part of the work that has to happen wherever you are, which is noticing what you're carrying.
 
 ## In closing
 
-Xuansha meant to go looking for the teaching somewhere else, and a rock on the path sent him back before he'd left the mountains. When he was asked about it later, he didn't describe the journey he'd missed. He said that even Bodhidharma, in a sense, had never had to make it.
+Xuansha meant to go looking for the teaching somewhere else, and a stubbed toe sent him back before he'd left the mountains. When he was asked about it later, he didn't describe the journey he'd missed. His answer amounted to saying that even Bodhidharma, in a sense, had never had to make it. In the oldest version, he put it more briefly still: he'd already got there.
 
 ---
 ¹ Xuansha Shibei (玄沙師備): 835–908.
 ² Xuefeng Yicun (雪峰義存): 822–908; Xuansha's teacher.
-³ Bodhidharma (菩提達磨): the semi-legendary Indian monk traditionally regarded as the first patriarch of Chan in China.
-⁴ Huike (慧可): 487–593; Bodhidharma's successor, the Second Patriarch.
+³ Bodhidharma (菩提達磨): the semi-legendary monk traditionally regarded as the first patriarch of Chan in China.
+⁴ Huike (慧可): traditional dates 487–593; Bodhidharma's successor, the Second Patriarch.
 ⁵ See note 1.
 ⁶ See note 2.
-⁷ Jingde Chuandenglu (景德傳燈錄): compiled by Daoyuan, presented to the court in 1004.
-⁸ Blue Cliff Record (碧巖錄): Yuanwu Keqin's commentary on Xuedou's verses, completed around 1125.
-⁹ Essentials of the Collected Lamp (聯燈會要): compiled by Wuming, 1183.
+⁷ Treasury of the True Dharma Eye (正法眼藏): a collection of cases compiled by Dahui Zonggao, usually dated 1147.
+⁸ Essentials of the Collected Lamp (聯燈會要): compiled by Wuming, 1183.
+⁹ Anthology of the Patriarchal Hall (祖堂集): first compiled 952; the surviving text is a Korean edition of 1245.
+¹⁰ Jingde Chuandenglu (景德傳燈錄): compiled by Daoyuan, presented to the court in 1004.
 
-*Sources: Xuansha Shibei's (玄沙師備) answer to Xuefeng Yicun (雪峰義存) in the Jingde Chuandenglu (景德傳燈錄, 1004); the passing mention of the stubbed toe in the commentary of the Blue Cliff Record (碧巖錄, c. 1125); the full account of the journey, the injury and the return in the Essentials of the Collected Lamp (聯燈會要, 1183); Seneca, Letters to Lucilius 28.*
+*Sources: the account of Xuansha Shibei (玄沙師備) setting out from Xuefeng Yicun (雪峰義存) and turning back on the pass, in the Anthology of the Patriarchal Hall (祖堂集, first compiled 952); the question and answer about Bodhidharma in the Jingde Chuandenglu (景德傳燈錄, 1004); the form with the stubbed toe and the line about pain in Dahui's Treasury of the True Dharma Eye (正法眼藏, c. 1147) and the Essentials of the Collected Lamp (聯燈會要, 1183); Seneca, Letters to Lucilius 28.*
