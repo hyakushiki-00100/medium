@@ -355,6 +355,7 @@ JOBS_BUDDHIST = [
     ("tarikihongan", "他力本願", "仏教語"),
     ("chudo", "中道", "仏教語"),
     ("jofukyo", "常不軽", "仏教語"),
+    ("sokushin", "即身成仏", "仏教語"),
 ]
 
 if __name__ == "__main__":

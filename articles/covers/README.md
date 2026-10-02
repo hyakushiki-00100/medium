@@ -68,6 +68,7 @@
 | `tarikihongan.png` | 1280×720 | 他力本願 / tarikihongan（**仏教語シリーズ**。ichigu と同じ生成り色背景・琥珀色アクセント・法輪モチーフ・ラベル「仏教語」） |
 | `chudo.png` | 1280×720 | 中道 / chudo（**仏教語シリーズ**。ichigu と同じ生成り色背景・琥珀色アクセント・法輪モチーフ・ラベル「仏教語」） |
 | `jofukyo.png` | 1280×720 | 常不軽 / jofukyo（**仏教語シリーズ**。ichigu と同じ生成り色背景・琥珀色アクセント・法輪モチーフ・ラベル「仏教語」） |
+| `sokushin.png` | 1280×720 | 即身成仏 / sokushin（**仏教語シリーズ**。ichigu と同じ生成り色背景・琥珀色アクセント・法輪モチーフ・ラベル「仏教語」） |
 
 > カバー仕様（ブランドカラー・構図・フォント）は
 > [`../../docs/article-production-standard.md`](../../docs/article-production-standard.md) を参照。
