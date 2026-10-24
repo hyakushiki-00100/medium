@@ -348,6 +348,7 @@
    6. sokushin（2026-10-02、仏教語シリーズ）
    7. kenren（2026-10-07）
    8. yuzan（2026-10-08）
+   9. suigan（2026-10-24）
 
    > 10本に達したら同様に振り返りを提案すること。
 
@@ -492,6 +493,7 @@ for l in lines:
 - カバー生成スクリプトはリポジトリ内 [`../tools/build_covers.py`](../tools/build_covers.py)。
   `python3 tools/build_covers.py <slug>` で再生成（無指定で全件、`COVER_OUT_DIR` で出力先上書き）。
   依存: numpy / scipy / Pillow、フォント: `NotoSerifCJK-Black.ttc`。字数に応じ字サイズを自動調整するため、
+  ⚠️ **コンテナが作り直されると依存が消える**(2026-09-25・2026-10-24の2回発生)。復旧手順: `python3 -m pip install numpy Pillow scipy`(`pip` 単体はシステムの別バージョンのPythonを指すことがあるので必ず `python3 -m pip`)。`ImportError: cannot import name '_imaging'` が出たら、システム側のPillowが別バージョン用なので `python3 -m pip install --ignore-installed Pillow`。フォントは `apt-get install -y fonts-noto-cjk-extra`。
   **縦 1 列のまま任意字数に対応**（長い禅語もカバーは正式名のまま。都度、崩れれば字サイズ/字間で調整）。
 - **シリーズごとのデザイン差別化（サムネイルだけで見分けられることが必須）**: 禅語シリーズは `JOBS`
   リスト・ラベル「禅語」・背景 `#F7F5F0`・アクセント `#2C3E50`（ネイビー）・モチーフ無し（プレーン）で固定。
